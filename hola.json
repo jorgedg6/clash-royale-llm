@@ -1,0 +1,28 @@
+{
+  "seleccion": ["Bola de Fuego", "Esqueletos", "Arqueras"],
+  "detalle": [
+    {
+      "carta": "Bola de Fuego",
+      "rol": "hechizo grande",
+      "sinergiasCon": ["Montapuercos", "Mosketeer", "Tronco"],
+      "cubreDebilidad": ["daño en área", "respuesta a tropas agrupadas"],
+      "impactoElixir": {"antes": 2.6, "despues": 2.9}
+    },
+    {
+      "carta": "Esqueletos",
+      "rol": "ciclo/soporte",
+      "sinergiasCon": ["Montapuercos", "Cañón", "Espíritu de Hielo"],
+      "cubreDebilidad": ["ciclo rápido", "distracción de tropas"],
+      "impactoElixir": {"antes": 2.6, "despues": 2.7}
+    },
+    {
+      "carta": "Arqueras",
+      "rol": "respuesta aérea",
+      "sinergiasCon": ["Montapuercos", "Mosketeer", "Cañón"],
+      "cubreDebilidad": ["anti-aéreo adicional", "soporte defensivo"],
+      "impactoElixir": {"antes": 2.6, "despues": 2.8}
+    }
+  ],
+  "resumen": "El mazo final es un ciclo rápido centrado en el Montapuercos como condición de victoria, con soporte defensivo sólido y herramientas para controlar tropas agrupadas y aéreas.",
+  "n": 3
+}

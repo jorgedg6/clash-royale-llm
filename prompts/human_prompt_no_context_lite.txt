@@ -1,0 +1,47 @@
+<Prompt>
+  <Inputs>
+    <Variable name="CARTAS_DISPONIBLES" type="array[string]">
+      $CARTAS_DISPONIBLES%
+    </Variable>
+    <Variable name="CARTAS_SELECCIONADAS" type="array[string]">
+      $CARTAS_SELECCIONADAS%
+    </Variable>
+  </Inputs>
+
+  <Task>
+    Dado CARTAS_DISPONIBLES y CARTAS_SELECCIONADAS, selecciona las mejores
+    (8 - |CARTAS_SELECCIONADAS|) cartas en ORDEN DE PRIORIDAD para completar el mazo a 8.
+    Si |CARTAS_SELECCIONADAS| == 8, devuelve una selección vacía.
+  </Task>
+
+  <Constraints>
+    <Rule>No propongas cartas fuera de CARTAS_DISPONIBLES.</Rule>
+    <Rule>No repitas cartas que ya estan en CARTAS_SELECCIONADAS.</Rule>
+    <Rule>El mazo final debe tener exactamente 8 cartas en total, ni mas ni menos.</Rule>
+    <Rule>Devuelve en el JSON solamente las cartas nuevas que seleccionaste.</Rule>
+  </Constraints>
+
+  <ReasoningGuidelines>
+    <Step>Identifica el arquetipo implícito en CARTAS_SELECCIONADAS (p. ej., ciclo, beatdown, control, bridge spam, bait).</Step>
+    <Step>Detecta vacíos de rol y debilidades (p. ej., falta de anti-aéreo, ausencia de hechizo grande/pequeño, carencia de reset).</Step>
+    <Step>Prioriza cartas que:
+      <Criterion>Potencien la condición de victoria existente o añadan una complementaria si falta.</Criterion>
+      <Criterion>Cubran amenazas comunes (enjambres, tanques, win-cons rápidas, aéreo).</Criterion>
+      <Criterion>Mejoren matchups sinérgicos sin inflar demasiado el coste medio.</Criterion>
+    </Step>
+  </ReasoningGuidelines>
+
+  <OutputFormat>
+    Devuelve únicamente un objeto JSON válido con este esquema:
+    <![CDATA[
+    {
+      "seleccion": [ "<carta_1>", "<carta_2>", "... hasta N" ]
+    }
+    ]]>
+  </OutputFormat>
+
+  <Style>
+    <Rule>Lenguaje conciso y técnico.</Rule>
+    <Rule>No incluyas texto extra fuera del JSON especificado.</Rule>
+  </Style>
+</Prompt>

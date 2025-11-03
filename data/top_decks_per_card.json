@@ -1,0 +1,849 @@
+{
+  "Knight": [
+    "Graveyard,Knight,Ice Wizard,Witch,Goblin Hut,Vines,Poison,Barbarian Barrel",
+    "Balloon,Miner,Little Prince,Knight,Bats,Goblin Cage,Rage,Arrows",
+    "Mortar,Bandit,Knight,Archers,Ice Spirit,Inferno Tower,Rocket,Arrows",
+    "Three Musketeers,Battle Ram,Royal Ghost,Bandit,Knight,Hunter,Elixir Collector,Barbarian Barrel",
+    "Graveyard,Knight,Ice Golem,Bowler,Electro Wizard,Inferno Tower,Poison,The Log"
+  ],
+  "Archers": [
+    "X Bow,Ice Golem,Archers,Skeletons,Fire Spirit,Tesla,Fireball,The Log",
+    "Graveyard,Knight,Mega Minion,Archers,Skeletons,Tombstone,Poison,The Log",
+    "Golem,Bandit,Night Witch,Baby Dragon,Archers,Skeletons,Lightning,The Log",
+    "Mortar,Knight,Archers,Goblins,Ice Spirit,Rocket,Tornado,The Log",
+    "Mortar,Knight,Princess,Archers,Skeletons,Ice Spirit,Poison,The Log"
+  ],
+  "Goblins": [
+    "Giant,Electro Wizard,Night Witch,Mega Minion,Goblins,Tombstone,Poison,Zap",
+    "Giant,Hog Rider,Musketeer,Minions,Goblins,Skeletons,Fireball,Zap",
+    "Three Musketeers,Battle Ram,Bandit,Minion Horde,Goblins,Ice Spirit,Heal Spirit,Elixir Collector",
+    "Ram Rider,Monk,Lumberjack,Magic Archer,Inferno Dragon,Goblins,Fireball,Barbarian Barrel",
+    "Goblin Giant,Goblin Barrel,Dart Goblin,Goblin Gang,Goblins,Goblin Cage,Arrows,The Log"
+  ],
+  "Giant": [
+    "Giant,Miner,Bandit,Night Witch,Minion Horde,Minions,Fireball,Zap",
+    "Giant,Hog Rider,Musketeer,Barbarians,Minions,Elixir Collector,Fireball,Zap",
+    "Giant,Miner,Musketeer,Minion Horde,Minions,Fireball,The Log,Zap",
+    "Giant,Prince,Dark Prince,Magic Archer,Mega Minion,Ice Spirit,Poison,Zap",
+    "Giant,Electro Wizard,Mega Minion,Minions,Skeletons,Elixir Collector,Fireball,Zap"
+  ],
+  "P.E.K.K.A": [
+    "Miner,Pekka,Bandit,Hunter,Bats,Ice Spirit,Poison,Zap",
+    "Battle Ram,Pekka,Magic Archer,Minions,Dart Goblin,Ice Spirit,Poison,Zap",
+    "Battle Ram,Pekka,Bandit,Electro Wizard,Zappies,Flying Machine,Fireball,Zap",
+    "Mega Knight,Pekka,Valkyrie,Wizard,Baby Dragon,Firecracker,Tornado,The Log",
+    "Hog Rider,Pekka,Electro Wizard,Minions,Skeletons,Poison,The Log,Zap"
+  ],
+  "Minions": [
+    "Golem,Night Witch,Baby Dragon,Minions,Skeletons,Tombstone,Lightning,The Log",
+    "Battle Ram,Royal Recruits,Lumberjack,Inferno Dragon,Minions,Ice Spirit,Fireball,Zap",
+    "Hog Rider,Pekka,Electro Wizard,Minions,Skeletons,Poison,The Log,Zap",
+    "Giant,Balloon,Minion Horde,Minions,Skeleton Army,Skeletons,Freeze,Arrows",
+    "Hog Rider,Royal Ghost,Ice Golem,Inferno Dragon,Minions,Guards,Poison,Zap"
+  ],
+  "Balloon": [
+    "Balloon,Miner,Ice Golem,Musketeer,Skeletons,Bomb Tower,Vines,Barbarian Barrel",
+    "Balloon,Miner,Rascals,Ice Golem,Bats,Inferno Tower,Barbarian Barrel,Giant Snowball",
+    "Balloon,Lumberjack,Bowler,Inferno Dragon,Electro Dragon,Freeze,Tornado,Barbarian Barrel",
+    "Lava Hound,Balloon,Mini Pekka,Mega Minion,Minions,Fireball,Royal Delivery,Zap",
+    "Balloon,Ice Golem,Musketeer,Minions,Skeleton Army,Tombstone,Fireball,Zap"
+  ],
+  "Witch": [
+    "Golem,Bandit,Witch,Night Witch,Inferno Dragon,Fire Spirit,Poison,Tornado",
+    "Graveyard,Valkyrie,Witch,Zappies,Goblin Hut,Freeze,Mirror,Barbarian Barrel",
+    "Skeleton Barrel,Giant Skeleton,Witch,Bats,Firecracker,Electro Spirit,Bomb Tower,Tornado",
+    "Elite Barbarians,Witch,Night Witch,Skeleton Army,Goblins,Rage,Poison,Zap",
+    "Goblin Drill,Wall Breakers,Skeleton Barrel,Valkyrie,Witch,Mega Minion,Skeletons,Barbarian Barrel"
+  ],
+  "Barbarians": [
+    "Hog Rider,Goblin Barrel,Barbarians,Minion Horde,Goblins,Spear Goblins,Arrows,Zap",
+    "Hog Rider,Mini Pekka,Musketeer,Barbarians,Inferno Dragon,Arrows,Giant Snowball,Zap",
+    "Lava Hound,Miner,Spirit Empress,Barbarians,Flying Machine,Tombstone,Goblin Curse,Zap",
+    "Golem,Lumberjack,Barbarians,Electro Dragon,Skeleton Dragons,Elixir Collector,Tornado,Barbarian Barrel",
+    "Goblin Giant,Goblin Demolisher,Barbarians,Dart Goblin,Goblin Gang,Goblin Cage,Arrows,The Log"
+  ],
+  "Golem": [
+    "Golem,Elite Barbarians,Lumberjack,Night Witch,Mega Minion,Bomber,Arrows,Zap",
+    "Golem,Lumberjack,Night Witch,Guards,Ice Spirit,Elixir Collector,Poison,Zap",
+    "Golem,Lumberjack,Night Witch,Baby Dragon,Mega Minion,Poison,Barbarian Barrel,Giant Snowball",
+    "Golem,Electro Wizard,Furnace,Baby Dragon,Minions,Skeletons,Lightning,The Log",
+    "Golem,Cannon Cart,Lumberjack,Baby Dragon,Mega Minion,Poison,Tornado,Barbarian Barrel"
+  ],
+  "Skeletons": [
+    "Mortar,Miner,Mighty Miner,Musketeer,Skeletons,Fire Spirit,Fireball,The Log",
+    "X Bow,Mortar,Skeletons,Ice Spirit,Tesla,Bomb Tower,Earthquake,The Log",
+    "Balloon,Skeleton Barrel,Knight,Archers,Skeletons,Inferno Tower,The Log,Giant Snowball",
+    "Goblin Drill,Knight,Bomber,Skeletons,Ice Spirit,Tesla,Poison,The Log",
+    "Golem,Little Prince,Fisherman,Skeletons,Ice Spirit,Heal Spirit,Poison,The Log"
+  ],
+  "Valkyrie": [
+    "Hog Rider,Fisherman,Valkyrie,Skeletons,Ice Spirit,Electro Spirit,Earthquake,The Log",
+    "Graveyard,Valkyrie,Bowler,Mega Minion,Archers,Inferno Tower,Freeze,Arrows",
+    "Royal Hogs,Valkyrie,Magic Archer,Zappies,Mega Minion,Tombstone,Fireball,The Log",
+    "Goblin Barrel,Mini Pekka,Valkyrie,Musketeer,Baby Dragon,Skeleton Army,Fireball,Arrows",
+    "Royal Hogs,Valkyrie,Musketeer,Skeletons,Ice Spirit,Tesla,Poison,Giant Snowball"
+  ],
+  "Skeleton Army": [
+    "Mortar,Miner,Skeleton King,Cannon Cart,Minion Horde,Dart Goblin,Skeleton Army,Arrows",
+    "Balloon,Ice Golem,Minions,Dart Goblin,Skeleton Army,Cannon,Freeze,Zap",
+    "Goblin Drill,Wall Breakers,Golden Knight,Bomber,Skeleton Army,Fire Spirit,Tesla,Rocket",
+    "Mortar,Ice Golem,Mega Minion,Minions,Skeleton Army,Fire Spirit,Inferno Tower,The Log",
+    "Giant,Balloon,Minion Horde,Minions,Skeleton Army,Skeletons,Freeze,Arrows"
+  ],
+  "Bomber": [
+    "Suspicious Bush,Giant Skeleton,Royal Ghost,Fisherman,Mother Witch,Bomber,Skeletons,Arrows",
+    "Goblin Drill,Goblinstein,Bomber,Skeletons,Fire Spirit,Cannon,Poison,The Log",
+    "Goblin Giant,Prince,Dark Prince,Phoenix,Bomber,Rage,Arrows,Zap",
+    "Goblin Drill,Little Prince,Knight,Bomber,Skeletons,Tesla,Poison,Arrows",
+    "Electro Giant,Little Prince,Knight,Bomber,Tombstone,Void,Lightning,Tornado"
+  ],
+  "Musketeer": [
+    "Battle Ram,Prince,Bandit,Ice Golem,Musketeer,Minions,Fireball,Giant Snowball",
+    "Royal Hogs,Royal Recruits,Musketeer,Skeleton Dragons,Heal Spirit,Goblin Cage,Fireball,Barbarian Barrel",
+    "Giant,Miner,Musketeer,Minion Horde,Minions,Fireball,The Log,Zap",
+    "Royal Hogs,Musketeer,Furnace,Mega Minion,Guards,Poison,Barbarian Barrel,Giant Snowball",
+    "Royal Hogs,Bandit,Musketeer,Barbarians,Bats,Elixir Collector,Barbarian Barrel,Giant Snowball"
+  ],
+  "Baby Dragon": [
+    "Graveyard,Cannon Cart,Ice Wizard,Baby Dragon,Bomb Tower,Poison,Tornado,Barbarian Barrel",
+    "Royal Giant,Electro Wizard,Furnace,Baby Dragon,Mega Minion,Guards,Fireball,Earthquake",
+    "Goblin Barrel,Pekka,Knight,Baby Dragon,Dart Goblin,Goblin Gang,Poison,The Log",
+    "Lava Hound,Lumberjack,Baby Dragon,Mega Minion,Flying Machine,Tombstone,Poison,Barbarian Barrel",
+    "Balloon,Lumberjack,Bowler,Inferno Dragon,Baby Dragon,Freeze,Tornado,Barbarian Barrel"
+  ],
+  "Prince": [
+    "Giant,Prince,Dark Prince,Magic Archer,Archers,Goblins,Fireball,Zap",
+    "Goblin Giant,Prince,Dark Prince,Phoenix,Bomber,Rage,Arrows,Zap",
+    "Giant,Lumberjack,Prince,Mega Minion,Bomber,Rage,Lightning,Zap",
+    "Golem,Prince,Hunter,Mega Minion,Guards,Poison,Barbarian Barrel,Giant Snowball",
+    "Pekka,Prince,Dark Prince,Ice Wizard,Princess,Elixir Collector,Freeze,Arrows"
+  ],
+  "Wizard": [
+    "Balloon,Valkyrie,Wizard,Mega Minion,Skeletons,Ice Spirit,Freeze,Zap",
+    "Graveyard,Knight,Bowler,Wizard,Mother Witch,Inferno Dragon,Freeze,Tornado",
+    "Golem,Prince,Wizard,Mega Minion,Skeletons,Elixir Collector,Poison,The Log",
+    "Mega Knight,Pekka,Valkyrie,Wizard,Baby Dragon,Firecracker,Tornado,The Log",
+    "Golem,Skeleton King,Wizard,Night Witch,Goblin Cage,Void,Tornado,Barbarian Barrel"
+  ],
+  "Mini P.E.K.K.A": [
+    "Mini Pekka,Royal Ghost,Valkyrie,Knight,Executioner,Witch,Poison,Arrows",
+    "Giant,Mini Pekka,Baby Dragon,Archers,Goblins,Spear Goblins,Fireball,Arrows",
+    "Hog Rider,Mini Pekka,Ice Golem,Bats,Princess,Ice Spirit,Rocket,The Log",
+    "Hog Rider,Mini Pekka,Ice Golem,Executioner,Bats,Lightning,Tornado,The Log",
+    "Goblin Giant,Golden Knight,Sparky,Mini Pekka,Phoenix,Spear Goblins,Rage,Zap"
+  ],
+  "Spear Goblins": [
+    "Giant,Mini Pekka,Musketeer,Goblins,Spear Goblins,Goblin Cage,Fireball,Arrows",
+    "Hog Rider,Mortar,Pekka,Minion Horde,Goblin Gang,Spear Goblins,The Log,Zap",
+    "Giant,Sparky,Wizard,Bats,Skeleton Army,Spear Goblins,Poison,Zap",
+    "Royal Hogs,Mega Knight,Zappies,Inferno Dragon,Bats,Spear Goblins,Fireball,Arrows",
+    "Goblin Giant,Goblin Barrel,Dart Goblin,Goblin Gang,Goblins,Spear Goblins,Goblin Cage,Goblin Hut"
+  ],
+  "Giant Skeleton": [
+    "Balloon,Miner,Giant Skeleton,Royal Ghost,Ice Golem,Electro Wizard,Minions,Zap",
+    "Giant Skeleton,Executioner,Inferno Dragon,Goblin Hut,Barbarian Hut,Rocket,Lightning,Poison",
+    "Giant Skeleton,Sparky,Executioner,Electro Dragon,Firecracker,Fireball,Tornado,Arrows",
+    "Balloon,Goblin Barrel,Giant Skeleton,Sparky,Baby Dragon,Goblin Gang,Fireball,Tornado",
+    "Hog Rider,Miner,Giant Skeleton,Elite Barbarians,Ice Wizard,Minions,Goblins,Zap"
+  ],
+  "Hog Rider": [
+    "Hog Rider,Knight,Firecracker,Goblins,Ice Spirit,Tesla,Void,The Log",
+    "Hog Rider,Prince,Ice Golem,Executioner,Skeletons,Lightning,Tornado,The Log",
+    "Hog Rider,Goblin Barrel,Electro Wizard,Skeleton Army,Goblin Gang,Inferno Tower,Poison,The Log",
+    "Hog Rider,Mega Knight,Ice Golem,Electro Wizard,Bats,Goblins,Fireball,Zap",
+    "Hog Rider,Knight,Executioner,Goblins,Ice Spirit,Poison,Tornado,The Log"
+  ],
+  "Minion Horde": [
+    "Goblin Barrel,Furnace,Minion Horde,Dart Goblin,Skeleton Army,Mirror,Fireball,The Log",
+    "Mortar,Miner,Rascals,Minion Horde,Goblin Gang,Spear Goblins,Fireball,The Log",
+    "Giant,Miner,Musketeer,Minion Horde,Minions,Goblins,Fireball,Zap",
+    "Three Musketeers,Battle Ram,Knight,Minion Horde,Goblins,Heal Spirit,Elixir Collector,The Log",
+    "Three Musketeers,Miner,Bandit,Valkyrie,Minion Horde,Goblin Gang,Elixir Collector,Giant Snowball"
+  ],
+  "Ice Wizard": [
+    "Graveyard,Ice Golem,Phoenix,Ice Wizard,Tombstone,Poison,Tornado,Barbarian Barrel",
+    "Graveyard,Ice Golem,Ice Wizard,Mega Minion,Goblins,Poison,Tornado,Zap",
+    "Giant,Goblin Barrel,Sparky,Ice Wizard,Minion Horde,Minions,Skeleton Army,Zap",
+    "Graveyard,Mighty Miner,Ice Wizard,Baby Dragon,Tombstone,Poison,Tornado,Barbarian Barrel",
+    "Giant,Sparky,Ice Wizard,Mega Minion,Goblin Gang,Cannon,Tornado,Zap"
+  ],
+  "Royal Giant": [
+    "Royal Giant,Fisherman,Hunter,Witch,Skeletons,Electro Spirit,Lightning,The Log",
+    "Royal Giant,Skeleton King,Fisherman,Hunter,Electro Spirit,Tombstone,Lightning,The Log",
+    "Royal Giant,Royal Ghost,Fisherman,Phoenix,Skeletons,Electro Spirit,Fireball,The Log",
+    "Royal Giant,Little Prince,Fisherman,Mother Witch,Skeletons,Tesla,Rage,Arrows",
+    "Royal Giant,Prince,Skeleton Dragons,Firecracker,Skeletons,Heal Spirit,Fireball,The Log"
+  ],
+  "Guards": [
+    "Giant,Hog Rider,Musketeer,Minions,Guards,Ice Spirit,Fireball,Zap",
+    "Goblin Giant,Sparky,Fisherman,Hunter,Guards,Lightning,Barbarian Barrel,Giant Snowball",
+    "Graveyard,Bowler,Executioner,Ice Wizard,Baby Dragon,Guards,Freeze,Tornado",
+    "Golem,Prince,Baby Dragon,Mega Minion,Guards,Lightning,Barbarian Barrel,Giant Snowball",
+    "Golden Knight,Elite Barbarians,Mini Pekka,Archers,Guards,Tornado,Giant Snowball,Zap"
+  ],
+  "Princess": [
+    "Goblin Barrel,Wall Breakers,Valkyrie,Princess,Dart Goblin,Goblin Gang,Ice Spirit,Cannon",
+    "Goblin Barrel,Prince,Rascals,Berserker,Princess,Dart Goblin,Goblin Gang,The Log",
+    "Miner,Mini Pekka,Ice Wizard,Princess,Goblins,Fire Spirit,Inferno Tower,Zap",
+    "Mortar,Knight,Princess,Archers,Skeletons,Ice Spirit,Rocket,The Log",
+    "Goblin Barrel,Miner,Princess,Skeleton Army,Goblin Gang,Inferno Tower,Poison,The Log"
+  ],
+  "Dark Prince": [
+    "Giant,Miner,Prince,Dark Prince,Electro Wizard,Phoenix,Arrows,Zap",
+    "Golem,Cannon Cart,Dark Prince,Electro Wizard,Mega Minion,Goblin Cage,Poison,Giant Snowball",
+    "Goblin Giant,Prince,Dark Prince,Phoenix,Bomber,Rage,Arrows,Zap",
+    "Electro Giant,Goblin Drill,Dark Prince,Mother Witch,Inferno Dragon,Bomber,Lightning,Tornado",
+    "Goblin Giant,Sparky,Dark Prince,Electro Wizard,Mega Minion,Goblin Cage,Lightning,Giant Snowball"
+  ],
+  "Three Musketeers": [
+    "Three Musketeers,Miner,Knight,Electro Wizard,Skeletons,Ice Spirit,Elixir Collector,The Log",
+    "Giant,Three Musketeers,Battle Ram,Battle Healer,Minion Horde,Goblin Gang,Elixir Collector,Zap",
+    "Royal Hogs,Three Musketeers,Valkyrie,Ice Golem,Hunter,Skeletons,Fireball,The Log",
+    "Three Musketeers,Battle Ram,Little Prince,Royal Ghost,Bandit,Knight,Elixir Collector,Barbarian Barrel",
+    "Royal Hogs,Three Musketeers,Valkyrie,Bats,Goblin Gang,Ice Spirit,Elixir Collector,Zap"
+  ],
+  "Lava Hound": [
+    "Lava Hound,Balloon,Skeleton Dragons,Mega Minion,Skeleton Army,Tombstone,Fireball,Zap",
+    "Lava Hound,Balloon,Rascals,Inferno Dragon,Mega Minion,Tombstone,Lightning,Arrows",
+    "Lava Hound,Balloon,Knight,Baby Dragon,Mega Minion,Skeletons,Lightning,The Log",
+    "Lava Hound,Miner,Inferno Dragon,Minions,Flying Machine,Guards,Fireball,Zap",
+    "Lava Hound,Balloon,Mega Minion,Minions,Goblin Gang,Tombstone,Fireball,Zap"
+  ],
+  "Ice Spirit": [
+    "Hog Rider,Executioner,Night Witch,Skeletons,Ice Spirit,Lightning,Tornado,The Log",
+    "Hog Rider,Mini Pekka,Minions,Skeletons,Ice Spirit,Elixir Collector,Freeze,Poison",
+    "Hog Rider,Ice Golem,Electro Wizard,Skeletons,Ice Spirit,Inferno Tower,Fireball,The Log",
+    "Royal Giant,Executioner,Electro Wizard,Skeletons,Ice Spirit,Lightning,Tornado,The Log",
+    "X Bow,Ice Golem,Mega Minion,Archers,Ice Spirit,Tesla,Rocket,The Log"
+  ],
+  "Fire Spirit": [
+    "X Bow,Minions,Skeletons,Fire Spirit,Ice Spirit,Inferno Tower,Fireball,The Log",
+    "Mortar,Miner,Mighty Miner,Musketeer,Skeletons,Fire Spirit,Fireball,The Log",
+    "X Bow,Ice Golem,Ice Wizard,Mega Minion,Fire Spirit,Fireball,Tornado,The Log",
+    "Goblin Barrel,Knight,Princess,Skeleton Army,Fire Spirit,Inferno Tower,Rocket,The Log",
+    "Miner,Prince,Royal Ghost,Electro Dragon,Bats,Fire Spirit,Lightning,Barbarian Barrel"
+  ],
+  "Miner": [
+    "Three Musketeers,Miner,Knight,Bats,Skeletons,Ice Spirit,Elixir Collector,Zap",
+    "Mortar,Miner,Royal Ghost,Minion Horde,Bats,Goblin Gang,The Log,Zap",
+    "Miner,Wall Breakers,Valkyrie,Magic Archer,Bats,Skeletons,Bomb Tower,Arrows",
+    "Lava Hound,Miner,Mother Witch,Barbarians,Inferno Dragon,Skeleton Dragons,Fireball,Barbarian Barrel",
+    "Miner,Wall Breakers,Mega Knight,Prince,Musketeer,Bats,Arrows,Zap"
+  ],
+  "Sparky": [
+    "Goblin Giant,Sparky,Mini Pekka,Night Witch,Firecracker,Skeletons,Ice Spirit,Earthquake",
+    "Electro Giant,Sparky,Electro Wizard,Zappies,Electro Dragon,Tesla,Fireball,Zap",
+    "Goblin Giant,Sparky,Mini Pekka,Knight,Mother Witch,Minions,Rage,Zap",
+    "Goblin Barrel,Giant Skeleton,Sparky,Minion Horde,Skeleton Army,Tesla,Clone,Arrows",
+    "Goblin Giant,Little Prince,Sparky,Mini Pekka,Knight,Minions,Rage,Fireball"
+  ],
+  "Bowler": [
+    "Graveyard,Knight,Bowler,Ice Wizard,Baby Dragon,Goblins,Poison,Tornado",
+    "Royal Ghost,Bowler,Skeletons,Fire Spirit,Electro Spirit,Goblin Hut,Mirror,The Log",
+    "Balloon,Little Prince,Knight,Bowler,Electro Dragon,Freeze,Tornado,Barbarian Barrel",
+    "Golden Knight,Bowler,Skeletons,Electro Spirit,Goblin Hut,Mirror,Arrows,The Log",
+    "Hog Rider,Knight,Bowler,Baby Dragon,Skeletons,Lightning,Tornado,The Log"
+  ],
+  "Lumberjack": [
+    "Wall Breakers,Mega Knight,Royal Recruits,Lumberjack,Dart Goblin,Archers,Ice Spirit,Arrows",
+    "Golem,Lumberjack,Night Witch,Baby Dragon,Bats,Skeleton Army,Clone,Arrows",
+    "Wall Breakers,Archer Queen,Mega Knight,Lumberjack,Prince,Bats,Goblin Gang,Arrows",
+    "Goblin Giant,Mega Knight,Royal Recruits,Lumberjack,Firecracker,Archers,Cannon,Arrows",
+    "Giant,Battle Ram,Lumberjack,Executioner,Electro Wizard,Furnace,Baby Dragon,Zap"
+  ],
+  "Battle Ram": [
+    "Battle Ram,Pekka,Bandit,Musketeer,Baby Dragon,Goblin Gang,Poison,Barbarian Barrel",
+    "Three Musketeers,Battle Ram,Ice Wizard,Zappies,Bats,Elixir Collector,Tornado,Zap",
+    "Battle Ram,Bandit,Ice Golem,Night Witch,Minion Horde,Tombstone,Fireball,Zap",
+    "Three Musketeers,Battle Ram,Ice Golem,Night Witch,Ice Spirit,Heal Spirit,Elixir Collector,Zap",
+    "Three Musketeers,Battle Ram,Bandit,Knight,Minions,Heal Spirit,Elixir Collector,Zap"
+  ],
+  "Inferno Dragon": [
+    "Royal Hogs,Goblin Barrel,Knight,Inferno Dragon,Bats,Princess,Goblin Gang,The Log",
+    "Royal Hogs,Valkyrie,Magic Archer,Zappies,Inferno Dragon,Bats,Fireball,Zap",
+    "Battle Ram,Dark Prince,Bandit,Ice Golem,Inferno Dragon,Fireball,Arrows,Zap",
+    "Lava Hound,Bandit,Inferno Dragon,Baby Dragon,Mega Minion,Ice Spirit,Lightning,The Log",
+    "Miner,Skeleton Barrel,Mega Knight,Inferno Dragon,Bats,Goblin Gang,Fireball,Zap"
+  ],
+  "Ice Golem": [
+    "Battle Ram,Prince,Bandit,Ice Golem,Skeleton Dragons,Firecracker,Fireball,Zap",
+    "Balloon,Miner,Mega Knight,Ice Golem,Electro Wizard,Bats,Goblin Gang,Zap",
+    "Miner,Ice Golem,Executioner,Skeletons,Ice Spirit,Cannon,Rocket,Tornado",
+    "Battle Ram,Dark Prince,Bandit,Ice Golem,Inferno Dragon,Fireball,Arrows,Zap",
+    "X Bow,Ice Golem,Ice Wizard,Mega Minion,Skeletons,Rocket,Tornado,The Log"
+  ],
+  "Mega Minion": [
+    "Giant,Miner,Cannon Cart,Mega Minion,Goblins,Poison,The Log,Zap",
+    "Golem,Lumberjack,Electro Wizard,Baby Dragon,Mega Minion,Bats,Elixir Collector,Lightning",
+    "Giant,Prince,Musketeer,Mega Minion,Ice Spirit,Elixir Collector,Poison,Zap",
+    "Hog Rider,Ice Golem,Mega Minion,Dart Goblin,Ice Spirit,Cannon,Fireball,Zap",
+    "Golem,Electro Wizard,Mega Minion,Minions,Skeletons,Elixir Collector,Lightning,The Log"
+  ],
+  "Dart Goblin": [
+    "Goblin Barrel,Prince,Rascals,Berserker,Princess,Dart Goblin,Goblin Gang,The Log",
+    "Goblin Barrel,Knight,Princess,Dart Goblin,Goblin Gang,Tombstone,Rocket,The Log",
+    "Goblin Barrel,Skeleton Barrel,Skeleton King,Dart Goblin,Skeleton Army,Bomb Tower,Fireball,The Log",
+    "Goblin Barrel,Wall Breakers,Suspicious Bush,Berserker,Wizard,Dart Goblin,Ice Spirit,Barbarian Barrel",
+    "X Bow,Knight,Electro Wizard,Dart Goblin,Skeletons,Lightning,Tornado,The Log"
+  ],
+  "Goblin Gang": [
+    "Hog Rider,Goblin Barrel,Knight,Princess,Goblin Gang,Inferno Tower,Rocket,The Log",
+    "Goblin Barrel,Prince,Rascals,Ice Golem,Princess,Goblin Gang,Poison,The Log",
+    "Giant,Graveyard,Ice Wizard,Mega Minion,Goblin Gang,Tombstone,Poison,The Log",
+    "Royal Recruits,Prince,Bandit,Bowler,Musketeer,Firecracker,Goblin Gang,Arrows",
+    "Miner,Skeleton Barrel,Mega Knight,Prince,Inferno Dragon,Bats,Goblin Gang,Zap"
+  ],
+  "Electro Wizard": [
+    "X Bow,Ice Golem,Electro Wizard,Guards,Ice Spirit,Inferno Tower,Fireball,The Log",
+    "Giant,Miner,Prince,Dark Prince,Electro Wizard,Phoenix,Arrows,Zap",
+    "Miner,Pekka,Electro Wizard,Furnace,Mega Minion,Goblin Hut,Poison,Zap",
+    "X Bow,Knight,Electro Wizard,Skeletons,Ice Spirit,Inferno Tower,Fireball,The Log",
+    "Miner,Mega Knight,Pekka,Bandit,Electro Wizard,Bats,Poison,Zap"
+  ],
+  "Elite Barbarians": [
+    "Battle Ram,Archer Queen,Elite Barbarians,Royal Ghost,Bandit,Magic Archer,Princess,Heal Spirit",
+    "Golem,Elite Barbarians,Lumberjack,Night Witch,Mega Minion,Bomber,Arrows,Zap",
+    "Golem,Elite Barbarians,Lumberjack,Phoenix,Night Witch,Bomber,Arrows,Zap",
+    "Elixir Golem,Elite Barbarians,Battle Healer,Inferno Dragon,Electro Dragon,Heal Spirit,Rage,Arrows",
+    "Hog Rider,Mortar,Archer Queen,Elite Barbarians,Bats,Skeletons,Earthquake,The Log"
+  ],
+  "Hunter": [
+    "Miner,Pekka,Bandit,Hunter,Bats,Ice Spirit,Poison,Zap",
+    "X Bow,Ice Golem,Hunter,Mega Minion,Guards,Ice Spirit,Fireball,The Log",
+    "Royal Giant,Giant Skeleton,Fisherman,Hunter,Zappies,Electro Spirit,Earthquake,Barbarian Barrel",
+    "Royal Hogs,Mini Pekka,Magic Archer,Hunter,Skeletons,Ice Spirit,Earthquake,Royal Delivery",
+    "Giant,Miner,Hunter,Mega Minion,Guards,Poison,Tornado,Zap"
+  ],
+  "Executioner": [
+    "Graveyard,Knight,Ice Golem,Executioner,Electro Wizard,Minions,Poison,Tornado",
+    "Hog Rider,Pekka,Executioner,Dart Goblin,Goblin Gang,Lightning,Tornado,Zap",
+    "Graveyard,Skeleton King,Bowler,Executioner,Inferno Dragon,Skeletons,Freeze,Tornado",
+    "Giant,Graveyard,Executioner,Minions,Skeleton Army,Tombstone,Fireball,Zap",
+    "Graveyard,Cannon Cart,Ice Golem,Executioner,Mega Minion,Tombstone,Poison,Tornado"
+  ],
+  "Bandit": [
+    "Wall Breakers,Archer Queen,Mega Knight,Prince,Bandit,Bats,Arrows,Zap",
+    "Giant,Lumberjack,Bandit,Baby Dragon,Minions,Skeletons,Lightning,The Log",
+    "Three Musketeers,Battle Ram,Bandit,Ice Golem,Minion Horde,Elixir Collector,Barbarian Barrel,Zap",
+    "Miner,Bandit,Ice Golem,Magic Archer,Ice Spirit,Inferno Tower,Poison,The Log",
+    "Battle Ram,Pekka,Bandit,Executioner,Night Witch,Skeletons,Poison,Tornado"
+  ],
+  "Royal Recruits": [
+    "Miner,Royal Recruits,Valkyrie,Magic Archer,Furnace,Inferno Dragon,Poison,The Log",
+    "Ram Rider,Royal Recruits,Zappies,Flying Machine,Electro Spirit,Goblin Cage,Fireball,Barbarian Barrel",
+    "Mortar,Skeleton Barrel,Royal Recruits,Dark Prince,Mother Witch,Rocket,Arrows,The Log",
+    "Goblin Giant,Mega Knight,Royal Recruits,Lumberjack,Firecracker,Archers,Cannon,Arrows",
+    "Royal Recruits,Lumberjack,Ice Golem,Magic Archer,Zappies,Inferno Dragon,Fireball,The Log"
+  ],
+  "Night Witch": [
+    "Battle Ram,Royal Ghost,Bandit,Ice Golem,Night Witch,Inferno Dragon,Poison,Zap",
+    "Golem,Dark Prince,Night Witch,Baby Dragon,Mega Minion,Goblin Gang,Elixir Collector,Zap",
+    "Golem,Cannon Cart,Night Witch,Baby Dragon,Mega Minion,Poison,Tornado,The Log",
+    "Golem,Lumberjack,Night Witch,Guards,Ice Spirit,Elixir Collector,Poison,Zap",
+    "Golem,Skeleton King,Wizard,Night Witch,Goblin Cage,Void,Tornado,Barbarian Barrel"
+  ],
+  "Bats": [
+    "Miner,Wall Breakers,Mega Knight,Witch,Inferno Dragon,Bats,Goblin Gang,Zap",
+    "X Bow,Mini Pekka,Ice Golem,Ice Wizard,Bats,Goblins,Fireball,The Log",
+    "Mortar,Miner,Skeleton King,Spirit Empress,Ice Wizard,Bats,Goblin Gang,Arrows",
+    "Ram Rider,Mega Knight,Ice Golem,Inferno Dragon,Bats,Goblin Gang,Poison,Giant Snowball",
+    "Balloon,Lumberjack,Ice Golem,Musketeer,Bats,Ice Spirit,Barbarian Barrel,Giant Snowball"
+  ],
+  "Royal Ghost": [
+    "Golden Knight,Elite Barbarians,Royal Ghost,Bandit,Electro Wizard,Mother Witch,Heal Spirit,The Log",
+    "Royal Ghost,Bowler,Skeletons,Fire Spirit,Electro Spirit,Goblin Hut,Mirror,The Log",
+    "Miner,Royal Ghost,Bandit,Ice Wizard,Electro Dragon,Poison,Tornado,Barbarian Barrel",
+    "Three Musketeers,Golden Knight,Elite Barbarians,Royal Ghost,Heal Spirit,Elixir Collector,Mirror,The Log",
+    "Three Musketeers,Battle Ram,Lumberjack,Royal Ghost,Bandit,Heal Spirit,Elixir Collector,Rage"
+  ],
+  "Ram Rider": [
+    "Ram Rider,Royal Recruits,Zappies,Flying Machine,Electro Spirit,Goblin Cage,Fireball,Barbarian Barrel",
+    "Ram Rider,Lumberjack,Ice Golem,Inferno Dragon,Minions,Poison,Barbarian Barrel,Giant Snowball",
+    "Ram Rider,Mega Knight,Fisherman,Goblins,Ice Spirit,Bomb Tower,Freeze,The Log",
+    "Ram Rider,Pekka,Dark Prince,Bandit,Electro Wizard,Magic Archer,Earthquake,Barbarian Barrel",
+    "Ram Rider,Suspicious Bush,Pekka,Royal Ghost,Bandit,Wizard,Void,Zap"
+  ],
+  "Zappies": [
+    "Mini Pekka,Zappies,Skeleton Army,Spear Goblins,Tombstone,Arrows,Giant Snowball,Zap",
+    "Graveyard,Monk,Phoenix,Zappies,Skeletons,Tombstone,Poison,Barbarian Barrel",
+    "Graveyard,Skeleton King,Phoenix,Zappies,Skeletons,Tombstone,Poison,Barbarian Barrel",
+    "Royal Hogs,Royal Recruits,Zappies,Flying Machine,Electro Spirit,Goblin Cage,Rocket,Arrows",
+    "Prince,Phoenix,Zappies,Electro Dragon,Skeleton Army,Tombstone,Rage,Poison"
+  ],
+  "Rascals": [
+    "Goblin Barrel,Rascals,Valkyrie,Princess,Goblin Gang,Ice Spirit,Rocket,The Log",
+    "Goblin Barrel,Prince,Rascals,Princess,Dart Goblin,Guards,Rocket,The Log",
+    "X Bow,Rascals,Mega Minion,Skeletons,Ice Spirit,Tesla,Fireball,The Log",
+    "Royal Hogs,Rascals,Valkyrie,Magic Archer,Mega Minion,Tombstone,Poison,Barbarian Barrel",
+    "Goblin Barrel,Cannon Cart,Dark Prince,Rascals,Bandit,Princess,Rocket,Giant Snowball"
+  ],
+  "Cannon Cart": [
+    "Golem,Golden Knight,Cannon Cart,Electro Dragon,Baby Dragon,Mega Minion,Tornado,Barbarian Barrel",
+    "Ram Rider,Golden Knight,Cannon Cart,Bandit,Electro Wizard,Magic Archer,Fireball,Barbarian Barrel",
+    "Miner,Cannon Cart,Valkyrie,Ice Wizard,Minions,Poison,Tornado,The Log",
+    "Cannon Cart,Mother Witch,Skeleton Dragons,Flying Machine,Goblin Gang,Mirror,Fireball,Arrows",
+    "Golem,Cannon Cart,Lumberjack,Electro Dragon,Baby Dragon,Mega Minion,Tornado,Barbarian Barrel"
+  ],
+  "Mega Knight": [
+    "Graveyard,Mega Knight,Ice Golem,Bats,Flying Machine,Tombstone,Freeze,Zap",
+    "Miner,Mega Knight,Inferno Dragon,Minions,Goblins,Goblin Hut,Poison,Zap",
+    "Golden Knight,Mega Knight,Wizard,Furnace,Bats,Skeletons,Ice Spirit,Arrows",
+    "Graveyard,Mega Knight,Fisherman,Electro Wizard,Hunter,Goblin Cage,Poison,Barbarian Barrel",
+    "Balloon,Mega Knight,Pekka,Mini Pekka,Electro Wizard,Witch,Freeze,Arrows"
+  ],
+  "Skeleton Barrel": [
+    "Skeleton Barrel,Mega Knight,Royal Ghost,Inferno Dragon,Bats,Goblin Hut,Poison,Zap",
+    "Balloon,Skeleton Barrel,Knight,Archers,Skeletons,Inferno Tower,The Log,Giant Snowball",
+    "Miner,Skeleton Barrel,Mega Knight,Prince,Inferno Dragon,Bats,Goblin Gang,Zap",
+    "Miner,Skeleton Barrel,Mega Knight,Inferno Dragon,Bats,Goblin Gang,Fireball,Zap",
+    "Miner,Skeleton Barrel,Mega Knight,Inferno Dragon,Bats,Goblin Gang,Spear Goblins,Giant Snowball"
+  ],
+  "Flying Machine": [
+    "Monk,Cannon Cart,Mother Witch,Furnace,Flying Machine,Goblin Hut,Fireball,Barbarian Barrel",
+    "Graveyard,Royal Recruits,Ice Golem,Zappies,Flying Machine,Tesla,Poison,Zap",
+    "Mega Knight,Cannon Cart,Mother Witch,Furnace,Flying Machine,Goblin Hut,Fireball,Barbarian Barrel",
+    "Ram Rider,Little Prince,Mega Knight,Royal Ghost,Bandit,Flying Machine,Arrows,Zap",
+    "Bowler,Flying Machine,Firecracker,Guards,Skeleton Army,Arrows,The Log,Zap"
+  ],
+  "Wall Breakers": [
+    "Miner,Wall Breakers,Mega Knight,Witch,Inferno Dragon,Bats,Goblin Gang,Zap",
+    "Goblin Drill,Wall Breakers,Valkyrie,Bomber,Skeletons,Fire Spirit,Tesla,Fireball",
+    "Wall Breakers,Boss Bandit,Royal Recruits,Firecracker,Dart Goblin,Skeletons,Arrows,Giant Snowball",
+    "Miner,Wall Breakers,Valkyrie,Magic Archer,Bats,Skeletons,Bomb Tower,The Log",
+    "Goblin Drill,Wall Breakers,Skeleton Barrel,Valkyrie,Witch,Mega Minion,Skeletons,Barbarian Barrel"
+  ],
+  "Royal Hogs": [
+    "Royal Hogs,Giant Skeleton,Royal Ghost,Fisherman,Mother Witch,Zappies,Goblin Gang,Arrows",
+    "Royal Hogs,Mega Knight,Elite Barbarians,Mother Witch,Zappies,Flying Machine,Fireball,Barbarian Barrel",
+    "Royal Hogs,Giant Skeleton,Royal Ghost,Fisherman,Mother Witch,Zappies,Mirror,Arrows",
+    "Royal Hogs,Three Musketeers,Valkyrie,Bats,Goblin Gang,Ice Spirit,Elixir Collector,Zap",
+    "Royal Hogs,Monk,Phoenix,Firecracker,Goblins,Ice Spirit,Earthquake,The Log"
+  ],
+  "Goblin Giant": [
+    "Goblin Giant,Prince,Musketeer,Mega Minion,Guards,Fireball,Barbarian Barrel,Giant Snowball",
+    "Goblin Giant,Sparky,Mini Pekka,Dark Prince,Electro Wizard,Spear Goblins,Rage,Zap",
+    "Goblin Giant,Sparky,Berserker,Minions,Archers,Guards,Rage,Arrows",
+    "Goblin Giant,Little Prince,Sparky,Mini Pekka,Minions,Bomber,Rage,Arrows",
+    "Goblin Giant,Prince,Dark Prince,Bats,Goblin Gang,Spear Goblins,Fireball,Zap"
+  ],
+  "Fisherman": [
+    "Royal Giant,Skeleton King,Fisherman,Mother Witch,Zappies,Tombstone,Fireball,The Log",
+    "Royal Giant,Giant Skeleton,Fisherman,Mother Witch,Phoenix,Zappies,Fireball,Arrows",
+    "Royal Giant,Little Prince,Fisherman,Phoenix,Goblins,Electro Spirit,Lightning,Barbarian Barrel",
+    "Royal Giant,Monk,Fisherman,Hunter,Phoenix,Goblins,Fireball,The Log",
+    "Golem,Little Prince,Fisherman,Skeletons,Ice Spirit,Heal Spirit,Poison,The Log"
+  ],
+  "Magic Archer": [
+    "Miner,Royal Recruits,Valkyrie,Magic Archer,Furnace,Inferno Dragon,Poison,The Log",
+    "Prince,Dark Prince,Royal Ghost,Magic Archer,Zappies,Bats,Fireball,Barbarian Barrel",
+    "Goblin Drill,Golden Knight,Giant Skeleton,Royal Ghost,Electro Wizard,Magic Archer,Skeletons,Tornado",
+    "Giant,Prince,Dark Prince,Magic Archer,Mega Minion,Ice Spirit,Poison,Zap",
+    "Hog Rider,Ice Golem,Magic Archer,Mega Minion,Skeletons,Poison,Tornado,The Log"
+  ],
+  "Electro Dragon": [
+    "Goblin Giant,Dark Prince,Electro Wizard,Electro Dragon,Mega Minion,Goblin Cage,Lightning,Zap",
+    "Golem,Little Prince,Battle Healer,Knight,Electro Dragon,Elixir Collector,Tornado,Barbarian Barrel",
+    "Electro Giant,Electro Wizard,Zappies,Electro Dragon,Electro Spirit,Tesla,Fireball,Tornado",
+    "Elixir Golem,Battle Healer,Magic Archer,Night Witch,Electro Dragon,Baby Dragon,Earthquake,Tornado",
+    "Lava Hound,Miner,Lumberjack,Electro Dragon,Baby Dragon,Guards,Lightning,Zap"
+  ],
+  "Firecracker": [
+    "Lava Hound,Miner,Barbarians,Inferno Dragon,Baby Dragon,Firecracker,Poison,Barbarian Barrel",
+    "Wall Breakers,Mighty Miner,Royal Recruits,Firecracker,Goblin Gang,Goblins,Void,Arrows",
+    "Bowler,Flying Machine,Firecracker,Guards,Skeleton Army,Arrows,The Log,Zap",
+    "Monk,Royal Recruits,Flying Machine,Firecracker,Rage,Tornado,Giant Snowball,Zap",
+    "Goblin Drill,Knight,Firecracker,Guards,Heal Spirit,Bomb Tower,Poison,The Log"
+  ],
+  "Mighty Miner": [
+    "Wall Breakers,Skeleton Barrel,Mighty Miner,Royal Recruits,Firecracker,Goblin Gang,Goblins,Arrows",
+    "Miner,Wall Breakers,Mighty Miner,Archers,Goblins,Bomb Tower,Poison,The Log",
+    "Royal Hogs,Mighty Miner,Royal Recruits,Zappies,Flying Machine,Goblin Cage,Fireball,Barbarian Barrel",
+    "Electro Giant,Mighty Miner,Ice Wizard,Baby Dragon,Tombstone,Lightning,Tornado,Barbarian Barrel",
+    "Goblin Barrel,Mighty Miner,Princess,Guards,Electro Spirit,Tesla,Rocket,The Log"
+  ],
+  "Elixir Golem": [
+    "Elixir Golem,Skeleton King,Night Witch,Barbarians,Flying Machine,Rage,Fireball,Arrows",
+    "Elixir Golem,Skeleton King,Goblin Machine,Witch,Night Witch,Skeletons,Rage,Arrows",
+    "Elixir Golem,Miner,Fisherman,Witch,Night Witch,Mega Minion,Poison,The Log",
+    "Elixir Golem,Sparky,Battle Healer,Ice Wizard,Night Witch,Baby Dragon,Lightning,Tornado",
+    "Elixir Golem,Monk,Battle Healer,Phoenix,Electro Dragon,Rage,Mirror,Tornado"
+  ],
+  "Battle Healer": [
+    "Little Prince,Giant Skeleton,Battle Healer,Fisherman,Electro Dragon,Heal Spirit,Poison,Tornado",
+    "Sparky,Battle Healer,Ice Wizard,Night Witch,Baby Dragon,Rage,Mirror,Tornado",
+    "Sparky,Battle Healer,Zappies,Firecracker,Goblin Hut,Barbarian Hut,Fireball,Tornado",
+    "Elixir Golem,Monk,Battle Healer,Phoenix,Electro Dragon,Rage,Mirror,Tornado",
+    "Battle Healer,Phoenix,Night Witch,Electro Dragon,Skeleton Army,Heal Spirit,Rage,Tornado"
+  ],
+  "Skeleton King": [
+    "Royal Giant,Skeleton King,Fisherman,Mother Witch,Zappies,Tombstone,Fireball,The Log",
+    "Mortar,Skeleton Barrel,Skeleton King,Cannon Cart,Dart Goblin,Skeleton Army,Goblin Gang,Fireball",
+    "Graveyard,Skeleton King,Valkyrie,Zappies,Inferno Dragon,Tombstone,Fireball,Arrows",
+    "Mortar,Skeleton Barrel,Skeleton King,Cannon Cart,Ice Wizard,Bats,Goblin Gang,Arrows",
+    "Graveyard,Skeleton King,Ice Wizard,Baby Dragon,Tombstone,Poison,Tornado,Barbarian Barrel"
+  ],
+  "Archer Queen": [
+    "Wall Breakers,Archer Queen,Mega Knight,Prince,Bandit,Bats,Arrows,Zap",
+    "Giant,Graveyard,Archer Queen,Dark Prince,Minions,Skeleton Army,Arrows,Giant Snowball",
+    "Wall Breakers,Archer Queen,Mega Knight,Lumberjack,Prince,Bats,Goblin Gang,Arrows",
+    "Royal Hogs,Archer Queen,Skeletons,Ice Spirit,Cannon,Earthquake,Royal Delivery,The Log",
+    "Hog Rider,Mortar,Archer Queen,Elite Barbarians,Bats,Skeletons,Earthquake,The Log"
+  ],
+  "Golden Knight": [
+    "Goblin Drill,Golden Knight,Giant Skeleton,Royal Ghost,Electro Wizard,Magic Archer,Skeletons,Tornado",
+    "Golden Knight,Bowler,Skeletons,Electro Spirit,Goblin Hut,Mirror,Arrows,The Log",
+    "Miner,Golden Knight,Mega Minion,Skeletons,Tesla,Poison,Royal Delivery,The Log",
+    "Three Musketeers,Golden Knight,Elite Barbarians,Royal Ghost,Heal Spirit,Elixir Collector,Mirror,The Log",
+    "Miner,Golden Knight,Bats,Skeletons,Tesla,Poison,Royal Delivery,The Log"
+  ],
+  "Monk": [
+    "Monk,Cannon Cart,Mother Witch,Furnace,Flying Machine,Goblin Hut,Fireball,Barbarian Barrel",
+    "Goblin Drill,Monk,Royal Ghost,Wizard,Bats,Skeletons,Poison,The Log",
+    "Royal Giant,Monk,Fisherman,Wizard,Skeletons,Electro Spirit,Vines,Barbarian Barrel",
+    "Miner,Monk,Phoenix,Goblins,Ice Spirit,Bomb Tower,Poison,The Log",
+    "Ram Rider,Monk,Lumberjack,Berserker,Ice Wizard,Electro Dragon,Rage,Tornado"
+  ],
+  "Skeleton Dragons": [
+    "Lava Hound,Miner,Barbarians,Skeleton Dragons,Mega Minion,Flying Machine,Goblin Cage,Arrows",
+    "Lava Hound,Miner,Mother Witch,Barbarians,Inferno Dragon,Skeleton Dragons,Fireball,Barbarian Barrel",
+    "Lava Hound,Miner,Night Witch,Barbarians,Inferno Dragon,Skeleton Dragons,Fireball,Zap",
+    "Lava Hound,Balloon,Knight,Inferno Dragon,Skeleton Dragons,Bomber,Arrows,Giant Snowball",
+    "Electro Giant,Balloon,Miner,Hunter,Skeleton Dragons,Skeletons,Heal Spirit,Giant Snowball"
+  ],
+  "Mother Witch": [
+    "Golem,Dark Prince,Mother Witch,Night Witch,Baby Dragon,Lightning,Tornado,Barbarian Barrel",
+    "Balloon,Skeleton King,Executioner,Mother Witch,Night Witch,Bomb Tower,Lightning,Tornado",
+    "Elite Barbarians,Cannon Cart,Mother Witch,Furnace,Flying Machine,Goblin Hut,Fireball,Barbarian Barrel",
+    "Royal Recruits,Mini Pekka,Mother Witch,Flying Machine,Skeleton Army,Tombstone,Tornado,Zap",
+    "Royal Giant,Dark Prince,Fisherman,Mother Witch,Mega Minion,Electro Spirit,Lightning,The Log"
+  ],
+  "Electro Spirit": [
+    "Skeleton Barrel,Giant Skeleton,Witch,Bats,Firecracker,Electro Spirit,Bomb Tower,Tornado",
+    "Golden Knight,Bowler,Skeletons,Electro Spirit,Goblin Hut,Mirror,Arrows,The Log",
+    "Graveyard,Firecracker,Archers,Skeletons,Electro Spirit,Mirror,Poison,Arrows",
+    "Executioner,Skeletons,Fire Spirit,Ice Spirit,Electro Spirit,Freeze,Rocket,Tornado",
+    "Goblin Barrel,Mighty Miner,Princess,Guards,Electro Spirit,Tesla,Rocket,The Log"
+  ],
+  "Electro Giant": [
+    "Electro Giant,Mini Pekka,Ice Wizard,Dart Goblin,Skeletons,Mirror,Tornado,Zap",
+    "Electro Giant,Fisherman,Executioner,Hunter,Witch,Lightning,Tornado,The Log",
+    "Electro Giant,Little Prince,Knight,Bomber,Cannon,Lightning,Tornado,Barbarian Barrel",
+    "Electro Giant,Dark Prince,Ice Wizard,Baby Dragon,Goblin Cage,Lightning,Tornado,Barbarian Barrel",
+    "Electro Giant,Dark Prince,Battle Healer,Electro Dragon,Skeleton Dragons,Heal Spirit,Fireball,Tornado"
+  ],
+  "Phoenix": [
+    "Rascals,Fisherman,Phoenix,Night Witch,Bats,Guards,Arrows,Zap",
+    "Giant Skeleton,Elite Barbarians,Mini Pekka,Prince,Phoenix,Minions,Guards,Skeleton Army",
+    "Royal Giant,Royal Ghost,Fisherman,Mother Witch,Phoenix,Goblins,Lightning,The Log",
+    "Miner,Monk,Phoenix,Skeletons,Ice Spirit,Elixir Collector,Mirror,Zap",
+    "Prince,Phoenix,Zappies,Electro Dragon,Skeleton Army,Tombstone,Rage,Poison"
+  ],
+  "Little Prince": [
+    "Electro Giant,Little Prince,Knight,Bowler,Archers,Cannon,Lightning,Tornado",
+    "Little Prince,Giant Skeleton,Battle Healer,Fisherman,Electro Dragon,Heal Spirit,Poison,Tornado",
+    "Balloon,Little Prince,Royal Recruits,Lumberjack,Fisherman,Skeleton Dragons,Arrows,Giant Snowball",
+    "Balloon,Miner,Little Prince,Knight,Mega Minion,Goblin Cage,Arrows,Zap",
+    "Little Prince,Mega Knight,Pekka,Goblin Gang,Electro Spirit,Heal Spirit,Fireball,Arrows"
+  ],
+  "Goblin Demolisher": [
+    "Goblin Barrel,Miner,Mega Knight,Goblin Demolisher,Firecracker,Goblin Gang,Electro Spirit,Arrows",
+    "Ram Rider,Pekka,Goblin Machine,Goblin Demolisher,Knight,Phoenix,Goblin Curse,Zap",
+    "Goblin Drill,Goblin Demolisher,Knight,Skeletons,Fire Spirit,Tesla,Poison,The Log",
+    "Goblin Giant,Goblin Demolisher,Knight,Dart Goblin,Goblins,Goblin Cage,Arrows,The Log",
+    "Goblin Giant,Goblin Barrel,Goblin Demolisher,Dart Goblin,Goblins,Goblin Cage,Arrows,The Log"
+  ],
+  "Goblin Machine": [
+    "Goblin Giant,Goblin Machine,Mini Pekka,Witch,Minions,Rage,Vines,Barbarian Barrel",
+    "Goblin Giant,Goblin Machine,Valkyrie,Electro Wizard,Ice Wizard,Guards,Goblin Curse,Fireball",
+    "Pekka,Goblin Machine,Skeletons,Ice Spirit,Heal Spirit,Rage,Mirror,Goblin Curse",
+    "Giant,Boss Bandit,Goblin Machine,Inferno Dragon,Guards,Rage,Goblin Curse,Zap",
+    "Battle Ram,Pekka,Goblin Machine,Royal Ghost,Bandit,Mother Witch,Void,Zap"
+  ],
+  "Suspicious Bush": [
+    "Goblin Drill,Suspicious Bush,Royal Ghost,Bandit,Bomber,Guards,Tesla,Arrows",
+    "Suspicious Bush,Giant Skeleton,Royal Ghost,Fisherman,Mother Witch,Bomber,Skeletons,Arrows",
+    "Goblin Barrel,Wall Breakers,Suspicious Bush,Berserker,Wizard,Dart Goblin,Ice Spirit,Barbarian Barrel",
+    "Wall Breakers,Suspicious Bush,Pekka,Mother Witch,Witch,Electro Spirit,Goblin Curse,Poison",
+    "Ram Rider,Suspicious Bush,Pekka,Royal Ghost,Bandit,Wizard,Void,Zap"
+  ],
+  "Goblinstein": [
+    "Golem,Goblinstein,Flying Machine,Firecracker,Rage,Tornado,Giant Snowball,Zap",
+    "Graveyard,Goblinstein,Knight,Baby Dragon,Skeletons,Goblin Cage,Poison,Barbarian Barrel",
+    "Ram Rider,Goblinstein,Lumberjack,Ice Golem,Bomber,Void,Barbarian Barrel,Zap",
+    "Goblinstein,Giant Skeleton,Sparky,Mother Witch,Bomber,Guards,Lightning,Zap",
+    "Goblin Drill,Goblinstein,Bomber,Skeletons,Ice Spirit,Cannon,Poison,The Log"
+  ],
+  "Rune Giant": [
+    "Rune Giant,Three Musketeers,Battle Ram,Royal Ghost,Bandit,Hunter,Elixir Collector,Zap",
+    "Rune Giant,Royal Hogs,Three Musketeers,Royal Ghost,Hunter,Bats,Skeletons,Barbarian Barrel",
+    "Rune Giant,Mortar,Miner,Hunter,Bats,Skeletons,Poison,Barbarian Barrel",
+    "Rune Giant,Ram Rider,Lumberjack,Berserker,Inferno Dragon,Dart Goblin,Rage,Arrows",
+    "Rune Giant,Goblin Giant,Fisherman,Hunter,Archers,Guards,Rage,Arrows"
+  ],
+  "Berserker": [
+    "Graveyard,Knight,Berserker,Furnace,Ice Spirit,Goblin Hut,Poison,Barbarian Barrel",
+    "Goblin Barrel,Wall Breakers,Suspicious Bush,Berserker,Wizard,Dart Goblin,Ice Spirit,Barbarian Barrel",
+    "Electro Giant,Berserker,Inferno Dragon,Bomber,Cannon,Lightning,Tornado,Barbarian Barrel",
+    "Mortar,Skeleton Barrel,Cannon Cart,Berserker,Ice Wizard,Goblin Gang,Fireball,Barbarian Barrel",
+    "Rune Giant,Ram Rider,Lumberjack,Berserker,Inferno Dragon,Dart Goblin,Rage,Arrows"
+  ],
+  "Boss Bandit": [
+    "Battle Ram,Boss Bandit,Lumberjack,Bowler,Phoenix,Guards,Rage,Goblin Curse",
+    "Wall Breakers,Boss Bandit,Royal Recruits,Firecracker,Dart Goblin,Skeletons,Arrows,Giant Snowball",
+    "Golem,Boss Bandit,Lumberjack,Ice Wizard,Electro Dragon,Elixir Collector,Tornado,Barbarian Barrel",
+    "Goblin Giant,Boss Bandit,Elite Barbarians,Sparky,Electro Wizard,Heal Spirit,Rage,Zap",
+    "Battle Ram,Boss Bandit,Cannon Cart,Royal Ghost,Mother Witch,Guards,Ice Spirit,Arrows"
+  ],
+  "Cannon": [
+    "Royal Hogs,Archer Queen,Skeletons,Fire Spirit,Cannon,Earthquake,Royal Delivery,The Log",
+    "Hog Rider,Ice Golem,Musketeer,Bomber,Ice Spirit,Cannon,Fireball,The Log",
+    "Hog Rider,Ice Golem,Mega Minion,Archers,Ice Spirit,Cannon,Fireball,Zap",
+    "Goblin Barrel,Valkyrie,Ice Wizard,Dart Goblin,Skeletons,Cannon,Giant Snowball,Zap",
+    "Hog Rider,Ice Golem,Musketeer,Skeletons,Ice Spirit,Cannon,Rocket,Zap"
+  ],
+  "Goblin Hut": [
+    "Graveyard,Knight,Ice Wizard,Baby Dragon,Goblin Hut,Vines,Poison,Barbarian Barrel",
+    "Graveyard,Knight,Ice Wizard,Witch,Skeletons,Goblin Hut,Poison,Barbarian Barrel",
+    "Royal Hogs,Golden Knight,Royal Recruits,Zappies,Flying Machine,Goblin Hut,Arrows,Barbarian Barrel",
+    "Hog Rider,Monk,Archers,Goblins,Fire Spirit,Goblin Hut,Earthquake,The Log",
+    "Mega Knight,Cannon Cart,Furnace,Flying Machine,Ice Spirit,Goblin Hut,Poison,The Log"
+  ],
+  "Mortar": [
+    "Mortar,Miner,Rascals,Bats,Goblin Gang,Spear Goblins,Fireball,Barbarian Barrel",
+    "Mortar,Miner,Skeleton King,Musketeer,Bats,Skeleton Army,Poison,The Log",
+    "Mortar,Ice Golem,Mega Minion,Minions,Skeleton Army,Fire Spirit,Inferno Tower,The Log",
+    "Hog Rider,Mortar,Ice Golem,Bats,Goblin Gang,Ice Spirit,Heal Spirit,Freeze",
+    "Mortar,Knight,Musketeer,Minions,Archers,Fire Spirit,Rocket,The Log"
+  ],
+  "Inferno Tower": [
+    "Battle Ram,Miner,Knight,Electro Wizard,Goblin Gang,Inferno Tower,Poison,The Log",
+    "Mini Pekka,Inferno Dragon,Electro Dragon,Bats,Guards,Inferno Tower,Arrows,Zap",
+    "X Bow,Knight,Electro Wizard,Skeletons,Ice Spirit,Inferno Tower,Fireball,The Log",
+    "Goblin Drill,Knight,Princess,Goblin Gang,Ice Spirit,Inferno Tower,Rocket,The Log",
+    "Miner,Ice Golem,Ice Wizard,Bats,Ice Spirit,Inferno Tower,Poison,Zap"
+  ],
+  "Bomb Tower": [
+    "Goblins,Spear Goblins,Skeletons,Fire Spirit,Ice Spirit,Bomb Tower,Rage,Arrows",
+    "Elixir Golem,Battle Healer,Electro Dragon,Baby Dragon,Bomb Tower,Fireball,Tornado,Barbarian Barrel",
+    "Goblin Barrel,Skeleton Barrel,Skeleton King,Dart Goblin,Skeleton Army,Bomb Tower,Fireball,The Log",
+    "Hog Rider,Archer Queen,Giant Skeleton,Goblins,Ice Spirit,Bomb Tower,Earthquake,The Log",
+    "Goblin Drill,Giant Skeleton,Bowler,Executioner,Bomb Tower,Rocket,Poison,Tornado"
+  ],
+  "Barbarian Hut": [
+    "Elixir Golem,Battle Healer,Electro Dragon,Skeleton Dragons,Heal Spirit,Barbarian Hut,Fireball,Tornado",
+    "Graveyard,Knight,Musketeer,Skeleton Dragons,Barbarian Hut,Poison,Royal Delivery,Barbarian Barrel",
+    "Prince,Musketeer,Minions,Spear Goblins,Goblin Hut,Barbarian Hut,Fireball,Zap",
+    "Graveyard,Valkyrie,Night Witch,Minions,Archers,Barbarian Hut,Poison,The Log",
+    "X Bow,Bandit,Electro Wizard,Ice Wizard,Goblin Hut,Barbarian Hut,Fireball,The Log"
+  ],
+  "Tesla": [
+    "X Bow,Mortar,Skeletons,Ice Spirit,Tesla,Bomb Tower,Earthquake,The Log",
+    "Goblin Barrel,Little Prince,Knight,Princess,Skeletons,Tesla,Rocket,The Log",
+    "Miner,Golden Knight,Mega Minion,Skeletons,Tesla,Poison,Royal Delivery,The Log",
+    "X Bow,Knight,Musketeer,Skeletons,Tesla,Elixir Collector,The Log,Giant Snowball",
+    "Miner,Valkyrie,Electro Wizard,Skeletons,Ice Spirit,Tesla,Poison,The Log"
+  ],
+  "Elixir Collector": [
+    "Giant,Three Musketeers,Battle Ram,Battle Healer,Minion Horde,Goblin Gang,Elixir Collector,Zap",
+    "Three Musketeers,Battle Ram,Dark Prince,Bandit,Ice Golem,Bats,Elixir Collector,Zap",
+    "Golem,Boss Bandit,Lumberjack,Ice Wizard,Electro Dragon,Elixir Collector,Tornado,Barbarian Barrel",
+    "Three Musketeers,Miner,Mega Knight,Minions,Skeletons,Ice Spirit,Elixir Collector,Arrows",
+    "Giant,Graveyard,Ice Golem,Witch,Minions,Elixir Collector,Poison,Zap"
+  ],
+  "X-Bow": [
+    "X Bow,Ice Golem,Archers,Skeletons,Ice Spirit,Inferno Tower,Fireball,The Log",
+    "X Bow,Executioner,Minions,Skeletons,Ice Spirit,Fireball,Tornado,The Log",
+    "X Bow,Mortar,Skeletons,Ice Spirit,Tesla,Bomb Tower,Earthquake,The Log",
+    "X Bow,Ice Golem,Ice Wizard,Mega Minion,Ice Spirit,Rocket,Tornado,The Log",
+    "X Bow,Ice Golem,Mega Minion,Skeletons,Fire Spirit,Inferno Tower,Fireball,The Log"
+  ],
+  "Tombstone": [
+    "Lava Hound,Balloon,Inferno Dragon,Minions,Skeleton Army,Tombstone,Fireball,Zap",
+    "Lava Hound,Battle Ram,Night Witch,Mega Minion,Minions,Tombstone,Fireball,Zap",
+    "Lava Hound,Miner,Mega Minion,Minions,Skeleton Army,Tombstone,Lightning,Arrows",
+    "Graveyard,Knight,Ice Wizard,Baby Dragon,Tombstone,Poison,Tornado,The Log",
+    "Electro Wizard,Furnace,Electro Dragon,Flying Machine,Tombstone,Mirror,Rocket,Lightning"
+  ],
+  "Furnace": [
+    "Goblin Barrel,Executioner,Furnace,Skeleton Army,Mirror,Rocket,Tornado,The Log",
+    "Skeleton Barrel,Giant Skeleton,Night Witch,Furnace,Flying Machine,Freeze,Clone,The Log",
+    "Miner,Pekka,Electro Wizard,Furnace,Minions,Skeletons,Poison,The Log",
+    "Mega Knight,Cannon Cart,Mother Witch,Furnace,Flying Machine,Goblin Hut,Fireball,Earthquake",
+    "Royal Giant,Electro Wizard,Furnace,Baby Dragon,Mega Minion,Guards,Fireball,Barbarian Barrel"
+  ],
+  "Goblin Cage": [
+    "Golem,Executioner,Night Witch,Baby Dragon,Goblin Cage,Lightning,Tornado,Barbarian Barrel",
+    "Graveyard,Goblinstein,Knight,Baby Dragon,Skeletons,Goblin Cage,Poison,Barbarian Barrel",
+    "Three Musketeers,Battle Ram,Dark Prince,Bandit,Ice Golem,Musketeer,Goblin Cage,Giant Snowball",
+    "Electro Giant,Dark Prince,Ice Wizard,Baby Dragon,Goblin Cage,Lightning,Tornado,Barbarian Barrel",
+    "Goblin Giant,Goblin Barrel,Goblin Gang,Goblins,Spear Goblins,Goblin Cage,Arrows,The Log"
+  ],
+  "Goblin Drill": [
+    "Goblin Drill,Suspicious Bush,Royal Ghost,Bandit,Bomber,Guards,Tesla,Arrows",
+    "Electro Giant,Goblin Drill,Dark Prince,Mother Witch,Inferno Dragon,Bomber,Lightning,Tornado",
+    "Goblin Drill,Knight,Executioner,Bomber,Guards,Tesla,Poison,Tornado",
+    "Goblin Drill,Wall Breakers,Little Prince,Royal Ghost,Bandit,Bomber,Skeletons,Poison",
+    "Goblin Giant,Goblin Drill,Valkyrie,Goblin Gang,Spear Goblins,Bomb Tower,Poison,The Log"
+  ],
+  "Fireball": [
+    "Hog Rider,Ice Golem,Musketeer,Skeletons,Ice Spirit,Cannon,Fireball,Zap",
+    "Goblin Giant,Goblin Machine,Valkyrie,Electro Wizard,Ice Wizard,Guards,Goblin Curse,Fireball",
+    "Giant,Mini Pekka,Musketeer,Mega Minion,Skeletons,Fireball,Arrows,Barbarian Barrel",
+    "Battle Ram,Knight,Minions,Archers,Spear Goblins,Tombstone,Fireball,Arrows",
+    "Royal Giant,Royal Ghost,Fisherman,Hunter,Skeletons,Electro Spirit,Fireball,Barbarian Barrel"
+  ],
+  "Arrows": [
+    "Giant,Graveyard,Archer Queen,Dark Prince,Mega Minion,Skeleton Army,Arrows,Giant Snowball",
+    "Giant,Mini Pekka,Baby Dragon,Archers,Goblins,Spear Goblins,Fireball,Arrows",
+    "Lava Hound,Balloon,Barbarians,Mega Minion,Bats,Guards,Arrows,Giant Snowball",
+    "Giant,Mini Pekka,Musketeer,Mega Minion,Skeletons,Fireball,Arrows,Barbarian Barrel",
+    "Mortar,Miner,Skeleton King,Cannon Cart,Bats,Goblin Gang,Spear Goblins,Arrows"
+  ],
+  "Rage": [
+    "Goblin Giant,Pekka,Furnace,Mega Minion,Bomber,Rage,Goblin Curse,Arrows",
+    "Goblin Giant,Prince,Dark Prince,Phoenix,Bomber,Rage,Arrows,Zap",
+    "Elixir Golem,Skeleton King,Goblin Machine,Witch,Night Witch,Skeletons,Rage,Arrows",
+    "Rune Giant,Goblin Giant,Elite Barbarians,Sparky,Mother Witch,Bomber,Rage,Arrows",
+    "Giant,Sparky,Mini Pekka,Dark Prince,Wizard,Minion Horde,Elixir Collector,Rage"
+  ],
+  "Rocket": [
+    "Goblin Barrel,Bandit,Princess,Goblin Gang,Ice Spirit,Inferno Tower,Rocket,The Log",
+    "Goblin Barrel,Miner,Ice Golem,Executioner,Skeleton Army,Inferno Tower,Rocket,The Log",
+    "Hog Rider,Goblin Barrel,Princess,Skeleton Army,Goblin Gang,Inferno Tower,Rocket,Zap",
+    "Miner,Pekka,Electro Wizard,Electro Dragon,Bats,Guards,Rocket,Zap",
+    "X Bow,Ice Golem,Mega Minion,Dart Goblin,Ice Spirit,Inferno Tower,Rocket,The Log"
+  ],
+  "Goblin Barrel": [
+    "Goblin Barrel,Miner,Ice Golem,Executioner,Skeleton Army,Inferno Tower,Rocket,The Log",
+    "Goblin Barrel,Knight,Princess,Goblin Gang,Ice Spirit,Tombstone,Rocket,The Log",
+    "Goblin Barrel,Knight,Princess,Goblin Gang,Heal Spirit,Inferno Tower,Rocket,The Log",
+    "Giant,Goblin Barrel,Mini Pekka,Musketeer,Mega Minion,Skeleton Army,Fireball,Arrows",
+    "Goblin Barrel,Cannon Cart,Dark Prince,Rascals,Bandit,Princess,Rocket,Giant Snowball"
+  ],
+  "Freeze": [
+    "Skeleton Barrel,Giant Skeleton,Night Witch,Furnace,Flying Machine,Freeze,Clone,The Log",
+    "Balloon,Miner,Mini Pekka,Ice Golem,Mega Minion,Bats,Freeze,Zap",
+    "Balloon,Ice Golem,Mega Minion,Minions,Inferno Tower,Elixir Collector,Freeze,Zap",
+    "Balloon,Lumberjack,Valkyrie,Ice Wizard,Mega Minion,Freeze,Tornado,Zap",
+    "Executioner,Skeletons,Fire Spirit,Ice Spirit,Electro Spirit,Freeze,Rocket,Tornado"
+  ],
+  "Mirror": [
+    "Electro Giant,Mini Pekka,Ice Wizard,Dart Goblin,Skeletons,Mirror,Tornado,Zap",
+    "Goblin Barrel,Bowler,Furnace,Flying Machine,Goblin Gang,Mirror,Rocket,The Log",
+    "Graveyard,Valkyrie,Witch,Zappies,Goblin Hut,Freeze,Mirror,Barbarian Barrel",
+    "Goblin Barrel,Executioner,Furnace,Skeleton Army,Mirror,Rocket,Tornado,The Log",
+    "Ram Rider,Bowler,Mega Minion,Skeletons,Ice Spirit,Inferno Tower,Mirror,Giant Snowball"
+  ],
+  "Lightning": [
+    "Lava Hound,Balloon,Mega Minion,Minions,Goblin Gang,Tombstone,Lightning,Zap",
+    "Golem,Skeleton King,Night Witch,Baby Dragon,Tombstone,Lightning,Tornado,Barbarian Barrel",
+    "Golem,Dark Prince,Mother Witch,Night Witch,Baby Dragon,Lightning,Tornado,Barbarian Barrel",
+    "Golem,Night Witch,Baby Dragon,Minions,Skeletons,Tombstone,Lightning,The Log",
+    "Golem,Electro Wizard,Baby Dragon,Minions,Skeletons,Lightning,Tornado,The Log"
+  ],
+  "Zap": [
+    "Battle Ram,Prince,Bandit,Ice Golem,Skeleton Dragons,Firecracker,Fireball,Zap",
+    "Royal Giant,Hog Rider,Sparky,Barbarians,Mega Minion,Minion Horde,Arrows,Zap",
+    "Mortar,Miner,Knight,Minion Horde,Bats,Princess,Goblin Gang,Zap",
+    "Royal Recruits,Mini Pekka,Mother Witch,Flying Machine,Skeleton Army,Tombstone,Tornado,Zap",
+    "Miner,Skeleton Barrel,Prince,Royal Ghost,Inferno Dragon,Bats,Poison,Zap"
+  ],
+  "Poison": [
+    "Mega Knight,Night Witch,Baby Dragon,Mega Minion,Ice Spirit,Elixir Collector,Poison,Zap",
+    "Goblin Barrel,Pekka,Knight,Baby Dragon,Dart Goblin,Goblin Gang,Poison,The Log",
+    "Miner,Knight,Electro Wizard,Goblins,Ice Spirit,Tesla,Poison,Zap",
+    "Giant,Graveyard,Electro Wizard,Mega Minion,Skeletons,Elixir Collector,Poison,The Log",
+    "Giant,Graveyard,Bowler,Mega Minion,Bats,Poison,Tornado,Zap"
+  ],
+  "Graveyard": [
+    "Graveyard,Mega Knight,Ice Golem,Bats,Dart Goblin,Goblin Gang,Inferno Tower,Poison",
+    "Graveyard,Knight,Mega Minion,Archers,Skeletons,Inferno Tower,Poison,The Log",
+    "Graveyard,Monk,Phoenix,Zappies,Goblins,Tombstone,Poison,Barbarian Barrel",
+    "Graveyard,Knight,Ice Wizard,Witch,Skeletons,Goblin Hut,Poison,Barbarian Barrel",
+    "Graveyard,Knight,Executioner,Electro Wizard,Skeletons,Poison,Tornado,The Log"
+  ],
+  "The Log": [
+    "Goblin Barrel,Dark Prince,Bandit,Princess,Goblin Gang,Spear Goblins,Tornado,The Log",
+    "Goblin Drill,Valkyrie,Magic Archer,Spear Goblins,Skeletons,Bomb Tower,Tornado,The Log",
+    "Royal Giant,Fisherman,Furnace,Baby Dragon,Mega Minion,Skeletons,Lightning,The Log",
+    "Mortar,Miner,Goblinstein,Cannon Cart,Bats,Goblin Gang,Fireball,The Log",
+    "Hog Rider,Pekka,Electro Wizard,Minions,Skeletons,Poison,The Log,Zap"
+  ],
+  "Tornado": [
+    "Electro Giant,Golden Knight,Phoenix,Archers,Cannon,Lightning,Tornado,Barbarian Barrel",
+    "Royal Giant,Ice Wizard,Mega Minion,Skeletons,Ice Spirit,Fireball,Tornado,Barbarian Barrel",
+    "Golem,Lumberjack,Bandit,Night Witch,Mega Minion,Elixir Collector,Tornado,Zap",
+    "X Bow,Ice Wizard,Mega Minion,Princess,Goblin Gang,Rocket,Tornado,The Log",
+    "Rune Giant,Goblin Giant,Monk,Ice Wizard,Electro Dragon,Guards,Rage,Tornado"
+  ],
+  "Clone": [
+    "Firecracker,Archers,Fire Spirit,Electro Spirit,Clone,Mirror,Poison,Arrows",
+    "Balloon,Lumberjack,Ice Golem,Mega Minion,Ice Spirit,Freeze,Clone,Arrows",
+    "Goblin Barrel,Giant Skeleton,Sparky,Minion Horde,Skeleton Army,Tesla,Clone,Arrows",
+    "Lava Hound,Lumberjack,Baby Dragon,Bats,Flying Machine,Skeleton Army,Clone,Fireball",
+    "Skeleton Barrel,Giant Skeleton,Royal Ghost,Inferno Dragon,Bats,Guards,Clone,Zap"
+  ],
+  "Earthquake": [
+    "Royal Hogs,Little Prince,Bomber,Skeletons,Ice Spirit,Tesla,Earthquake,Royal Delivery",
+    "Royal Hogs,Mini Pekka,Magic Archer,Hunter,Skeletons,Ice Spirit,Earthquake,Royal Delivery",
+    "X Bow,Mortar,Skeletons,Ice Spirit,Tesla,Bomb Tower,Earthquake,The Log",
+    "Royal Hogs,Mini Pekka,Ice Golem,Magic Archer,Hunter,Heal Spirit,Earthquake,The Log",
+    "Hog Rider,Monk,Archers,Goblins,Fire Spirit,Goblin Hut,Earthquake,The Log"
+  ],
+  "Barbarian Barrel": [
+    "Graveyard,Little Prince,Knight,Baby Dragon,Tesla,Poison,Tornado,Barbarian Barrel",
+    "Graveyard,Monk,Phoenix,Zappies,Goblins,Tombstone,Poison,Barbarian Barrel",
+    "Ram Rider,Three Musketeers,Bandit,Ice Golem,Minion Horde,Elixir Collector,Barbarian Barrel,Zap",
+    "Mortar,Skeleton Barrel,Cannon Cart,Berserker,Ice Wizard,Goblin Gang,Fireball,Barbarian Barrel",
+    "Golem,Boss Bandit,Lumberjack,Ice Wizard,Electro Dragon,Elixir Collector,Tornado,Barbarian Barrel"
+  ],
+  "Heal Spirit": [
+    "Golem,Lumberjack,Night Witch,Baby Dragon,Mega Minion,Heal Spirit,Poison,Barbarian Barrel",
+    "Royal Hogs,Musketeer,Skeleton Dragons,Skeletons,Heal Spirit,Barbarian Hut,Fireball,Barbarian Barrel",
+    "Royal Giant,Fisherman,Hunter,Skeleton Dragons,Skeletons,Heal Spirit,Fireball,The Log",
+    "Giant,Elite Barbarians,Sparky,Electro Wizard,Heal Spirit,Fireball,Tornado,Zap",
+    "Hog Rider,Mortar,Ice Golem,Bats,Goblin Gang,Ice Spirit,Heal Spirit,Freeze"
+  ],
+  "Giant Snowball": [
+    "Balloon,Little Prince,Royal Recruits,Lumberjack,Fisherman,Archers,Arrows,Giant Snowball",
+    "Royal Giant,Lumberjack,Furnace,Baby Dragon,Mega Minion,Lightning,Barbarian Barrel,Giant Snowball",
+    "Graveyard,Giant Skeleton,Fisherman,Musketeer,Baby Dragon,Guards,Poison,Giant Snowball",
+    "Royal Hogs,Bandit,Musketeer,Barbarians,Bats,Elixir Collector,Barbarian Barrel,Giant Snowball",
+    "Golem,Prince,Baby Dragon,Mega Minion,Guards,Elixir Collector,Lightning,Giant Snowball"
+  ],
+  "Royal Delivery": [
+    "Hog Rider,Little Prince,Mega Knight,Royal Ghost,Wizard,Royal Delivery,The Log,Barbarian Barrel",
+    "Hog Rider,Mortar,Mighty Miner,Musketeer,Goblins,Earthquake,Royal Delivery,The Log",
+    "Miner,Golden Knight,Mega Minion,Skeletons,Tesla,Poison,Royal Delivery,The Log",
+    "Miner,Golden Knight,Bats,Skeletons,Tesla,Poison,Royal Delivery,The Log",
+    "Lava Hound,Balloon,Mini Pekka,Mega Minion,Minions,Fireball,Royal Delivery,Zap"
+  ],
+  "Void": [
+    "Lava Hound,Balloon,Barbarians,Skeleton Dragons,Mega Minion,Tombstone,Void,Zap",
+    "Wall Breakers,Mother Witch,Bats,Fire Spirit,Ice Spirit,Electro Spirit,Void,Arrows",
+    "Graveyard,Knight,Ice Wizard,Baby Dragon,Tombstone,Void,Tornado,Barbarian Barrel",
+    "Hog Rider,Knight,Firecracker,Goblins,Ice Spirit,Tesla,Void,The Log",
+    "Electro Giant,Little Prince,Knight,Bomber,Tombstone,Void,Lightning,Tornado"
+  ],
+  "Goblin Curse": [
+    "Goblin Giant,Pekka,Goblin Machine,Fisherman,Bomber,Rage,Goblin Curse,Vines",
+    "Goblin Giant,Goblin Machine,Valkyrie,Electro Wizard,Ice Wizard,Guards,Goblin Curse,Fireball",
+    "Giant Skeleton,Ice Golem,Witch,Dart Goblin,Skeletons,Electro Spirit,Rage,Goblin Curse",
+    "Goblin Giant,Pekka,Furnace,Mega Minion,Bomber,Rage,Goblin Curse,Arrows",
+    "Goblin Drill,Goblin Machine,Goblin Demolisher,Guards,Ice Spirit,Tesla,Goblin Curse,Zap"
+  ],
+  "Spirit Empress": [
+    "Goblin Giant,Spirit Empress,Pekka,Goblin Machine,Bomber,Rage,Goblin Curse,Arrows",
+    "Lava Hound,Miner,Spirit Empress,Barbarians,Flying Machine,Tombstone,Goblin Curse,Zap",
+    "Graveyard,Spirit Empress,Knight,Witch,Skeletons,Goblin Hut,Poison,Barbarian Barrel",
+    "Mortar,Miner,Skeleton King,Spirit Empress,Ice Wizard,Bats,Goblin Gang,Arrows",
+    "Golem,Spirit Empress,Lumberjack,Dark Prince,Electro Dragon,Elixir Collector,Tornado,Barbarian Barrel"
+  ],
+  "Vines": [
+    "Goblin Giant,Goblin Machine,Mini Pekka,Witch,Minions,Rage,Vines,Barbarian Barrel",
+    "Goblin Giant,Pekka,Goblin Machine,Fisherman,Bomber,Rage,Goblin Curse,Vines",
+    "Graveyard,Knight,Ice Wizard,Witch,Goblin Hut,Vines,Poison,Barbarian Barrel",
+    "Royal Giant,Monk,Fisherman,Wizard,Skeletons,Electro Spirit,Vines,Barbarian Barrel",
+    "Goblin Giant,Goblin Machine,Prince,Furnace,Minions,Rage,Goblin Curse,Vines"
+  ]
+}

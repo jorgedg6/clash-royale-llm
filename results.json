@@ -1,0 +1,472 @@
+[
+  {
+    "seleccion": [
+      "Golem",
+      "Baby Dragon",
+      "Tornado",
+      "Night Witch",
+      "Lightning",
+      "Barbarian Barrel"
+    ],
+    "detalle": [
+      {
+        "carta": "Golem",
+        "costo_elixir": 8,
+        "rol": "condición de victoria",
+        "sinergiasCon": [
+          "Electro Dragon",
+          "Battle Healer"
+        ],
+        "cubreDebilidad": [
+          "tanqueo",
+          "condición de victoria"
+        ],
+        "impactoElixir": {
+          "antes": 4.0,
+          "despues": 5.33
+        }
+      },
+      {
+        "carta": "Baby Dragon",
+        "costo_elixir": 4,
+        "rol": "daño en área",
+        "sinergiasCon": [
+          "Electro Dragon",
+          "Battle Healer",
+          "Golem"
+        ],
+        "cubreDebilidad": [
+          "respuesta aérea",
+          "enjambres"
+        ],
+        "impactoElixir": {
+          "antes": 5.33,
+          "despues": 5.14
+        }
+      },
+      {
+        "carta": "Tornado",
+        "costo_elixir": 3,
+        "rol": "control",
+        "sinergiasCon": [
+          "Baby Dragon",
+          "Electro Dragon"
+        ],
+        "cubreDebilidad": [
+          "control de tropas agrupadas",
+          "reubicación"
+        ],
+        "impactoElixir": {
+          "antes": 5.14,
+          "despues": 4.86
+        }
+      },
+      {
+        "carta": "Night Witch",
+        "costo_elixir": 4,
+        "rol": "soporte",
+        "sinergiasCon": [
+          "Golem",
+          "Battle Healer"
+        ],
+        "cubreDebilidad": [
+          "generación de presión",
+          "respuesta aérea"
+        ],
+        "impactoElixir": {
+          "antes": 4.86,
+          "despues": 4.86
+        }
+      },
+      {
+        "carta": "Lightning",
+        "costo_elixir": 6,
+        "rol": "hechizo grande",
+        "sinergiasCon": [
+          "Golem",
+          "Electro Dragon"
+        ],
+        "cubreDebilidad": [
+          "estructuras defensivas",
+          "tropas de alto valor"
+        ],
+        "impactoElixir": {
+          "antes": 4.86,
+          "despues": 5.14
+        }
+      },
+      {
+        "carta": "Barbarian Barrel",
+        "costo_elixir": 2,
+        "rol": "hechizo pequeño",
+        "sinergiasCon": [
+          "Baby Dragon",
+          "Tornado"
+        ],
+        "cubreDebilidad": [
+          "enjambres",
+          "ciclo rápido"
+        ],
+        "impactoElixir": {
+          "antes": 5.14,
+          "despues": 4.86
+        }
+      }
+    ],
+    "resumen": "El mazo es un arquetipo beatdown centrado en el Golem como condición de victoria, con soporte aéreo y control mediante Electro Dragon, Baby Dragon y Tornado. Lightning y Barbarian Barrel aseguran respuestas a estructuras y enjambres.",
+    "n": 6,
+    "user_id": 50,
+    "deleted": [
+      "Minions",
+      "Golem",
+      "Lumberjack"
+    ]
+  },
+  {
+    "seleccion": [
+      "Firecracker",
+      "Inferno Tower",
+      "Ice Spirit"
+    ],
+    "detalle": [
+      {
+        "carta": "Firecracker",
+        "costo_elixir": 3,
+        "rol": "respuesta aérea/daño en área",
+        "sinergiasCon": [
+          "Knight",
+          "Hog Rider",
+          "Barbarian Barrel"
+        ],
+        "cubreDebilidad": [
+          "respuesta aérea",
+          "control de enjambres"
+        ],
+        "impactoElixir": {
+          "antes": 2.6,
+          "despues": 2.8
+        }
+      },
+      {
+        "carta": "Inferno Tower",
+        "costo_elixir": 5,
+        "rol": "defensa contra tanques",
+        "sinergiasCon": [
+          "Knight",
+          "Skeletons",
+          "Barbarian Barrel"
+        ],
+        "cubreDebilidad": [
+          "defensa contra tanques grandes"
+        ],
+        "impactoElixir": {
+          "antes": 2.6,
+          "despues": 3.0
+        }
+      },
+      {
+        "carta": "Ice Spirit",
+        "costo_elixir": 1,
+        "rol": "ciclo/control",
+        "sinergiasCon": [
+          "Hog Rider",
+          "Knight",
+          "Skeletons"
+        ],
+        "cubreDebilidad": [
+          "control de tropas rápidas",
+          "ciclo rápido"
+        ],
+        "impactoElixir": {
+          "antes": 3.0,
+          "despues": 2.9
+        }
+      }
+    ],
+    "resumen": "El mazo es un ciclo rápido centrado en el Hog Rider como condición de victoria, con soporte defensivo sólido contra tanques y enjambres, y herramientas de control aéreo y terrestre.",
+    "n": 3,
+    "user_id": 60,
+    "deleted": [
+      "Firecracker",
+      "Poison",
+      "Inferno Tower"
+    ]
+  },
+  {
+    "seleccion": [
+      "Fireball",
+      "Inferno Tower",
+      "Miner"
+    ],
+    "detalle": [
+      {
+        "carta": "Fireball",
+        "costo_elixir": 4,
+        "rol": "hechizo grande",
+        "sinergiasCon": [
+          "Zap",
+          "Dart Goblin",
+          "Bats"
+        ],
+        "cubreDebilidad": [
+          "respuesta a tropas agrupadas",
+          "daño directo a estructuras"
+        ],
+        "impactoElixir": {
+          "antes": 2.4,
+          "despues": 2.8
+        }
+      },
+      {
+        "carta": "Inferno Tower",
+        "costo_elixir": 5,
+        "rol": "defensa contra tanques",
+        "sinergiasCon": [
+          "Skeletons",
+          "Zap"
+        ],
+        "cubreDebilidad": [
+          "respuesta a tanques pesados"
+        ],
+        "impactoElixir": {
+          "antes": 2.8,
+          "despues": 3.1
+        }
+      },
+      {
+        "carta": "Miner",
+        "costo_elixir": 3,
+        "rol": "condición secundaria de victoria",
+        "sinergiasCon": [
+          "Zap",
+          "Dart Goblin",
+          "Bats"
+        ],
+        "cubreDebilidad": [
+          "presión constante",
+          "daño directo a torre"
+        ],
+        "impactoElixir": {
+          "antes": 3.1,
+          "despues": 3.0
+        }
+      }
+    ],
+    "resumen": "El mazo se orienta hacia un arquetipo de control con presión constante y defensa sólida. Usa el Bandit y Miner como condiciones de victoria, apoyados por tropas rápidas y hechizos para manejo de enjambres y daño directo.",
+    "n": 3,
+    "user_id": 70,
+    "deleted": [
+      "Miner",
+      "Wall Breakers",
+      "Mega Knight"
+    ]
+  },
+  {
+    "seleccion": [
+      "Cannon",
+      "Fireball",
+      "Skeletons"
+    ],
+    "detalle": [
+      {
+        "carta": "Cannon",
+        "costo_elixir": 3,
+        "rol": "Defensa terrestre",
+        "sinergiasCon": [
+          "Hog Rider",
+          "Knight",
+          "Guards"
+        ],
+        "cubreDebilidad": [
+          "Defensa contra tanques terrestres"
+        ],
+        "impactoElixir": {
+          "antes": 2.8,
+          "despues": 2.9
+        }
+      },
+      {
+        "carta": "Fireball",
+        "costo_elixir": 4,
+        "rol": "Hechizo grande",
+        "sinergiasCon": [
+          "Firecracker",
+          "Hog Rider"
+        ],
+        "cubreDebilidad": [
+          "Daño en área contra tropas agrupadas",
+          "Eliminación de unidades de vida media"
+        ],
+        "impactoElixir": {
+          "antes": 2.8,
+          "despues": 3.0
+        }
+      },
+      {
+        "carta": "Skeletons",
+        "costo_elixir": 1,
+        "rol": "Ciclo rápido y distracción",
+        "sinergiasCon": [
+          "Knight",
+          "Guards"
+        ],
+        "cubreDebilidad": [
+          "Ciclo más rápido",
+          "Distracción de tropas grandes"
+        ],
+        "impactoElixir": {
+          "antes": 2.8,
+          "despues": 2.9
+        }
+      }
+    ],
+    "resumen": "El mazo se centra en un arquetipo de ciclo rápido con Hog Rider como condición de victoria principal, apoyado por defensa sólida y control de área. El plan de juego es presionar constantemente mientras se defiende eficientemente.",
+    "n": 3,
+    "user_id": 80,
+    "deleted": [
+      "Earthquake",
+      "Tesla",
+      "The Log"
+    ]
+  },
+  {
+    "seleccion": [
+      "Inferno Dragon",
+      "Zap",
+      "Baby Dragon"
+    ],
+    "detalle": [
+      {
+        "carta": "Inferno Dragon",
+        "costo_elixir": 4,
+        "rol": "anti-tanque",
+        "sinergiasCon": [
+          "Mega Knight",
+          "Valkyrie",
+          "Barbarian Barrel"
+        ],
+        "cubreDebilidad": [
+          "tanques pesados"
+        ],
+        "impactoElixir": {
+          "antes": 4.2,
+          "despues": 4.14
+        }
+      },
+      {
+        "carta": "Zap",
+        "costo_elixir": 2,
+        "rol": "reset/hechizo pequeño",
+        "sinergiasCon": [
+          "Mega Knight",
+          "Inferno Dragon",
+          "Firecracker"
+        ],
+        "cubreDebilidad": [
+          "reset contra Inferno Tower/Dragon",
+          "enjambres pequeños"
+        ],
+        "impactoElixir": {
+          "antes": 4.14,
+          "despues": 4.0
+        }
+      },
+      {
+        "carta": "Baby Dragon",
+        "costo_elixir": 4,
+        "rol": "daño en área/aéreo",
+        "sinergiasCon": [
+          "Mega Knight",
+          "Firecracker",
+          "Valkyrie"
+        ],
+        "cubreDebilidad": [
+          "enjambres aéreos",
+          "daño en área adicional"
+        ],
+        "impactoElixir": {
+          "antes": 4.0,
+          "despues": 4.0
+        }
+      }
+    ],
+    "resumen": "El mazo se orienta hacia un arquetipo beatdown con Mega Knight como condición de victoria principal, complementado por control aéreo y anti-tanque. El plan de juego es acumular tropas resistentes y de daño en área para presionar en el doble elixir.",
+    "n": 3,
+    "user_id": 90,
+    "deleted": [
+      "Tesla",
+      "Goblin Barrel",
+      "Electro Wizard"
+    ]
+  },
+  {
+    "seleccion": [
+      "Fireball",
+      "Flying Machine",
+      "Skeleton Army"
+    ],
+    "detalle": [
+      {
+        "carta": "Fireball",
+        "costo_elixir": "4",
+        "rol": "Hechizo grande",
+        "sinergiasCon": [
+          "Royal Hogs",
+          "Bomb Tower",
+          "Royal Delivery"
+        ],
+        "cubreDebilidad": [
+          "Respuesta a acumulaciones grandes",
+          "Daño directo"
+        ],
+        "impactoElixir": {
+          "antes": 3.2,
+          "despues": 3.3
+        }
+      },
+      {
+        "carta": "Flying Machine",
+        "costo_elixir": "4",
+        "rol": "Respuesta aérea / Soporte ofensivo",
+        "sinergiasCon": [
+          "Royal Hogs",
+          "Bomb Tower",
+          "Royal Delivery"
+        ],
+        "cubreDebilidad": [
+          "Anti-aéreo",
+          "Soporte para win-con"
+        ],
+        "impactoElixir": {
+          "antes": 3.2,
+          "despues": 3.4
+        }
+      },
+      {
+        "carta": "Skeleton Army",
+        "costo_elixir": "3",
+        "rol": "Defensa contra tanques / Enjambres",
+        "sinergiasCon": [
+          "Bomb Tower",
+          "Royal Delivery"
+        ],
+        "cubreDebilidad": [
+          "Defensa contra tanques",
+          "Control de tropas terrestres"
+        ],
+        "impactoElixir": {
+          "antes": 3.2,
+          "despues": 3.3
+        }
+      }
+    ],
+    "resumen": "El mazo se centra en un arquetipo de control con Royal Hogs como condición de victoria, apoyado por herramientas defensivas y ofensivas versátiles. El plan de juego es acumular daño con los Royal Hogs mientras se controla el campo con respuestas aéreas, terrestres y hechizos.",
+    "n": 3,
+    "user_id": 100,
+    "deleted": [
+      "Furnace",
+      "Poison",
+      "Skeletons"
+    ]
+  }
+]

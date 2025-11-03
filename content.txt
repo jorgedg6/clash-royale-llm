@@ -1,0 +1,3 @@
+```json
+{ "seleccion": [], "detalle": [], "resumen": "El mazo ya tiene 8 cartas.", "n": 0 }
+```

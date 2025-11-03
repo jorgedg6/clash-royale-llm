@@ -1,0 +1,180 @@
+2025-11-02 23:25:19,065 - root - INFO - Logger configurado exitosamente.
+2025-11-02 23:25:19,112 - root - INFO - Iniciando la ejecución asíncrona...
+2025-11-02 23:25:20,122 - root - INFO - Iniciando procesamiento para 10 jugadores a través de 2 LLMs (x2 con/sin contexto).
+2025-11-02 23:25:20,123 - root - INFO - Creando tareas para: DeepSeek-V3.1...
+2025-11-02 23:25:20,123 - root - INFO - Creando tareas para: Llama-3.3-70B-Instruct...
+2025-11-02 23:25:20,124 - root - INFO - Total de tareas creadas: 40
+2025-11-02 23:25:20,124 - root - INFO - 
+--- Ejecutando Lote 1 / 4 (Tamaño: 10) ---
+2025-11-02 23:25:21,419 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:22,589 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 23:25:22,591 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:22,591 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:22,592 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:22,593 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:22,593 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:22,594 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:22,595 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:22,595 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:22,596 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:23,711 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 23:25:24,947 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 23:25:26,123 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 23:25:27,664 - root - INFO - Éxito: Usuario L0092LLGP (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 23:25:28,407 - root - INFO - Éxito: Usuario L0092LLGP (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 23:25:30,890 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 23:25:34,165 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 23:25:35,040 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 23:25:39,199 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 23:25:40,201 - root - INFO - 
+--- Ejecutando Lote 2 / 4 (Tamaño: 10) ---
+2025-11-02 23:25:41,635 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:41,640 - openai._base_client - INFO - Retrying request to /chat/completions in 0.416985 seconds
+2025-11-02 23:25:41,641 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:41,642 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:41,644 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:41,645 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:41,646 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:41,647 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:41,647 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:41,648 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:41,649 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:41,650 - openai._base_client - INFO - Retrying request to /chat/completions in 0.474005 seconds
+2025-11-02 23:25:41,651 - openai._base_client - INFO - Retrying request to /chat/completions in 0.491076 seconds
+2025-11-02 23:25:41,652 - openai._base_client - INFO - Retrying request to /chat/completions in 0.460715 seconds
+2025-11-02 23:25:41,654 - openai._base_client - INFO - Retrying request to /chat/completions in 0.443355 seconds
+2025-11-02 23:25:41,655 - openai._base_client - INFO - Retrying request to /chat/completions in 0.408661 seconds
+2025-11-02 23:25:41,656 - openai._base_client - INFO - Retrying request to /chat/completions in 0.405745 seconds
+2025-11-02 23:25:41,657 - openai._base_client - INFO - Retrying request to /chat/completions in 0.423173 seconds
+2025-11-02 23:25:41,658 - openai._base_client - INFO - Retrying request to /chat/completions in 0.435109 seconds
+2025-11-02 23:25:41,659 - openai._base_client - INFO - Retrying request to /chat/completions in 0.437707 seconds
+2025-11-02 23:25:42,289 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:42,292 - openai._base_client - INFO - Retrying request to /chat/completions in 0.913703 seconds
+2025-11-02 23:25:42,293 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:42,295 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:42,296 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:42,298 - openai._base_client - INFO - Retrying request to /chat/completions in 0.993780 seconds
+2025-11-02 23:25:42,299 - openai._base_client - INFO - Retrying request to /chat/completions in 0.780148 seconds
+2025-11-02 23:25:42,300 - openai._base_client - INFO - Retrying request to /chat/completions in 0.770253 seconds
+2025-11-02 23:25:42,302 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:42,303 - openai._base_client - INFO - Retrying request to /chat/completions in 0.929265 seconds
+2025-11-02 23:25:42,304 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:42,307 - openai._base_client - INFO - Retrying request to /chat/completions in 0.894393 seconds
+2025-11-02 23:25:42,310 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:42,311 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:42,312 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:42,313 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:42,315 - openai._base_client - INFO - Retrying request to /chat/completions in 0.831578 seconds
+2025-11-02 23:25:42,316 - openai._base_client - INFO - Retrying request to /chat/completions in 0.815980 seconds
+2025-11-02 23:25:42,317 - openai._base_client - INFO - Retrying request to /chat/completions in 0.958286 seconds
+2025-11-02 23:25:42,318 - openai._base_client - INFO - Retrying request to /chat/completions in 0.999264 seconds
+2025-11-02 23:25:43,234 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:43,236 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:43,239 - root - WARNING - ! Error de parseo (Usuario: 9JL9080GL, LLM: DeepSeek-V3.1, Ctx: True): No se encontró JSON.
+2025-11-02 23:25:43,243 - root - WARNING - ! Error de parseo (Usuario: UL98CLGP, LLM: DeepSeek-V3.1, Ctx: True): No se encontró JSON.
+2025-11-02 23:25:43,286 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:43,288 - root - WARNING - ! Error de parseo (Usuario: YC9RRVYYL, LLM: DeepSeek-V3.1, Ctx: True): No se encontró JSON.
+2025-11-02 23:25:43,292 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:43,293 - root - WARNING - ! Error de parseo (Usuario: 9JL9080GL, LLM: DeepSeek-V3.1, Ctx: False): No se encontró JSON.
+2025-11-02 23:25:43,349 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:43,350 - root - WARNING - ! Error de parseo (Usuario: CRY0RPU, LLM: DeepSeek-V3.1, Ctx: True): No se encontró JSON.
+2025-11-02 23:25:43,352 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:43,353 - root - WARNING - ! Error de parseo (Usuario: CRY0RPU, LLM: DeepSeek-V3.1, Ctx: False): No se encontró JSON.
+2025-11-02 23:25:43,404 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:43,405 - root - WARNING - ! Error de parseo (Usuario: UL98CLGP, LLM: DeepSeek-V3.1, Ctx: False): No se encontró JSON.
+2025-11-02 23:25:43,452 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:43,454 - root - WARNING - ! Error de parseo (Usuario: YC9RRVYYL, LLM: DeepSeek-V3.1, Ctx: False): No se encontró JSON.
+2025-11-02 23:25:43,455 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:43,456 - root - WARNING - ! Error de parseo (Usuario: RCV90RLVC, LLM: DeepSeek-V3.1, Ctx: False): No se encontró JSON.
+2025-11-02 23:25:43,476 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:25:43,478 - root - WARNING - ! Error de parseo (Usuario: RCV90RLVC, LLM: DeepSeek-V3.1, Ctx: True): No se encontró JSON.
+2025-11-02 23:25:44,480 - root - INFO - 
+--- Ejecutando Lote 3 / 4 (Tamaño: 10) ---
+2025-11-02 23:25:46,137 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:47,061 - root - ERROR - ! Error inesperado (Usuario: 999QV8RJU, LLM: Llama-3.3-70B-Instruct, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=WallBreakers-Miner-Cannon-Bats-Zap-GobGang-MegaKnight
+2025-11-02 23:25:47,067 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:48,316 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: Llama-3.3-70B-Instruct, Ctx: True)
+2025-11-02 23:25:48,317 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:48,318 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:48,319 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:49,160 - root - INFO - Éxito: Usuario L0092LLGP (LLM: Llama-3.3-70B-Instruct, Ctx: False)
+2025-11-02 23:25:50,496 - root - ERROR - ! Error inesperado (Usuario: 999QV8RJU, LLM: Llama-3.3-70B-Instruct, Ctx: False): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=WallBreakers-Miner-Cannon-Bats-Barrel-MM-Log
+2025-11-02 23:25:51,826 - root - ERROR - ! Error inesperado (Usuario: L0092LLGP, LLM: Llama-3.3-70B-Instruct, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=MegaKnight-SpearGobs-Bats-Skellies-IceSpirit-Zap-GobGang
+2025-11-02 23:25:53,353 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:54,965 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: Llama-3.3-70B-Instruct, Ctx: True)
+2025-11-02 23:25:54,967 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:58,126 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: Llama-3.3-70B-Instruct, Ctx: False)
+2025-11-02 23:25:58,128 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:58,128 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:58,130 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:25:59,971 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: Llama-3.3-70B-Instruct, Ctx: False)
+2025-11-02 23:26:03,964 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: Llama-3.3-70B-Instruct, Ctx: True)
+2025-11-02 23:26:06,932 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: Llama-3.3-70B-Instruct, Ctx: False)
+2025-11-02 23:26:07,934 - root - INFO - 
+--- Ejecutando Lote 4 / 4 (Tamaño: 10) ---
+2025-11-02 23:26:08,733 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:08,735 - openai._base_client - INFO - Retrying request to /chat/completions in 0.481898 seconds
+2025-11-02 23:26:08,745 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:08,746 - openai._base_client - INFO - Retrying request to /chat/completions in 0.463147 seconds
+2025-11-02 23:26:08,752 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:08,755 - openai._base_client - INFO - Retrying request to /chat/completions in 0.482734 seconds
+2025-11-02 23:26:08,757 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:08,759 - openai._base_client - INFO - Retrying request to /chat/completions in 0.491736 seconds
+2025-11-02 23:26:08,784 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:08,786 - openai._base_client - INFO - Retrying request to /chat/completions in 0.467681 seconds
+2025-11-02 23:26:08,787 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:08,788 - openai._base_client - INFO - Retrying request to /chat/completions in 0.389135 seconds
+2025-11-02 23:26:08,789 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:08,790 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:08,790 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:08,791 - openai._base_client - INFO - Retrying request to /chat/completions in 0.473108 seconds
+2025-11-02 23:26:08,792 - openai._base_client - INFO - Retrying request to /chat/completions in 0.448947 seconds
+2025-11-02 23:26:08,793 - openai._base_client - INFO - Retrying request to /chat/completions in 0.476131 seconds
+2025-11-02 23:26:08,798 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:08,799 - openai._base_client - INFO - Retrying request to /chat/completions in 0.485736 seconds
+2025-11-02 23:26:09,355 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:09,357 - openai._base_client - INFO - Retrying request to /chat/completions in 0.771670 seconds
+2025-11-02 23:26:09,359 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:09,360 - openai._base_client - INFO - Retrying request to /chat/completions in 0.755478 seconds
+2025-11-02 23:26:09,375 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:09,377 - openai._base_client - INFO - Retrying request to /chat/completions in 0.941419 seconds
+2025-11-02 23:26:09,409 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:09,410 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:09,411 - openai._base_client - INFO - Retrying request to /chat/completions in 0.807304 seconds
+2025-11-02 23:26:09,412 - openai._base_client - INFO - Retrying request to /chat/completions in 0.917985 seconds
+2025-11-02 23:26:09,413 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:09,414 - openai._base_client - INFO - Retrying request to /chat/completions in 0.849846 seconds
+2025-11-02 23:26:09,415 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:09,416 - openai._base_client - INFO - Retrying request to /chat/completions in 0.770748 seconds
+2025-11-02 23:26:09,428 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:09,429 - openai._base_client - INFO - Retrying request to /chat/completions in 0.782848 seconds
+2025-11-02 23:26:09,452 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:09,454 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:09,455 - openai._base_client - INFO - Retrying request to /chat/completions in 0.753758 seconds
+2025-11-02 23:26:09,456 - openai._base_client - INFO - Retrying request to /chat/completions in 0.877852 seconds
+2025-11-02 23:26:10,283 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:10,286 - root - WARNING - ! Error de parseo (Usuario: RCV90RLVC, LLM: Llama-3.3-70B-Instruct, Ctx: False): No se encontró JSON.
+2025-11-02 23:26:10,287 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:10,289 - root - WARNING - ! Error de parseo (Usuario: YC9RRVYYL, LLM: Llama-3.3-70B-Instruct, Ctx: True): No se encontró JSON.
+2025-11-02 23:26:10,352 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:10,354 - root - WARNING - ! Error de parseo (Usuario: CRY0RPU, LLM: Llama-3.3-70B-Instruct, Ctx: True): No se encontró JSON.
+2025-11-02 23:26:10,363 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:10,365 - root - WARNING - ! Error de parseo (Usuario: UL98CLGP, LLM: Llama-3.3-70B-Instruct, Ctx: True): No se encontró JSON.
+2025-11-02 23:26:10,369 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:10,371 - root - WARNING - ! Error de parseo (Usuario: RCV90RLVC, LLM: Llama-3.3-70B-Instruct, Ctx: True): No se encontró JSON.
+2025-11-02 23:26:10,390 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:10,392 - root - WARNING - ! Error de parseo (Usuario: 9JL9080GL, LLM: Llama-3.3-70B-Instruct, Ctx: False): No se encontró JSON.
+2025-11-02 23:26:10,440 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:10,442 - root - WARNING - ! Error de parseo (Usuario: UL98CLGP, LLM: Llama-3.3-70B-Instruct, Ctx: False): No se encontró JSON.
+2025-11-02 23:26:10,470 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:10,471 - root - WARNING - ! Error de parseo (Usuario: CRY0RPU, LLM: Llama-3.3-70B-Instruct, Ctx: False): No se encontró JSON.
+2025-11-02 23:26:10,475 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:10,476 - root - WARNING - ! Error de parseo (Usuario: YC9RRVYYL, LLM: Llama-3.3-70B-Instruct, Ctx: False): No se encontró JSON.
+2025-11-02 23:26:10,485 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 23:26:10,486 - root - WARNING - ! Error de parseo (Usuario: 9JL9080GL, LLM: Llama-3.3-70B-Instruct, Ctx: True): No se encontró JSON.
+2025-11-02 23:26:11,489 - root - INFO - 
+--- Procesamiento de lotes completado. ---
+2025-11-02 23:26:11,490 - root - INFO - Resultados válidos (parseados y guardados): 17 de 40
+2025-11-02 23:26:11,520 - root - INFO - Ejecución finalizada.
+2025-11-02 23:26:11,521 - root - INFO - Resultados válidos guardados en: 'results/valid_results_20251102_232520.jsonl'
+2025-11-02 23:26:11,521 - root - INFO - Resultados crudos guardados en: 'results/raw_results_20251102_232520.jsonl'

@@ -1,0 +1,255 @@
+2025-11-02 22:25:48,655 - root - INFO - Logger configurado exitosamente.
+2025-11-02 22:25:48,700 - root - INFO - Iniciando la ejecución asíncrona...
+2025-11-02 22:25:49,702 - root - INFO - Iniciando procesamiento para 10 jugadores a través de 5 LLMs (x2 con/sin contexto).
+2025-11-02 22:25:49,703 - root - INFO - Creando tareas para: gpt-35-turbo...
+2025-11-02 22:25:49,703 - root - INFO - Creando tareas para: gpt-4o...
+2025-11-02 22:25:49,703 - root - INFO - Creando tareas para: gpt-5-chat...
+2025-11-02 22:25:49,704 - root - INFO - Creando tareas para: DeepSeek-V3.1...
+2025-11-02 22:25:49,704 - root - INFO - Creando tareas para: Llama-3.3-70B-Instruct...
+2025-11-02 22:25:49,704 - root - INFO - Total de tareas creadas: 100
+2025-11-02 22:25:49,704 - root - INFO - 
+--- Ejecutando Lote 1 / 10 (Tamaño: 10) ---
+2025-11-02 22:25:50,872 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:25:53,086 - root - INFO - Éxito: Usuario L0092LLGP (LLM: gpt-35-turbo, Ctx: False)
+2025-11-02 22:25:53,088 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:25:53,088 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:25:53,089 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:25:53,089 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:25:53,090 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:25:53,090 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:25:53,091 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:25:53,091 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:25:53,091 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:25:54,639 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: gpt-35-turbo, Ctx: False)
+2025-11-02 22:25:56,500 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: gpt-35-turbo, Ctx: False)
+2025-11-02 22:25:58,114 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: gpt-35-turbo, Ctx: True)
+2025-11-02 22:26:00,184 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: gpt-35-turbo, Ctx: False)
+2025-11-02 22:26:03,596 - root - ERROR - ! Error inesperado (Usuario: 2G22QVP89, LLM: gpt-35-turbo, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=ElectroSpirit-FlyingMachine-GoldenKnight-SkellyBarrel-GobHut-GoldenKnight-Fireball-Zap-Skellies-Tornado-Bats-InfernoD
+2025-11-02 22:26:06,158 - root - ERROR - ! Error inesperado (Usuario: L0092LLGP, LLM: gpt-35-turbo, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=MegaKnight-SpearGobs-Bats-Skellies-GobGang-InfernoD-Fireball-IceGolem-Zap-MegaKnight-Bats-Tombstone
+2025-11-02 22:26:09,519 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: gpt-35-turbo, Ctx: False)
+2025-11-02 22:26:13,365 - root - ERROR - ! Error inesperado (Usuario: 999QV8RJU, LLM: gpt-35-turbo, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=WallBreakers-Miner-Cannon-Bats-GobGang-Zap-InfernoD-Witch-MegaKnight-Fireball-Skellies-FireSpirit
+2025-11-02 22:26:15,945 - root - ERROR - ! Error inesperado (Usuario: VL0QCY9R8, LLM: gpt-35-turbo, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Firecracker-Bats-Skellies-SkellyBarrel-GobGang-InfernoD-Zap-Miner-Bats-Poison-MegaKnight-GobHut
+2025-11-02 22:26:16,950 - root - INFO - 
+--- Ejecutando Lote 2 / 10 (Tamaño: 10) ---
+2025-11-02 22:26:18,134 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:20,051 - root - INFO - Éxito: Usuario CRY0RPU (LLM: gpt-35-turbo, Ctx: False)
+2025-11-02 22:26:20,052 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:20,053 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:20,053 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:20,054 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:20,055 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:20,055 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:20,056 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:20,056 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:20,056 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:23,738 - root - INFO - Éxito: Usuario YC9RRVYYL (LLM: gpt-35-turbo, Ctx: False)
+2025-11-02 22:26:27,559 - root - ERROR - ! Error inesperado (Usuario: RCV90RLVC, LLM: gpt-35-turbo, Ctx: False): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Tombstone-GobGang-SkellyBarrel-Log-GobGang-SkellyBarrel-Log-GobHut-Hunter-Bats-Earthquake-RoyalHogs
+2025-11-02 22:26:31,451 - root - ERROR - ! Error inesperado (Usuario: UL98CLGP, LLM: gpt-35-turbo, Ctx: False): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=BombTower-Knight-Miner-Log-Inferno-Minions-Fireball-GobGang-Barrel-GoblinDrill-GoblinCage
+2025-11-02 22:26:34,521 - root - ERROR - ! Error inesperado (Usuario: CRY0RPU, LLM: gpt-35-turbo, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Tesla-Firecracker-Barrel-SkeletonKing-GobGang-Log-Princess-Inferno-MM-Poison-Knight-IceSpirit
+2025-11-02 22:26:38,002 - root - ERROR - ! Error inesperado (Usuario: YC9RRVYYL, LLM: gpt-35-turbo, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=GoblinCage-RoyalHogs-BarbBarrel-ElectroSpirit-GoblinCage-Lightning-BarbBarrel-Exe-Tornado-RoyalHogs-Zappies-MotherWitch
+2025-11-02 22:26:42,098 - root - ERROR - ! Error inesperado (Usuario: 9JL9080GL, LLM: gpt-35-turbo, Ctx: False): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Valk-Witch-Bats-Golem-MM-Fireball-Tornado-MP-Cannon-Skellies-IceSpirit-GobGang
+2025-11-02 22:26:44,949 - root - ERROR - ! Error inesperado (Usuario: RCV90RLVC, LLM: gpt-35-turbo, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Tombstone-GobGang-SkellyBarrel-Log-GobGang-MegaKnight-Bats-Miner-Snowball-SpearGobs-InfernoD-Zap
+2025-11-02 22:26:47,388 - root - ERROR - ! Error inesperado (Usuario: 9JL9080GL, LLM: gpt-35-turbo, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Valk-Witch-Bats-Golem-NightWitch-Lumber-eBarbs-Bomber-MM-Zap-Arrows-Golem
+2025-11-02 22:26:51,234 - root - ERROR - ! Error inesperado (Usuario: UL98CLGP, LLM: gpt-35-turbo, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=BombTower-Knight-Miner-Log-GobGang-MM-Fireball-GoblinDrill-Barrel-GobGiant-GobHut-GoblinMachine
+2025-11-02 22:26:52,239 - root - INFO - 
+--- Ejecutando Lote 3 / 10 (Tamaño: 10) ---
+2025-11-02 22:26:53,439 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:53,445 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:54,652 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: gpt-4o, Ctx: True)
+2025-11-02 22:26:54,653 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:54,654 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:54,654 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:54,655 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:54,655 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:54,656 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:54,656 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:54,656 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:26:57,616 - root - INFO - Éxito: Usuario L0092LLGP (LLM: gpt-4o, Ctx: False)
+2025-11-02 22:27:00,497 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: gpt-4o, Ctx: True)
+2025-11-02 22:27:03,690 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: gpt-4o, Ctx: False)
+2025-11-02 22:27:06,821 - root - INFO - Éxito: Usuario L0092LLGP (LLM: gpt-4o, Ctx: True)
+2025-11-02 22:27:09,084 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: gpt-4o, Ctx: False)
+2025-11-02 22:27:12,649 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: gpt-4o, Ctx: False)
+2025-11-02 22:27:15,332 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: gpt-4o, Ctx: True)
+2025-11-02 22:27:18,406 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: gpt-4o, Ctx: True)
+2025-11-02 22:27:21,373 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: gpt-4o, Ctx: False)
+2025-11-02 22:27:22,375 - root - INFO - 
+--- Ejecutando Lote 4 / 10 (Tamaño: 10) ---
+2025-11-02 22:27:23,006 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 22:27:23,007 - openai._base_client - INFO - Retrying request to /chat/completions in 31.000000 seconds
+2025-11-02 22:27:23,008 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 22:27:23,009 - openai._base_client - INFO - Retrying request to /chat/completions in 31.000000 seconds
+2025-11-02 22:27:23,035 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 22:27:23,036 - openai._base_client - INFO - Retrying request to /chat/completions in 30.000000 seconds
+2025-11-02 22:27:23,041 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 22:27:23,042 - openai._base_client - INFO - Retrying request to /chat/completions in 30.000000 seconds
+2025-11-02 22:27:23,050 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 22:27:23,051 - openai._base_client - INFO - Retrying request to /chat/completions in 30.000000 seconds
+2025-11-02 22:27:23,065 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 22:27:23,066 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 22:27:23,067 - openai._base_client - INFO - Retrying request to /chat/completions in 30.000000 seconds
+2025-11-02 22:27:23,067 - openai._base_client - INFO - Retrying request to /chat/completions in 30.000000 seconds
+2025-11-02 22:27:23,068 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 22:27:23,068 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 22:27:23,069 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-02 22:27:23,070 - openai._base_client - INFO - Retrying request to /chat/completions in 30.000000 seconds
+2025-11-02 22:27:23,071 - openai._base_client - INFO - Retrying request to /chat/completions in 30.000000 seconds
+2025-11-02 22:27:23,071 - openai._base_client - INFO - Retrying request to /chat/completions in 30.000000 seconds
+2025-11-02 22:27:54,206 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:27:54,215 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:27:55,790 - root - INFO - Éxito: Usuario RCV90RLVC (LLM: gpt-4o, Ctx: False)
+2025-11-02 22:27:56,779 - root - INFO - Éxito: Usuario UL98CLGP (LLM: gpt-4o, Ctx: False)
+2025-11-02 22:27:56,781 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:27:56,781 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:27:56,782 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:27:56,782 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:27:56,784 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:27:56,784 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:27:58,019 - root - INFO - Éxito: Usuario CRY0RPU (LLM: gpt-4o, Ctx: False)
+2025-11-02 22:27:59,243 - root - INFO - Éxito: Usuario 9JL9080GL (LLM: gpt-4o, Ctx: False)
+2025-11-02 22:28:00,336 - root - ERROR - ! Error inesperado (Usuario: UL98CLGP, LLM: gpt-4o, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=BombTower-Knight-Miner-Log-WallBreakers-Bats-BombTower-Fireball
+2025-11-02 22:28:02,985 - root - INFO - Éxito: Usuario 9JL9080GL (LLM: gpt-4o, Ctx: True)
+2025-11-02 22:28:05,490 - root - INFO - Éxito: Usuario YC9RRVYYL (LLM: gpt-4o, Ctx: True)
+2025-11-02 22:28:09,387 - root - INFO - Éxito: Usuario CRY0RPU (LLM: gpt-4o, Ctx: True)
+2025-11-02 22:28:09,973 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:11,245 - root - INFO - Éxito: Usuario YC9RRVYYL (LLM: gpt-4o, Ctx: False)
+2025-11-02 22:28:11,246 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:14,088 - root - INFO - Éxito: Usuario RCV90RLVC (LLM: gpt-4o, Ctx: True)
+2025-11-02 22:28:15,090 - root - INFO - 
+--- Ejecutando Lote 5 / 10 (Tamaño: 10) ---
+2025-11-02 22:28:16,205 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:16,212 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:16,217 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:16,219 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:17,463 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: gpt-5-chat, Ctx: False)
+2025-11-02 22:28:20,255 - root - INFO - Éxito: Usuario L0092LLGP (LLM: gpt-5-chat, Ctx: False)
+2025-11-02 22:28:20,256 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:20,257 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:20,257 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:20,258 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:20,258 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:20,259 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:23,429 - root - INFO - Éxito: Usuario L0092LLGP (LLM: gpt-5-chat, Ctx: True)
+2025-11-02 22:28:26,907 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: gpt-5-chat, Ctx: False)
+2025-11-02 22:28:29,058 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: gpt-5-chat, Ctx: False)
+2025-11-02 22:28:32,050 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: gpt-5-chat, Ctx: True)
+2025-11-02 22:28:35,359 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: gpt-5-chat, Ctx: True)
+2025-11-02 22:28:38,488 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: gpt-5-chat, Ctx: True)
+2025-11-02 22:28:41,584 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: gpt-5-chat, Ctx: True)
+2025-11-02 22:28:44,612 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: gpt-5-chat, Ctx: False)
+2025-11-02 22:28:45,614 - root - INFO - 
+--- Ejecutando Lote 6 / 10 (Tamaño: 10) ---
+2025-11-02 22:28:46,823 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:46,828 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:46,829 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:46,830 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:46,831 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:46,832 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:46,833 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:46,841 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:28:48,397 - root - INFO - Éxito: Usuario 9JL9080GL (LLM: gpt-5-chat, Ctx: False)
+2025-11-02 22:28:49,956 - root - INFO - Éxito: Usuario 9JL9080GL (LLM: gpt-5-chat, Ctx: True)
+2025-11-02 22:28:54,050 - root - INFO - Éxito: Usuario RCV90RLVC (LLM: gpt-5-chat, Ctx: True)
+2025-11-02 22:28:57,636 - root - INFO - Éxito: Usuario CRY0RPU (LLM: gpt-5-chat, Ctx: True)
+2025-11-02 22:28:59,271 - root - INFO - Éxito: Usuario YC9RRVYYL (LLM: gpt-5-chat, Ctx: False)
+2025-11-02 22:29:02,288 - root - ERROR - ! Error inesperado (Usuario: UL98CLGP, LLM: gpt-5-chat, Ctx: False): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=BombTower-Knight-Miner-Log-Poison-Bats-Valk-BombTower
+2025-11-02 22:29:05,824 - root - INFO - Éxito: Usuario YC9RRVYYL (LLM: gpt-5-chat, Ctx: True)
+2025-11-02 22:29:05,825 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:05,826 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:08,905 - root - INFO - Éxito: Usuario CRY0RPU (LLM: gpt-5-chat, Ctx: False)
+2025-11-02 22:29:11,755 - root - INFO - Éxito: Usuario RCV90RLVC (LLM: gpt-5-chat, Ctx: False)
+2025-11-02 22:29:14,317 - root - INFO - Éxito: Usuario UL98CLGP (LLM: gpt-5-chat, Ctx: True)
+2025-11-02 22:29:15,319 - root - INFO - 
+--- Ejecutando Lote 7 / 10 (Tamaño: 10) ---
+2025-11-02 22:29:18,547 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:19,795 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 22:29:19,796 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:19,797 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:21,349 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 22:29:24,119 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 22:29:24,120 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:27,171 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 22:29:27,174 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:27,187 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:29,708 - root - INFO - Éxito: Usuario L0092LLGP (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 22:29:33,010 - root - INFO - Éxito: Usuario L0092LLGP (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 22:29:33,012 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:33,012 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:35,321 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 22:29:35,322 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:38,490 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 22:29:42,088 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 22:29:42,089 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:45,199 - root - ERROR - ! Error inesperado (Usuario: 2G22QVP89, LLM: DeepSeek-V3.1, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=ElectroSpirit-FlyingMachine-GoldenKnight-SkellyBarrel-MegaKnight-Bats-Zap-GobGang-InfernoD
+2025-11-02 22:29:46,204 - root - INFO - 
+--- Ejecutando Lote 8 / 10 (Tamaño: 10) ---
+2025-11-02 22:29:48,262 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:49,695 - root - INFO - Éxito: Usuario CRY0RPU (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 22:29:49,696 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:49,698 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:49,698 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:51,293 - root - INFO - Éxito: Usuario RCV90RLVC (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 22:29:52,933 - root - INFO - Éxito: Usuario UL98CLGP (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 22:29:55,907 - root - INFO - Éxito: Usuario YC9RRVYYL (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 22:29:55,909 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:55,910 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:55,911 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:55,911 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:29:59,074 - root - INFO - Éxito: Usuario UL98CLGP (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 22:30:02,451 - root - INFO - Éxito: Usuario YC9RRVYYL (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 22:30:04,854 - root - ERROR - ! Error inesperado (Usuario: CRY0RPU, LLM: DeepSeek-V3.1, Ctx: True): 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Tesla-Firecracker-Barrel-SkeletonKing-Log-Knight-Rocket-Skellies-Princess-IceSpirit
+2025-11-02 22:30:09,003 - root - INFO - Éxito: Usuario RCV90RLVC (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 22:30:09,003 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:09,005 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:12,055 - root - INFO - Éxito: Usuario 9JL9080GL (LLM: DeepSeek-V3.1, Ctx: True)
+2025-11-02 22:30:14,095 - root - INFO - Éxito: Usuario 9JL9080GL (LLM: DeepSeek-V3.1, Ctx: False)
+2025-11-02 22:30:15,096 - root - INFO - 
+--- Ejecutando Lote 9 / 10 (Tamaño: 10) ---
+2025-11-02 22:30:16,314 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:16,319 - root - WARNING - ! Error de parseo (Usuario: L0092LLGP, LLM: Llama-3.3-70B-Instruct, Ctx: False): JSON mal formado.
+2025-11-02 22:30:16,519 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:16,522 - root - WARNING - ! Error de parseo (Usuario: VL0QCY9R8, LLM: Llama-3.3-70B-Instruct, Ctx: True): JSON mal formado.
+2025-11-02 22:30:16,523 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:16,527 - root - WARNING - ! Error de parseo (Usuario: LU2QQJU0Y, LLM: Llama-3.3-70B-Instruct, Ctx: True): JSON mal formado.
+2025-11-02 22:30:16,896 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:18,454 - root - INFO - Éxito: Usuario L0092LLGP (LLM: Llama-3.3-70B-Instruct, Ctx: True)
+2025-11-02 22:30:18,456 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:18,457 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:18,457 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:18,458 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:18,459 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:20,055 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: Llama-3.3-70B-Instruct, Ctx: False)
+2025-11-02 22:30:23,599 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: Llama-3.3-70B-Instruct, Ctx: True)
+2025-11-02 22:30:26,436 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: Llama-3.3-70B-Instruct, Ctx: False)
+2025-11-02 22:30:28,959 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: Llama-3.3-70B-Instruct, Ctx: True)
+2025-11-02 22:30:28,962 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:32,066 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: Llama-3.3-70B-Instruct, Ctx: False)
+2025-11-02 22:30:34,999 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: Llama-3.3-70B-Instruct, Ctx: False)
+2025-11-02 22:30:36,001 - root - INFO - 
+--- Ejecutando Lote 10 / 10 (Tamaño: 10) ---
+2025-11-02 22:30:37,521 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:37,525 - root - WARNING - ! Error de parseo (Usuario: 9JL9080GL, LLM: Llama-3.3-70B-Instruct, Ctx: False): JSON mal formado.
+2025-11-02 22:30:37,525 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:37,526 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:37,527 - root - WARNING - ! Error de parseo (Usuario: RCV90RLVC, LLM: Llama-3.3-70B-Instruct, Ctx: False): JSON mal formado.
+2025-11-02 22:30:37,527 - root - WARNING - ! Error de parseo (Usuario: YC9RRVYYL, LLM: Llama-3.3-70B-Instruct, Ctx: False): JSON mal formado.
+2025-11-02 22:30:38,099 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:39,245 - root - INFO - Éxito: Usuario CRY0RPU (LLM: Llama-3.3-70B-Instruct, Ctx: False)
+2025-11-02 22:30:39,246 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:39,247 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:39,247 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:39,248 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:39,249 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:39,249 - root - WARNING - ! Error de parseo (Usuario: UL98CLGP, LLM: Llama-3.3-70B-Instruct, Ctx: True): JSON mal formado.
+2025-11-02 22:30:39,250 - root - WARNING - ! Error de parseo (Usuario: 9JL9080GL, LLM: Llama-3.3-70B-Instruct, Ctx: True): JSON mal formado.
+2025-11-02 22:30:41,589 - root - INFO - Éxito: Usuario UL98CLGP (LLM: Llama-3.3-70B-Instruct, Ctx: False)
+2025-11-02 22:30:41,590 - root - WARNING - ! Error de parseo (Usuario: CRY0RPU, LLM: Llama-3.3-70B-Instruct, Ctx: True): JSON mal formado.
+2025-11-02 22:30:44,260 - root - INFO - Éxito: Usuario RCV90RLVC (LLM: Llama-3.3-70B-Instruct, Ctx: True)
+2025-11-02 22:30:44,261 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-02 22:30:47,269 - root - INFO - Éxito: Usuario YC9RRVYYL (LLM: Llama-3.3-70B-Instruct, Ctx: True)
+2025-11-02 22:30:48,271 - root - INFO - 
+--- Procesamiento de lotes completado. ---
+2025-11-02 22:30:48,273 - root - INFO - Resultados válidos (parseados y guardados): 75 de 100
+2025-11-02 22:30:48,335 - root - INFO - Ejecución finalizada.
+2025-11-02 22:30:48,335 - root - INFO - Resultados válidos guardados en: 'results/valid_results_20251102_222549.jsonl'
+2025-11-02 22:30:48,336 - root - INFO - Resultados crudos guardados en: 'results/raw_results_20251102_222549.jsonl'

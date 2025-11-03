@@ -1,0 +1,68 @@
+2025-11-02 23:17:05,894 - root - INFO - Logger configurado exitosamente.
+2025-11-02 23:17:05,941 - root - INFO - Iniciando la ejecución asíncrona...
+2025-11-02 23:17:06,945 - root - INFO - Iniciando procesamiento para 10 jugadores a través de 5 LLMs (x2 con/sin contexto).
+2025-11-02 23:17:06,945 - root - INFO - Creando tareas para: gpt-35-turbo...
+2025-11-02 23:17:06,946 - root - INFO - Creando tareas para: gpt-4o...
+2025-11-02 23:17:06,946 - root - INFO - Creando tareas para: gpt-5-chat...
+2025-11-02 23:17:06,946 - root - INFO - Creando tareas para: DeepSeek-V3.1...
+2025-11-02 23:17:06,946 - root - INFO - Creando tareas para: Llama-3.3-70B-Instruct...
+2025-11-02 23:17:06,947 - root - INFO - Total de tareas creadas: 100
+2025-11-02 23:17:06,947 - root - INFO - 
+--- Ejecutando Lote 1 / 10 (Tamaño: 10) ---
+2025-11-02 23:17:08,613 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:08,626 - root - ERROR - X Error JSONDecode (Usuario: L0092LLGP, LLM: gpt-35-turbo, Ctx: False): Illegal trailing comma before end of object: line 2 column 67 (char 68)
+2025-11-02 23:17:08,705 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:08,709 - root - ERROR - X Error JSONDecode (Usuario: LU2QQJU0Y, LLM: gpt-35-turbo, Ctx: False): Illegal trailing comma before end of object: line 2 column 74 (char 75)
+2025-11-02 23:17:08,848 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:08,851 - root - ERROR - X Error JSONDecode (Usuario: 2G22QVP89, LLM: gpt-35-turbo, Ctx: True): Illegal trailing comma before end of object: line 2 column 67 (char 68)
+2025-11-02 23:17:08,861 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:10,349 - root - INFO - Éxito: Usuario VL0QCY9R8 (LLM: gpt-35-turbo, Ctx: False)
+2025-11-02 23:17:10,350 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:10,351 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:10,351 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:10,352 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:10,352 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:10,353 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:10,356 - root - ERROR - X Error JSONDecode (Usuario: VL0QCY9R8, LLM: gpt-35-turbo, Ctx: True): Illegal trailing comma before end of object: line 2 column 65 (char 66)
+2025-11-02 23:17:10,356 - root - ERROR - X Error JSONDecode (Usuario: 999QV8RJU, LLM: gpt-35-turbo, Ctx: True): Illegal trailing comma before end of object: line 2 column 65 (char 66)
+2025-11-02 23:17:12,009 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: gpt-35-turbo, Ctx: False)
+2025-11-02 23:17:12,010 - root - ERROR - X Error JSONDecode (Usuario: L0092LLGP, LLM: gpt-35-turbo, Ctx: True): Illegal trailing comma before end of object: line 2 column 74 (char 75)
+2025-11-02 23:17:12,010 - root - ERROR - X Error JSONDecode (Usuario: 999QV8RJU, LLM: gpt-35-turbo, Ctx: False): Illegal trailing comma before end of object: line 2 column 75 (char 76)
+2025-11-02 23:17:12,011 - root - ERROR - X Error JSONDecode (Usuario: LU2QQJU0Y, LLM: gpt-35-turbo, Ctx: True): Illegal trailing comma before end of object: line 2 column 72 (char 73)
+2025-11-02 23:17:13,012 - root - INFO - 
+--- Ejecutando Lote 2 / 10 (Tamaño: 10) ---
+2025-11-02 23:17:13,666 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:13,670 - root - ERROR - X Error JSONDecode (Usuario: RCV90RLVC, LLM: gpt-35-turbo, Ctx: False): Illegal trailing comma before end of object: line 2 column 75 (char 76)
+2025-11-02 23:17:13,698 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:13,702 - root - ERROR - X Error JSONDecode (Usuario: 9JL9080GL, LLM: gpt-35-turbo, Ctx: False): Illegal trailing comma before end of object: line 2 column 60 (char 61)
+2025-11-02 23:17:13,721 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:13,723 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:13,724 - root - ERROR - X Error JSONDecode (Usuario: UL98CLGP, LLM: gpt-35-turbo, Ctx: False): Illegal trailing comma before end of object: line 2 column 78 (char 79)
+2025-11-02 23:17:13,725 - root - ERROR - X Error JSONDecode (Usuario: 9JL9080GL, LLM: gpt-35-turbo, Ctx: True): Illegal trailing comma before end of object: line 2 column 70 (char 71)
+2025-11-02 23:17:13,754 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:16,188 - root - INFO - Éxito: Usuario CRY0RPU (LLM: gpt-35-turbo, Ctx: False)
+2025-11-02 23:17:16,189 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:16,190 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:16,190 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:16,191 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:16,192 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:16,195 - root - ERROR - X Error JSONDecode (Usuario: CRY0RPU, LLM: gpt-35-turbo, Ctx: True): Illegal trailing comma before end of object: line 2 column 60 (char 61)
+2025-11-02 23:17:16,195 - root - ERROR - X Error JSONDecode (Usuario: YC9RRVYYL, LLM: gpt-35-turbo, Ctx: False): Illegal trailing comma before end of object: line 2 column 64 (char 65)
+2025-11-02 23:17:16,195 - root - ERROR - X Error JSONDecode (Usuario: RCV90RLVC, LLM: gpt-35-turbo, Ctx: True): Illegal trailing comma before end of object: line 2 column 68 (char 69)
+2025-11-02 23:17:16,195 - root - ERROR - X Error JSONDecode (Usuario: UL98CLGP, LLM: gpt-35-turbo, Ctx: True): Illegal trailing comma before end of object: line 2 column 74 (char 75)
+2025-11-02 23:17:16,196 - root - ERROR - X Error JSONDecode (Usuario: YC9RRVYYL, LLM: gpt-35-turbo, Ctx: True): Illegal trailing comma before end of object: line 2 column 68 (char 69)
+2025-11-02 23:17:17,197 - root - INFO - 
+--- Ejecutando Lote 3 / 10 (Tamaño: 10) ---
+2025-11-02 23:17:18,288 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:18,289 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:18,293 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:18,294 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:18,295 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:18,296 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:18,296 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:18,297 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-02 23:17:19,758 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: gpt-4o, Ctx: False)
+2025-11-02 23:17:21,286 - root - INFO - Éxito: Usuario 999QV8RJU (LLM: gpt-4o, Ctx: True)
+2025-11-02 23:17:23,623 - root - INFO - Éxito: Usuario L0092LLGP (LLM: gpt-4o, Ctx: False)
+2025-11-02 23:17:24,772 - root - INFO - Éxito: Usuario 2G22QVP89 (LLM: gpt-4o, Ctx: False)
+2025-11-02 23:17:27,822 - root - INFO - Éxito: Usuario LU2QQJU0Y (LLM: gpt-4o, Ctx: False)
