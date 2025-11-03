@@ -19,10 +19,6 @@ Proyecto desarrollado en el contexto del curso IIC3633 (RecSys) @ PUC Chile.
 
 ```bash
 ├── README.md
-├── __pycache__/
-│   ├── card_utils.cpython-313.pyc
-│   ├── consts.cpython-313.pyc
-│   └── deck_rate_fetcher.cpython-313.pyc
 ├── app_run.log
 ├── baseline/
 │   ├── 06_lightfm.ipynb
