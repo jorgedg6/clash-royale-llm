@@ -1,0 +1,30 @@
+2025-11-03 14:17:15,368 - root - INFO - Logger configurado exitosamente.
+2025-11-03 14:17:15,417 - root - INFO - Iniciando la ejecución asíncrona...
+2025-11-03 14:17:16,423 - root - INFO - Iniciando procesamiento para 10 jugadores a través de 2 LLMs (x2 con/sin contexto).
+2025-11-03 14:17:16,423 - root - INFO - Creando tareas para: gpt-35-turbo...
+2025-11-03 14:17:16,424 - root - INFO - Creando tareas para: Llama-3.3-70B-Instruct...
+2025-11-03 14:17:16,424 - root - INFO - Total de tareas creadas: 40
+2025-11-03 14:17:16,424 - root - INFO - 
+--- Ejecutando Lote 1 / 4 (Tamaño: 10) ---
+2025-11-03 14:17:22,370 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-03 14:17:22,524 - root - ERROR - ! Error inesperado (Usuario: VL0QCY9R8, LLM: gpt-35-turbo, Ctx: True): 403 Client Error: Forbidden for url: https://www.deckshop.pro/check/?deck=Firecracker-Bats-Skeletons-SkeletonBarrel-Zap-MegaKnight-Bandit-SpearGoblins
+2025-11-03 14:17:23,298 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-03 14:17:23,398 - root - ERROR - ! Error inesperado (Usuario: L0092LLGP, LLM: gpt-35-turbo, Ctx: False): 403 Client Error: Forbidden for url: https://www.deckshop.pro/check/?deck=MegaKnight-SpearGoblins-Bats-Skeletons-Bandit-SkeletonBarrel-Zap-Firecracker
+2025-11-03 14:17:23,401 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-03 14:17:23,500 - root - ERROR - ! Error inesperado (Usuario: 2G22QVP89, LLM: gpt-35-turbo, Ctx: True): 403 Client Error: Forbidden for url: https://www.deckshop.pro/check/?deck=ElectroSpirit-FlyingMachine-GoldenKnight-SkeletonBarrel-RoyalRecruits-GoblinCage-Zappies-Arrows
+2025-11-03 14:17:23,559 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-03 14:17:23,643 - root - ERROR - ! Error inesperado (Usuario: VL0QCY9R8, LLM: gpt-35-turbo, Ctx: False): 403 Client Error: Forbidden for url: https://www.deckshop.pro/check/?deck=Firecracker-Bats-Skeletons-SkeletonBarrel-Zap-MegaKnight-Bandit-SpearGoblins
+2025-11-03 14:17:23,646 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-03 14:17:23,647 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-03 14:17:23,751 - root - ERROR - ! Error inesperado (Usuario: L0092LLGP, LLM: gpt-35-turbo, Ctx: True): 403 Client Error: Forbidden for url: https://www.deckshop.pro/check/?deck=MegaKnight-SpearGoblins-Bats-Skeletons-Bandit-SkeletonBarrel-Zap-Firecracker
+2025-11-03 14:17:23,840 - root - ERROR - ! Error inesperado (Usuario: LU2QQJU0Y, LLM: gpt-35-turbo, Ctx: True): 403 Client Error: Forbidden for url: https://www.deckshop.pro/check/?deck=ElectroWizard-HogRider-Executioner-TheLog-Musketeer-Minions-MegaKnight-Firecracker
+2025-11-03 14:17:23,843 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-03 14:17:23,845 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-03 14:17:23,942 - root - ERROR - ! Error inesperado (Usuario: 2G22QVP89, LLM: gpt-35-turbo, Ctx: False): 403 Client Error: Forbidden for url: https://www.deckshop.pro/check/?deck=ElectroSpirit-FlyingMachine-GoldenKnight-SkeletonBarrel-RoyalRecruits-GoblinCage-Zappies-Arrows
+2025-11-03 14:17:24,025 - root - ERROR - ! Error inesperado (Usuario: LU2QQJU0Y, LLM: gpt-35-turbo, Ctx: False): 403 Client Error: Forbidden for url: https://www.deckshop.pro/check/?deck=ElectroWizard-HogRider-Executioner-TheLog-Musketeer-Minions-MegaKnight-Firecracker
+2025-11-03 14:17:24,028 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-03 14:17:24,109 - root - ERROR - ! Error inesperado (Usuario: 999QV8RJU, LLM: gpt-35-turbo, Ctx: False): 403 Client Error: Forbidden for url: https://www.deckshop.pro/check/?deck=WallBreakers-Miner-Cannon-Bats-TheLog-GoblinGang-Zap-MegaKnight
+2025-11-03 14:17:26,945 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-03 14:17:27,035 - root - ERROR - ! Error inesperado (Usuario: 999QV8RJU, LLM: gpt-35-turbo, Ctx: True): 403 Client Error: Forbidden for url: https://www.deckshop.pro/check/?deck=WallBreakers-Miner-Cannon-Bats-TheLog-GoblinGang-Zap-MegaKnight
+2025-11-03 14:17:28,038 - root - INFO - 
+--- Ejecutando Lote 2 / 4 (Tamaño: 10) ---
