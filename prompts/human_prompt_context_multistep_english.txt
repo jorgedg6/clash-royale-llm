@@ -1,0 +1,197 @@
+<Prompt>
+  <Inputs>
+    <Variable name="AVAILABLE_CARDS" type="array[string]">
+      $AVAILABLE_CARDS%
+    </Variable>
+    <Variable name="SELECTED_CARDS" type="array[string]">
+      $SELECTED_CARDS%
+    </Variable>
+  </Inputs>
+
+  <Context>
+    $TOP_DECKS%
+  </Context>
+
+  <Task>
+    Given AVAILABLE_CARDS and SELECTED_CARDS, select the best
+    (8 - |SELECTED_CARDS|) cards in PRIORITY ORDER to complete the deck to 8.
+    If |SELECTED_CARDS| == 8, return an empty selection.
+    
+    You must work through this task in MULTIPLE STEPS:
+    1. INITIAL SELECTION: Make your first card selection
+    2. REVIEW & VERIFICATION: Critically review your selection
+    3. REFINEMENT: Fix any issues found during review
+  </Task>
+
+  <Constraints>
+    <Rule>Do not propose cards outside of AVAILABLE_CARDS.</Rule>
+    <Rule>Do not repeat cards that are already in SELECTED_CARDS.</Rule>
+    <Rule>The final deck must have exactly 8 cards in total, no more, no less.</Rule>
+    <Rule>Return in the JSON only the new cards you selected.</Rule>
+    <Rule>Avoid clear functional redundancies (e.g., multiple spells or buildings with identical roles without justification).</Rule>
+    <Rule>Favor synergies with already selected cards and cover key roles:
+      win condition, air/ground response, area damage, reset/control, cycle/support and tanking according to the emerging archetype.
+    </Rule>
+    <Rule>Optimize the average elixir cost keeping it reasonable for the detected archetype.</Rule>
+  </Constraints>
+
+  <MultiStepProcess>
+    <Step number="1" name="InitialSelection">
+      <Description>Make your initial card selection based on the reasoning guidelines.</Description>
+      <Actions>
+        <Action>Identify the implicit archetype in SELECTED_CARDS.</Action>
+        <Action>Detect role gaps and weaknesses.</Action>
+        <Action>Select cards that address these gaps while maintaining synergy.</Action>
+        <Action>Calculate the expected elixir cost impact.</Action>
+      </Actions>
+      <Output>Document your initial reasoning and selection in the "chainOfThought" field.</Output>
+    </Step>
+
+    <Step number="2" name="ReviewAndVerification">
+      <Description>Critically review your initial selection to verify it makes sense.</Description>
+      <Checklist>
+        <Check>Are all selected cards within AVAILABLE_CARDS?</Check>
+        <Check>Are there any duplicate cards (with SELECTED_CARDS or within your selection)?</Check>
+        <Check>Does the final deck have exactly 8 cards total?</Check>
+        <Check>Are there any functional redundancies that need justification?</Check>
+        <Check>Do the cards properly cover key roles (win condition, anti-air, spells, etc.)?</Check>
+        <Check>Is the elixir cost reasonable for the archetype?</Check>
+        <Check>Are there better alternatives available in AVAILABLE_CARDS?</Check>
+        <Check>Do the cards work well together synergistically?</Check>
+      </Checklist>
+      <Output>Document your review findings in the "review" field, including any issues identified.</Output>
+    </Step>
+
+    <Step number="3" name="Refinement">
+      <Description>If issues were found in Step 2, fix them. If no issues, confirm the selection.</Description>
+      <Actions>
+        <Action>If issues found: Replace problematic cards with better alternatives from AVAILABLE_CARDS.</Action>
+        <Action>If no issues: Confirm that the initial selection is optimal.</Action>
+        <Action>Re-verify the refined selection meets all constraints.</Action>
+      </Actions>
+      <Output>Document any changes made and the final reasoning in the "refinement" field.</Output>
+    </Step>
+  </MultiStepProcess>
+
+  <ReasoningGuidelines>
+    <Step>Identify the implicit archetype in SELECTED_CARDS (e.g., cycle, beatdown, control, bridge spam, bait).</Step>
+    <Step>Detect role gaps and weaknesses (e.g., lack of anti-air, absence of large/small spell, lack of reset).</Step>
+    <Step>Prioritize cards that:
+      <Criterion>Enhance the existing win condition or add a complementary one if missing.</Criterion>
+      <Criterion>Cover common threats (swarms, tanks, fast win-cons, air).</Criterion>
+      <Criterion>Improve synergistic matchups without inflating the average cost too much.</Criterion>
+    </Step>
+    <Step>Order the proposal by expected marginal contribution to the deck (1 = most valuable).</Step>
+  </ReasoningGuidelines>
+
+  <OutputFormat>
+    Return only a valid JSON object with this schema:
+    <![CDATA[
+    {
+      "selection": [ "<card_1>", "<card_2>", "... up to N" ],
+      "detail": [
+        {
+          "card": "<name>",
+          "elixir_cost": "<elixir_cost>",
+          "role": "<main_role>",
+          "synergiesWith": ["<existing_card_1>", "..."],
+          "coversWeakness": ["<weakness_1>", "..."],
+          "elixirImpact": {"before": <float>, "after": <float>}
+        }
+      ],
+      "summary": "1-2 sentences with the final archetype and game plan",
+      "n": <N>,  // N = 8 - |SELECTED_CARDS|
+      "chainOfThought": {
+        "initialSelection": {
+          "archetypeIdentified": "<archetype>",
+          "roleGaps": ["<gap_1>", "<gap_2>", "..."],
+          "reasoning": "Detailed explanation of why each card was initially selected",
+          "initialCards": [ "<card_1>", "<card_2>", "..." ],
+          "elixirAnalysis": "Analysis of elixir cost impact"
+        },
+        "review": {
+          "verificationResults": {
+            "allCardsAvailable": <boolean>,
+            "noDuplicates": <boolean>,
+            "correctCount": <boolean>,
+            "noRedundancies": <boolean>,
+            "rolesCovered": <boolean>,
+            "elixirReasonable": <boolean>,
+            "synergyCheck": <boolean>
+          },
+          "issuesFound": [
+            {
+              "issue": "<description>",
+              "severity": "<critical|major|minor>",
+              "affectedCards": ["<card_1>", "..."]
+            }
+          ],
+          "reviewNotes": "Overall assessment of the initial selection"
+        },
+        "refinement": {
+          "changesMade": <boolean>,
+          "cardsReplaced": [
+            {
+              "removed": "<card_name>",
+              "reason": "<why_removed>",
+              "replacedWith": "<card_name>",
+              "reason": "<why_better>"
+            }
+          ],
+          "finalReasoning": "Explanation of the final selection and why it's optimal",
+          "confidence": "<high|medium|low>"
+        }
+      }
+    }
+    ]]>
+  </OutputFormat>
+
+  <EdgeCases>
+    <Case name="CompleteDeck">
+      If |SELECTED_CARDS| == 8, return:
+      <![CDATA[
+      { 
+        "selection": [], 
+        "detail": [], 
+        "summary": "The deck already has 8 cards.", 
+        "n": 0,
+        "chainOfThought": {
+          "initialSelection": {"reasoning": "Deck is already complete."},
+          "review": {"verificationResults": {}, "issuesFound": [], "reviewNotes": "No action needed."},
+          "refinement": {"changesMade": false, "finalReasoning": "Deck complete.", "confidence": "high"}
+        }
+      }
+      ]]> 
+    </Case>
+    <Case name="InsufficientAvailability">
+      If AVAILABLE_CARDS has fewer than N eligible cards, return as many as possible and explain the limitation in "summary" and "chainOfThought.refinement.finalReasoning".
+    </Case>
+    <Case name="RoleConflict">
+      If two options compete for the same functional slot, prioritize the one with greater global synergy and better curve; mention the alternative in "detail" and document the decision in "chainOfThought".
+    </Case>
+  </EdgeCases>
+
+  <Examples>
+    <Example title="Missing 3 cards">
+      <Input>
+        <![CDATA[
+        SELECTED_CARDS = ["Hog Rider","Musketeer","The Log","Cannon","Ice Spirit"]
+        AVAILABLE_CARDS   = ["Fireball","Earthquake","Skeletons","Archers","Elite Barbarians"]
+        ]]>
+      </Input>
+      <ExpectedOutputNote>
+        Returns 3 cards with complete chain of thought showing:
+        - Initial selection reasoning (identifying cycle archetype, need for spell, etc.)
+        - Review findings (verifying all constraints met)
+        - Any refinements made (if initial selection had issues)
+      </ExpectedOutputNote>
+    </Example>
+  </Examples>
+
+  <Style>
+    <Rule>Concise and technical language.</Rule>
+    <Rule>Be thorough in the chain of thought - show your complete reasoning process.</Rule>
+    <Rule>Do not include extra text outside the specified JSON.</Rule>
+  </Style>
+</Prompt>
+

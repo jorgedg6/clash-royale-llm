@@ -1,0 +1,93 @@
+<Prompt>
+  <Inputs>
+    <Variable name="AVAILABLE_CARDS" type="array[string]">
+      $AVAILABLE_CARDS%
+    </Variable>
+    <Variable name="SELECTED_CARDS" type="array[string]">
+      $SELECTED_CARDS%
+    </Variable>
+  </Inputs>
+
+  <Task>
+    Given AVAILABLE_CARDS and SELECTED_CARDS, select the best
+    (8 - |SELECTED_CARDS|) cards in PRIORITY ORDER to complete the deck to 8.
+    If |SELECTED_CARDS| == 8, return an empty selection.
+  </Task>
+
+  <Constraints>
+    <Rule>Do not propose cards outside of AVAILABLE_CARDS.</Rule>
+    <Rule>Do not repeat cards already in SELECTED_CARDS.</Rule>
+    <Rule>The final deck must have exactly 8 cards in total, no more, no less.</Rule>
+    <Rule>Return in the JSON only the new cards you selected.</Rule>
+    <Rule>Avoid clear functional redundancies (e.g., multiple spells or buildings with identical roles without justification).</Rule>
+    <Rule>Favor synergies with already selected cards and cover key roles:
+      win condition, air/ground response, area damage, reset/control, cycle/support and tanking according to the emerging archetype.
+    </Rule>
+    <Rule>Optimize the average elixir cost keeping it reasonable for the detected archetype.</Rule>
+  </Constraints>
+
+  <ReasoningGuidelines>
+    <Step>Identify the implicit archetype in SELECTED_CARDS (e.g., cycle, beatdown, control, bridge spam, bait).</Step>
+    <Step>Detect role gaps and weaknesses (e.g., lack of anti-air, absence of large/small spell, lack of reset).</Step>
+    <Step>Prioritize cards that:
+      <Criterion>Enhance the existing win condition or add a complementary one if missing.</Criterion>
+      <Criterion>Cover common threats (swarms, tanks, fast win-cons, air).</Criterion>
+      <Criterion>Improve synergistic matchups without inflating the average cost too much.</Criterion>
+    </Step>
+    <Step>Order the proposal by expected marginal contribution to the deck (1 = most valuable).</Step>
+  </ReasoningGuidelines>
+
+  <OutputFormat>
+    Return only a valid JSON object with this schema:
+    <![CDATA[
+    {
+      "selection": [ "<card_1>", "<card_2>", "... up to N" ],
+      "detail": [
+        {
+          "card": "<name>",
+          "elixir_cost": "<elixir_cost>",
+          "role": "<main_role>",
+          "synergiesWith": ["<existing_card_1>", "..."],
+          "coversWeakness": ["<weakness_1>", "..."],
+          "elixirImpact": {"before": <float>, "after": <float>}
+        }
+      ],
+      "summary": "1-2 sentences with the final archetype and game plan",
+      "n": <N>  // N = 8 - |SELECTED_CARDS|
+    }
+    ]]>
+  </OutputFormat>
+
+  <EdgeCases>
+    <Case name="CompleteDeck">
+      If |SELECTED_CARDS| == 8, return:
+      <![CDATA[
+      { "selection": [], "detail": [], "summary": "The deck already has 8 cards.", "n": 0 }
+      ]]> 
+    </Case>
+    <Case name="InsufficientAvailability">
+      If AVAILABLE_CARDS has fewer than N eligible cards, return as many as possible and explain the limitation in "summary".
+    </Case>
+    <Case name="RoleConflict">
+      If two options compete for the same functional slot, prioritize the one with greater global synergy and better curve; mention the alternative in "detail".
+    </Case>
+  </EdgeCases>
+
+  <Examples>
+    <Example title="Missing 3 cards">
+      <Input>
+        <![CDATA[
+        SELECTED_CARDS = ["Hog Rider","Musketeer","The Log","Cannon","Ice Spirit"]
+        AVAILABLE_CARDS   = ["Fireball","Earthquake","Skeletons","Archers","Elite Barbarians"]
+        ]]>
+      </Input>
+      <ExpectedOutputNote>Returns 3 cards ordered (8 - |SELECTED_CARDS| = 3) with brief justification and elixir effect.</ExpectedOutputNote>
+    </Example>
+  </Examples>
+
+  <Style>
+    <Rule>Concise and technical language.</Rule>
+    <Rule>Do not include extra text outside the specified JSON.</Rule>
+  </Style>
+</Prompt>
+

@@ -1,0 +1,48 @@
+<Prompt>
+  <Inputs>
+    <Variable name="AVAILABLE_CARDS" type="array[string]">
+      $AVAILABLE_CARDS%
+    </Variable>
+    <Variable name="SELECTED_CARDS" type="array[string]">
+      $SELECTED_CARDS%
+    </Variable>
+  </Inputs>
+
+  <Task>
+    Given AVAILABLE_CARDS and SELECTED_CARDS, select the best
+    (8 - |SELECTED_CARDS|) cards in PRIORITY ORDER to complete the deck to 8.
+    If |SELECTED_CARDS| == 8, return an empty selection.
+  </Task>
+
+  <Constraints>
+    <Rule>Do not propose cards outside of AVAILABLE_CARDS.</Rule>
+    <Rule>Do not repeat cards that are already in SELECTED_CARDS.</Rule>
+    <Rule>The final deck must have exactly 8 cards in total, no more, no less.</Rule>
+    <Rule>Return in the JSON only the new cards you selected.</Rule>
+  </Constraints>
+
+  <ReasoningGuidelines>
+    <Step>Identify the implicit archetype in SELECTED_CARDS (e.g., cycle, beatdown, control, bridge spam, bait).</Step>
+    <Step>Detect role gaps and weaknesses (e.g., lack of anti-air, absence of large/small spell, lack of reset).</Step>
+    <Step>Prioritize cards that:
+      <Criterion>Enhance the existing win condition or add a complementary one if missing.</Criterion>
+      <Criterion>Cover common threats (swarms, tanks, fast win-cons, air).</Criterion>
+      <Criterion>Improve synergistic matchups without inflating the average cost too much.</Criterion>
+    </Step>
+  </ReasoningGuidelines>
+
+  <OutputFormat>
+    Return only a valid JSON object with this schema:
+    <![CDATA[
+    {
+      "selection": [ "<card_1>", "<card_2>", "... up to N" ]
+    }
+    ]]>
+  </OutputFormat>
+
+  <Style>
+    <Rule>Concise and technical language.</Rule>
+    <Rule>Do not include extra text outside the specified JSON.</Rule>
+  </Style>
+</Prompt>
+
