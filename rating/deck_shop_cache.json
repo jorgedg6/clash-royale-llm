@@ -1,0 +1,4419 @@
+{
+  "Arrows,Firecracker,Knight,Mega Knight,Ram Rider,Valkyrie,Witch,Wizard": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Cannon,Dart Goblin,Goblin Barrel,Goblin Gang,Princess,The Log,Valkyrie,Wall Breakers": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Electro Wizard,Fireball,Goblins,Hog Rider,Mega Knight,Tesla,The Log,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Barbarians,Firecracker,Hog Rider,Mega Knight,Royal Ghost,Valkyrie,Wall Breakers,Witch": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Fireball,Inferno Tower,Knight,Prince,Princess,Skeleton Army,The Log,Valkyrie": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Cannon,Executioner,Hog Rider,Knight,Magic Archer,Mega Knight,Tornado,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Firecracker,Goblin Barrel,Mega Knight,Miner,Poison,The Log,Valkyrie,Witch": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Cannon,Goblin Gang,Ice Spirit,Princess,The Log,Valkyrie,Wall Breakers,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Executioner,Hog Rider,Ice Golem,Magic Archer,Mega Knight,Poison,The Log,Tornado": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Inferno Tower,Knight,Mega Minion,Miner,Poison,Prince,Skeleton Army,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Fireball,Hog Rider,Inferno Tower,Mega Knight,Musketeer,Skeletons,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bandit,Barbarian Barrel,Electro Wizard,Firecracker,P.E.K.K.A,Ram Rider,Valkyrie,Wizard": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Fireball,Firecracker,Hog Rider,Ice Spirit,Knight,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 4
+  },
+  "Electro Wizard,Executioner,Hog Rider,Knight,P.E.K.K.A,Rocket,Tornado,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Bowler,Firecracker,Furnace,Goblin Barrel,Inferno Dragon,P.E.K.K.A,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Bowler,Electro Wizard,Fireball,Firecracker,Hog Rider,Inferno Tower,Skeleton Army,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bats,Goblin Barrel,Hog Rider,Ice Spirit,Knight,Mega Minion,The Log,Zap": {
+    "Attack": 3,
+    "Defense": 3,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Arrows,Baby Dragon,Bowler,Firecracker,Knight,P.E.K.K.A,The Log,Tornado": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 1
+  },
+  "Baby Dragon,Bowler,Electro Wizard,Fireball,Graveyard,Knight,The Log,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Executioner,Fireball,Hog Rider,Ice Spirit,Knight,Minions,Tornado,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Electro Wizard,Fireball,Hog Rider,Ice Spirit,Knight,Poison,Skeletons,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 0,
+    "F2P score": 3
+  },
+  "Fireball,Furnace,Giant,Miner,Mini P.E.K.K.A,The Log,Valkyrie,Witch": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Fireball,Furnace,Giant,Knight,Miner,Minions,The Log,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Baby Dragon,Elite Barbarians,Fireball,Firecracker,Skeleton Army,Tesla,The Log,Vines": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Boss Bandit,Dart Goblin,Goblin Barrel,Goblin Gang,Princess,Valkyrie,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Bandit,Bats,Firecracker,Mega Knight,Skeleton Barrel,Skeletons,Spear Goblins,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Cannon,Goblin Barrel,Goblin Gang,Ice Spirit,Knight,Princess,Rocket,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bats,Dart Goblin,Goblin Gang,Golem,Royal Ghost,Skeleton Army,Valkyrie,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Bats,Firecracker,Inferno Dragon,Mega Knight,Miner,Skeleton Barrel,Skeletons,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Cannon,Goblin Barrel,Ice Spirit,Inferno Tower,Knight,Princess,Rocket,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Arrows,Dart Goblin,Fireball,Goblin Gang,Knight,Princess,The Log,Wall Breakers": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Bats,Golem,Mega Minion,Night Witch,Poison,Tornado,Valkyrie,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Firecracker,Giant Snowball,Golem,Graveyard,Inferno Tower,Minion Horde,Royal Ghost,The Log": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Cannon,Dart Goblin,Electro Wizard,Lumberjack,P.E.K.K.A,The Log,Vines,Wizard": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Giant Snowball,Graveyard,Inferno Tower,Knight,Mega Minion,Minion Horde,Poison,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Dart Goblin,Goblin Barrel,Lumberjack,Mega Knight,The Log,Valkyrie,Wizard": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Baby Dragon,Elite Barbarians,Firecracker,Inferno Dragon,Knight,Poison,The Log,Tornado": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Barbarian Barrel,Electro Dragon,Goblin Cage,Goblinstein,Graveyard,Ice Wizard,Lightning,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Goblin Demolisher,Goblin Drill,Knight,Magic Archer,Skeletons,Tesla,The Log,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Baby Dragon,Barbarian Barrel,Goblinstein,Golem,Ice Wizard,Lightning,Poison,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Bomber,Goblin Drill,Knight,Magic Archer,Poison,Skeletons,Tesla,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bandit,Battle Ram,Electro Wizard,Furnace,Goblins,P.E.K.K.A,Poison,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Baby Dragon,Bandit,Battle Ram,Goblins,Mega Minion,Poison,Tombstone,Zap": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Arrows,Baby Dragon,Dark Prince,Mega Knight,Miner,Musketeer,Skeleton Army,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Archers,Ice Spirit,Knight,Mortar,Rocket,Skeletons,The Log,Tornado": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 5
+  },
+  "Arrows,Baby Dragon,Mega Minion,Poison,Skeleton Army,Skeleton King,Tornado,Witch": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Archers,Fire Spirit,Goblins,Ice Spirit,Knight,Mortar,Rocket,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 5
+  },
+  "Goblin Barrel,Goblin Gang,Ice Spirit,Inferno Tower,Knight,Princess,Rocket,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Arrows,Firecracker,Ice Golem,Lightning,Mega Knight,Mini P.E.K.K.A,Tesla,Witch": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Dart Goblin,Firecracker,Goblin Barrel,Goblin Gang,Mega Knight,Skeleton Barrel,Tesla": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 5
+  },
+  "Arrows,Fireball,Ice Golem,Knight,Mega Minion,Mini P.E.K.K.A,Tornado,Witch": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Dart Goblin,Firecracker,Goblin Barrel,Ice Spirit,Knight,Rascals,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 5
+  },
+  "Electro Wizard,Magic Archer,Mega Knight,Miner,Skeleton Army,Valkyrie,Witch,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Electro Wizard,Inferno Tower,Magic Archer,Mega Minion,Miner,Poison,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bandit,Goblin Barrel,Goblin Gang,Inferno Tower,Knight,Prince,Princess,Skeleton Army": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Baby Dragon,Barbarians,Goblin Hut,Lumberjack,Minion Horde,Musketeer,Valkyrie,Witch": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Goblin Barrel,Inferno Tower,Knight,Prince,Princess,Rocket,Skeleton Army,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Baby Dragon,Barbarians,Goblin Hut,Knight,Lumberjack,Mega Minion,Tornado": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Electro Spirit,Fireball,Fisherman,Hunter,Royal Ghost,Royal Giant,Skeletons,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Archers,Bandit,Battle Ram,Little Prince,P.E.K.K.A,Poison,Royal Ghost,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Dart Goblin,Ice Wizard,Inferno Dragon,Skeleton Barrel,Skeletons,Tesla,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Barbarian Barrel,Fireball,Fisherman,Hunter,Little Prince,Phoenix,Royal Giant,Skeletons": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Dart Goblin,Prince,Skeletons,Tesla,Valkyrie,Witch,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Dart Goblin,Firecracker,Goblin Barrel,Goblin Gang,Prince,Rascals,The Log,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Goblin Barrel,Ice Spirit,Ice Wizard,Mega Minion,Minions,Rocket,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Dart Goblin,Goblin Barrel,Ice Spirit,Musketeer,Prince,The Log,Valkyrie,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bats,Electro Wizard,Lumberjack,Mega Knight,Miner,Poison,Tesla,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Ice Wizard,Mega Minion,Miner,Poison,Skeleton Barrel,Skeletons,The Log,Valkyrie": {
+    "Attack": 4,
+    "Defense": 4,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Cannon,Fireball,Hog Rider,Ice Spirit,Knight,Mega Minion,Musketeer,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Dart Goblin,Fireball,Miner,Skeletons,Tesla,The Log,Valkyrie,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bandit,Bats,Battle Ram,Electro Wizard,Little Prince,P.E.K.K.A,Poison,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Balloon,Fireball,Lava Hound,Mega Minion,Skeleton Dragons,Tombstone,Valkyrie,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Bats,Fireball,Goblin Barrel,Hog Rider,Inferno Tower,Knight,The Log,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Cannon,Fireball,Hog Rider,Ice Golem,Ice Spirit,Musketeer,Skeletons,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Bats,Goblin Gang,Inferno Dragon,Mega Knight,Miner,Skeleton Barrel,Spear Goblins,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Barbarians,Fireball,Inferno Dragon,Lava Hound,Miner,Skeleton Dragons,Valkyrie,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Fireball,Goblin Barrel,Ice Spirit,Inferno Tower,Knight,Musketeer,Skeletons,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Fireball,Hog Rider,Ice Spirit,Knight,Musketeer,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Barbarian Barrel,Goblin Barrel,Hog Rider,Magic Archer,Minions,Mirror,Princess,Skeleton Army": {
+    "Attack": 4,
+    "Defense": 4,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Electro Wizard,Ice Spirit,Magic Archer,Miner,Poison,The Log,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Barbarian Barrel,Berserker,Boss Bandit,Electro Wizard,Fireball,Goblin Gang,Mortar,Skeleton Barrel": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Barbarian Barrel,Berserker,Boss Bandit,Electro Dragon,Electro Wizard,Golem,Lumberjack,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Fireball,Firecracker,Goblin Barrel,Mini P.E.K.K.A,Ram Rider,Tesla,The Log,Valkyrie": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Goblin Barrel,Ice Spirit,Knight,Mini P.E.K.K.A,Ram Rider,The Log,Valkyrie,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 2,
+    "F2P score": 3
+  },
+  "Elite Barbarians,Fireball,Goblin Cage,Hunter,P.E.K.K.A,Rage,Skeletons,Tornado": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Arrows,Bomber,Elite Barbarians,Golem,Hunter,Mega Minion,Rage,Tornado": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Battle Healer,Bomber,Electro Dragon,Elixir Collector,Firecracker,Golem,Knight,Tornado": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 3
+  },
+  "Baby Dragon,Bandit,Guards,Mega Knight,Minions,Musketeer,Valkyrie,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Dart Goblin,Flying Machine,Goblin Gang,Mighty Miner,Royal Recruits,Skeleton Barrel,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Battle Healer,Elixir Collector,Firecracker,Giant,Goblin Gang,Knight,Minions,Poison": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 5
+  },
+  "Arrows,Dart Goblin,Ice Spirit,Mega Minion,Mighty Miner,Royal Recruits,The Log,Wall Breakers": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Baby Dragon,Barbarian Barrel,Graveyard,Mega Knight,Minions,Poison,Tornado,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Dart Goblin,Freeze,Goblin Barrel,Goblin Gang,Mega Knight,Skeleton Barrel,Valkyrie,Wizard": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bandit,Battle Ram,Electro Wizard,Fireball,Magic Archer,P.E.K.K.A,Royal Ghost,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Bomber,Electro Wizard,Elite Barbarians,Fire Spirit,Hog Rider,Inferno Tower,Minions,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Arrows,Electro Wizard,Executioner,Hog Rider,Minion Horde,P.E.K.K.A,Skeleton Army,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Battle Ram,Dart Goblin,Inferno Dragon,Knight,Mini P.E.K.K.A,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Baby Dragon,Fireball,Miner,Minion Horde,P.E.K.K.A,Skeleton Army,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Baby Dragon,Bandit,Battle Ram,Ice Golem,Inferno Dragon,Poison,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Elite Barbarians,Fire Spirit,Fireball,Hog Rider,Ice Golem,Musketeer,The Log,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Archers,Bats,Executioner,Giant,Goblin Barrel,Knight,The Log,Zap": {
+    "Attack": 4,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Bats,Goblin Gang,Inferno Dragon,Mega Knight,Miner,Skeleton Barrel,Wizard,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Archers,Executioner,Graveyard,Ice Golem,Knight,Poison,The Log,Tornado": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Bandit,Bats,Battle Ram,Electro Wizard,P.E.K.K.A,Poison,Royal Ghost,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Bomber,Electro Wizard,Goblin Curse,Magic Archer,P.E.K.K.A,Ram Rider,Royal Ghost,Vines": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Electro Giant,Furnace,Goblin Gang,Inferno Dragon,Lightning,Tombstone,Tornado,Witch": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Barbarian Barrel,Berserker,Cannon Cart,Fireball,Goblin Gang,Ice Wizard,Mortar,Skeleton Barrel": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Arrows,Dart Goblin,Electro Dragon,Elixir Golem,Firecracker,Goblin Hut,Knight,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Goblin Barrel,Goblin Gang,Hog Rider,Ice Spirit,Knight,Princess,Tesla,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Barbarian Barrel,Cannon,Electro Giant,Goblin Gang,Ice Wizard,Lightning,Phoenix,Tornado": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Baby Dragon,Goblin Barrel,Mega Knight,Mini P.E.K.K.A,Princess,Skeleton Army,Spear Goblins,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Barbarian Barrel,Electro Wizard,Fireball,Goblin Curse,Goblin Machine,Ice Golem,Ram Rider,Vines": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Baby Dragon,Fireball,Fisherman,Mega Knight,Skeleton Army,Tombstone,Valkyrie,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 2,
+    "F2P score": 1
+  },
+  "Arrows,Barbarian Barrel,Firecracker,Giant,Goblin Hut,Knight,Mega Minion,Poison": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Fireball,Hog Rider,Ice Spirit,Knight,Minions,Princess,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Baby Dragon,Barbarian Barrel,Cannon Cart,Fireball,Goblin Gang,Graveyard,Ice Wizard,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Bats,Dart Goblin,Firecracker,Hog Rider,Mega Knight,P.E.K.K.A,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Dart Goblin,Electro Giant,Firecracker,Hog Rider,P.E.K.K.A,Skeleton Army,The Log,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Firecracker,Hog Rider,Ice Spirit,Knight,Little Prince,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Cannon,Dart Goblin,Goblin Barrel,Goblin Gang,Ice Spirit,Princess,Valkyrie,Wall Breakers": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Giant Snowball,Hog Rider,Inferno Dragon,Mini P.E.K.K.A,Mortar,The Log,Valkyrie,Witch": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Dart Goblin,Electro Giant,Hog Rider,Ice Spirit,Lightning,P.E.K.K.A,Tornado,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Electro Wizard,Fireball,Hog Rider,Ice Spirit,Inferno Tower,Knight,Skeletons,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Cannon,Goblin Barrel,Musketeer,Princess,Skeleton Army,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Fireball,Goblin Barrel,Goblin Gang,Ice Spirit,Inferno Tower,Princess,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bats,Fireball,Inferno Dragon,Mini P.E.K.K.A,Tornado,Valkyrie,Witch,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Fireball,Goblin Barrel,Ice Spirit,Musketeer,Skeletons,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 3
+  },
+  "Cannon,Goblin Gang,Ice Spirit,Miner,Princess,The Log,Valkyrie,Wall Breakers": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Bats,Dart Goblin,Fireball,Hog Rider,Ice Golem,Mega Knight,The Log,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Cannon,Fireball,Hog Rider,Ice Spirit,Mega Knight,Musketeer,Skeletons,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Archers,Bats,Fireball,Hog Rider,Mega Knight,Mortar,Royal Delivery,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Baby Dragon,Barbarian Barrel,Goblinstein,Golem,Ice Wizard,Lightning,Night Witch,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Archers,Fireball,Hog Rider,Ice Spirit,Knight,Mega Minion,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Archers,Arrows,Bomber,Elite Barbarians,Mini P.E.K.K.A,Valkyrie,Void,Wizard": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 5
+  },
+  "Archers,Arrows,Bomber,Elite Barbarians,Golem,Mega Minion,Mini P.E.K.K.A,Night Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Arrows,Bats,Cannon,Firecracker,Mega Knight,Skeleton Barrel,Valkyrie,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 5
+  },
+  "Arrows,Firecracker,Mega Minion,Miner,Poison,Skeleton Barrel,Valkyrie,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Baby Dragon,Barbarians,Electro Wizard,Hog Rider,Knight,Musketeer,Poison,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Baby Dragon,Electro Wizard,Knight,Mega Minion,Miner,Musketeer,Poison,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Executioner,Goblins,Hog Rider,Ice Spirit,Rocket,The Log,Tornado,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 2,
+    "F2P score": 2
+  },
+  "Arrows,Cannon Cart,Goblin Gang,Ice Wizard,Mortar,Skeleton Barrel,Skeleton King,Spear Goblins": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Cannon Cart,Goblin Gang,Ice Wizard,Miner,Mortar,Poison,The Log,Valkyrie": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Balloon,Bats,Electro Wizard,Inferno Dragon,Lumberjack,Mega Knight,Tesla,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Fireball,Firecracker,Hog Rider,Knight,Mini P.E.K.K.A,Valkyrie,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 4
+  },
+  "Barbarian Barrel,Giant Skeleton,Goblin Barrel,Princess,Skeleton Army,Suspicious Bush,Wizard,Zappies": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Goblin Barrel,Inferno Tower,Knight,Rocket,Skeleton Army,Suspicious Bush,The Log,Wizard": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Firecracker,Goblins,Hog Rider,Ice Spirit,Rocket,Tesla,The Log,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Executioner,Goblins,Hog Rider,Ice Spirit,Mini P.E.K.K.A,Rocket,The Log,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Berserker,Dart Goblin,Ice Spirit,Mighty Miner,Skeleton Barrel,Spear Goblins,The Log,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 3,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Executioner,Goblins,Hog Rider,Ice Spirit,Lightning,Mini P.E.K.K.A,The Log,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Dart Goblin,Goblin Gang,Ice Spirit,Inferno Dragon,Mega Knight,Skeleton Barrel,Spear Goblins,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Archers,Bandit,Bats,Graveyard,Inferno Dragon,Mega Knight,Skeleton Barrel,The Log": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Arrows,Firecracker,Goblin Barrel,Golden Knight,Mega Knight,Skeleton Army,Valkyrie,Wizard": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Firecracker,Goblin Barrel,Goblin Gang,Ice Spirit,Inferno Tower,Knight,Princess,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Arrows,Firecracker,Golden Knight,Ice Spirit,Mega Knight,Musketeer,Tombstone,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Furnace,Goblin Gang,Goblin Machine,Mega Knight,Minions,Mirror,Rage,Vines": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bandit,Battle Ram,Dart Goblin,Electro Wizard,Fireball,Giant Snowball,P.E.K.K.A,Zappies": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Goblin Gang,Goblin Giant,Inferno Dragon,Mega Knight,Minions,Poison,Vines,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bandit,Battle Ram,Electro Wizard,Fireball,Giant Snowball,P.E.K.K.A,Poison,Zappies": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Archers,Bandit,Bats,Graveyard,Knight,Poison,The Log,Tombstone": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Bats,Dart Goblin,Firecracker,Giant Snowball,Mega Knight,Monk,Skeleton Army,Skeleton Barrel": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Fireball,Goblin Barrel,Ice Spirit,Knight,Mega Minion,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 3
+  },
+  "Bats,Dart Goblin,Firecracker,Goblin Gang,Mega Knight,Skeleton Barrel,The Log,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Bandit,Battle Healer,Battle Ram,Elixir Collector,Firecracker,Knight,Three Musketeers,Zap": {
+    "Attack": 4,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Battle Ram,Electro Wizard,Golden Knight,Mother Witch,P.E.K.K.A,Royal Ghost,Vines,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Bandit,Battle Ram,Miner,Mother Witch,P.E.K.K.A,Poison,Vines,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Cannon,Dart Goblin,Firecracker,Goblin Barrel,Golden Knight,Mini P.E.K.K.A,The Log,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Bats,Battle Ram,Boss Bandit,Goblins,Heal Spirit,Poison,Witch,Wizard": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Cannon,Dart Goblin,Fireball,Ice Golem,Mini P.E.K.K.A,Musketeer,Valkyrie,Witch": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Baby Dragon,Balloon,Bats,Furnace,Mega Knight,Mirror,Skeleton Army": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Arrows,Bats,Furnace,Goblin Barrel,Mirror,Rocket,Skeleton Army,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Bats,Battle Ram,Boss Bandit,Elixir Collector,Fireball,Ice Wizard,Mega Minion,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Dart Goblin,Goblin Barrel,Inferno Tower,Prince,Princess,Rocket,Skeleton Army,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Barbarian Barrel,Firecracker,Inferno Tower,Mega Minion,Ram Rider,Valkyrie,Wizard": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Balloon,Barbarians,Giant,Mega Knight,Minion Horde,Royal Giant,Wizard": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Balloon,Barbarians,Freeze,Lightning,Mega Minion,Minions,Royal Giant,Wizard": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Goblin Barrel,Inferno Tower,Knight,Princess,Rocket,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Bats,Cannon,Firecracker,Hog Rider,Ice Golem,Ice Spirit,Mega Knight": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Balloon,Barbarians,Fireball,Hunter,Royal Giant,Skeletons,Tornado,Wizard": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Bats,Electro Wizard,Fireball,Hog Rider,Ice Golem,Mega Knight,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Battle Healer,Berserker,Electro Dragon,Elixir Collector,Golem,Lumberjack,Tornado,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Bats,Ice Spirit,Monk,Sparky,Spear Goblins,Tesla,The Log,Tornado": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Baby Dragon,Battle Healer,Electro Dragon,Golem,Lumberjack,Night Witch,Poison,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Bats,Goblin Giant,Ice Spirit,Mega Minion,Sparky,Tesla,The Log,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Goblin Barrel,Inferno Dragon,Mega Knight,Mini P.E.K.K.A,Skeletons,The Log,Valkyrie,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Archer Queen,Arrows,Barbarian Barrel,Mortar,Royal Recruits,Skeleton Dragons,Vines,Zappies": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Fireball,Goblin Gang,Ice Spirit,Miner,Mortar,Royal Recruits,Zappies": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Hog Rider,Ice Spirit,Inferno Dragon,Mini P.E.K.K.A,Skeletons,Tesla,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Firecracker,Inferno Dragon,Little Prince,Mega Knight,Royal Ghost,Skeleton Army,Witch": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Baby Dragon,Fireball,Inferno Dragon,Knight,Skeleton Army,Witch,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Cannon Cart,Firecracker,Goblin Gang,Minions,Mortar,Skeleton Barrel,Skeleton King": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Elite Barbarians,Executioner,Golden Knight,Rocket,Valkyrie,Witch,Wizard,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Battle Ram,Elite Barbarians,Golden Knight,Heal Spirit,Magic Archer,Royal Ghost,Wizard,Zap": {
+    "Attack": 5,
+    "Defense": 4,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Arrows,Cannon Cart,Fireball,Goblin Gang,Ice Spirit,Knight,Mortar,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 5
+  },
+  "Arrows,Firecracker,Mega Knight,Minion Horde,Skeleton Army,Tombstone,Witch,Wizard": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Archers,Dart Goblin,Goblin Barrel,Ice Spirit,Inferno Tower,Princess,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Dart Goblin,Goblin Barrel,Ice Spirit,Inferno Tower,Princess,Rocket,The Log,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Baby Dragon,Bats,Firecracker,Hog Rider,Mega Knight,Tombstone,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Arrows,Bats,Electro Wizard,Fireball,Hog Rider,Ice Golem,Mega Knight,Tombstone": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Arrows,Goblin Barrel,Mega Minion,Minions,Skeleton Army,Tombstone,Wizard,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Fireball,Goblin Barrel,Ice Spirit,Knight,Mega Minion,Skeleton Dragons,Valkyrie,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 5
+  },
+  "Bandit,Battle Ram,Electro Wizard,Guards,P.E.K.K.A,Royal Ghost,The Log,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Bandit,Bats,Battle Ram,Electro Wizard,Guards,P.E.K.K.A,Poison,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bandit,Barbarian Barrel,Dart Goblin,Goblin Barrel,Goblin Gang,Princess,Tesla,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Electro Spirit,Fisherman,Lightning,Mega Minion,Royal Ghost,Royal Giant,Skeletons,The Log": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Boss Bandit,Firecracker,Hog Rider,Ice Spirit,Skeletons,The Log,Witch,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bandit,Barbarian Barrel,Goblin Barrel,Knight,Princess,Rocket,Tesla,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Boss Bandit,Fireball,Firecracker,Hog Rider,Ice Spirit,Inferno Tower,Skeletons,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Baby Dragon,Knight,Lightning,Mega Minion,Poison,Royal Ghost,Skeletons,The Log": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 1,
+    "F2P score": 1
+  },
+  "Arrows,Bandit,Electro Wizard,Golden Knight,Mega Minion,Minion Horde,Prince,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Arrows,Electro Spirit,Flying Machine,Goblin Cage,Golden Knight,Royal Recruits,Skeleton Barrel,Zappies": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Arrows,Bandit,Electro Wizard,Fireball,Ice Spirit,Knight,Mega Minion,Valkyrie": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Boss Bandit,Executioner,Furnace,Giant Snowball,Ram Rider,Skeleton Army,The Log,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Bowler,Goblin Gang,Graveyard,Inferno Tower,Mega Minion,Poison,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Electro Spirit,Fireball,Flying Machine,Golden Knight,Ice Spirit,Mega Minion,Skeleton Barrel,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Bandit,Electro Wizard,Fireball,Furnace,Mega Minion,Ram Rider,Skeleton Army,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Bowler,Goblin Gang,Ice Spirit,Inferno Tower,Knight,Mega Minion,Poison,Zap": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Baby Dragon,Barbarian Barrel,Battle Healer,Electro Dragon,Golem,Lumberjack,Night Witch,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Barbarian Barrel,Flying Machine,Goblin Cage,Royal Ghost,Royal Hogs,Royal Recruits,Zappies": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Arrows,Fireball,Giant,Goblin Cage,Mega Minion,Royal Ghost,Royal Recruits,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Firecracker,Goblin Barrel,Goblin Gang,Inferno Tower,Knight,Princess,Rocket,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Elite Barbarians,Fireball,Golden Knight,Mega Minion,Royal Ghost,Tornado,Wizard,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Firecracker,Mega Knight,Ram Rider,Tesla,Valkyrie,Witch,Wizard": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Baby Dragon,Bowler,Cannon,Fireball,Knight,Miner,Musketeer,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bandit,Bats,Battle Ram,Dark Prince,Electro Wizard,P.E.K.K.A,Poison,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Barbarian Barrel,Firecracker,Flying Machine,Goblin Cage,Mega Knight,Poison,Ram Rider,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Baby Dragon,Bowler,Cannon,Fireball,Graveyard,Ice Wizard,Knight,Tornado": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Bats,Battle Ram,Electro Wizard,Ice Spirit,Miner,P.E.K.K.A,Poison,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Dart Goblin,Fireball,Goblin Barrel,Goblin Giant,Mega Minion,Prince,The Log,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Dart Goblin,Firecracker,Goblin Barrel,Skeleton Army,Skeleton Barrel,Tesla,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Arrows,Bats,Firecracker,Goblin Barrel,Mega Knight,Miner,Skeleton Barrel,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bats,Elite Barbarians,Fire Spirit,Fireball,Hog Rider,Knight,Tesla,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 5
+  },
+  "Bomber,Electro Giant,Electro Wizard,Firecracker,Freeze,Ice Wizard,Inferno Dragon,Minion Horde": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Archers,Fireball,Firecracker,Inferno Tower,Knight,Miner,Skeleton Army,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Barbarian Barrel,Goblin Gang,Goblinstein,Graveyard,Ice Wizard,Knight,Poison,Tesla": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Bandit,Hog Rider,Skeleton Army,Skeleton King,Spirit Empress,The Log,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Electro Giant,Fireball,Firecracker,Ice Spirit,Inferno Dragon,Mega Minion,Minion Horde": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Archer Queen,Arrows,Knight,Mega Minion,Poison,Skeleton Army,Spirit Empress,Witch": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Barbarian Barrel,Goblin Gang,Ice Spirit,Knight,Mega Minion,Poison,Tesla,The Log": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bats,Firecracker,Furnace,Guards,Ice Golem,Mega Knight,Poison,Tesla": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Baby Dragon,Graveyard,Mega Minion,Poison,Skeleton Army,Tombstone,Wizard": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bandit,Dark Prince,Firecracker,Giant Skeleton,Goblin Barrel,Goblin Gang,Little Prince,Zappies": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Baby Dragon,Graveyard,Poison,Skeleton Army,Spirit Empress,Tornado,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Baby Dragon,Bowler,Cannon,Fireball,Knight,Skeletons,The Log,Tornado": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 2,
+    "F2P score": 2
+  },
+  "Dart Goblin,Firecracker,Goblin Barrel,Goblin Gang,Knight,Princess,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Bats,Ice Golem,Mega Minion,Miner,Poison,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Bandit,Dark Prince,Firecracker,Giant Skeleton,Inferno Dragon,Miner,Poison,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Fireball,Goblins,Hog Rider,Ice Spirit,Inferno Tower,Rocket,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Dart Goblin,Graveyard,Guards,Lumberjack,Mega Knight,Minions,Tesla": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Baby Dragon,Guards,Ice Spirit,Mega Knight,Minions,Poison,Tesla,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Electro Wizard,Hog Rider,Ice Spirit,Mega Knight,Musketeer,Skeleton Army,Tesla,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bowler,Fireball,Giant,Golden Knight,Minions,Musketeer,Tornado,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Barbarian Barrel,Electro Giant,Goblin Gang,Ice Wizard,Lightning,Mini P.E.K.K.A,Tornado,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Baby Dragon,Barbarian Barrel,Giant Snowball,Graveyard,Inferno Tower,Knight,Minion Horde,Poison": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Firecracker,Goblin Gang,Inferno Dragon,Mega Knight,Poison,Skeleton Barrel,The Log,Tombstone": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bowler,Fireball,Giant,Mega Minion,Musketeer,Royal Ghost,Skeleton Army,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bats,Fireball,Goblin Gang,Inferno Dragon,Miner,Skeleton Barrel,The Log,Tombstone": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bowler,Electro Wizard,Fireball,Goblin Gang,Ice Spirit,Knight,Mega Minion,The Log": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Barbarian Barrel,Electro Spirit,Fireball,Fisherman,Hunter,Phoenix,Royal Ghost,Royal Giant": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Dart Goblin,Firecracker,Goblin Barrel,Mega Knight,Skeleton Barrel,The Log,Valkyrie,Witch": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Baby Dragon,Bandit,Barbarian Barrel,Battle Ram,Electro Wizard,Goblins,P.E.K.K.A,Poison": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Baby Dragon,Barbarian Barrel,Graveyard,Mega Knight,Poison,Skeleton Army,Tornado,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Dart Goblin,Firecracker,Goblin Barrel,Inferno Tower,Mega Knight,Rocket,Skeleton Army,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Dart Goblin,Mighty Miner,Royal Recruits,Skeleton Barrel,Tesla,Valkyrie,Vines,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Dart Goblin,Fireball,Ice Spirit,Mega Minion,Mighty Miner,Royal Recruits,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bats,Dart Goblin,Fireball,Goblin Gang,Hog Rider,Ice Spirit,Mega Knight,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Dart Goblin,Fireball,Goblin Barrel,Ice Spirit,Mighty Miner,Royal Recruits,The Log,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Baby Dragon,Cannon,Goblin Drill,Golem,Hunter,Skeleton Barrel,Suspicious Bush,Vines": {
+    "Attack": 5,
+    "Defense": 4,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Baby Dragon,Golem,Lumberjack,Night Witch,Poison,Skeleton Barrel,Tornado,Vines": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Bats,Fireball,Goblin Hut,Miner,Musketeer,Royal Ghost,Skeleton Barrel,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Freeze,Hog Rider,Knight,Lightning,P.E.K.K.A,Rocket,Witch,Wizard": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Dart Goblin,Electro Dragon,Goblin Gang,P.E.K.K.A,Poison,Royal Delivery,Skeleton King,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Bats,Cannon Cart,Fireball,Goblin Gang,Miner,Mortar,The Log": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Dart Goblin,Goblin Gang,Ice Spirit,Mega Minion,P.E.K.K.A,Poison,The Log,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Bats,Fireball,Ice Spirit,Miner,Musketeer,Royal Ghost,Wall Breakers,Zap": {
+    "Attack": 4,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Freeze,Golem,Lightning,Mega Minion,Night Witch,Tornado,Witch,Wizard": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Bowler,Fireball,Giant,Ice Spirit,Mini P.E.K.K.A,Musketeer,Tornado,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Archers,Bandit,Bats,Graveyard,Inferno Tower,Knight,Poison,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Bats,Dart Goblin,Electro Wizard,Hog Rider,Ice Golem,Mega Knight,Poison,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Archers,Electro Wizard,Furnace,Hog Rider,Lightning,Mirror,P.E.K.K.A,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Baby Dragon,Furnace,Golem,Lightning,Mirror,Night Witch,Tornado,Zap": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Firecracker,Goblin Barrel,Hog Rider,Mega Knight,Princess,Valkyrie,Wall Breakers,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 2,
+    "F2P score": 2
+  },
+  "Bats,Firecracker,Goblin Barrel,Goblin Gang,Mega Knight,Princess,Wall Breakers,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Baby Dragon,Bandit,Battle Ram,Goblins,Magic Archer,P.E.K.K.A,Poison,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Archers,Arrows,Bomb Tower,Magic Archer,Miner,Tornado,Valkyrie,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Barbarian Barrel,Electro Spirit,Flying Machine,Goblin Cage,Royal Hogs,Royal Recruits,Zappies": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Arrows,Barbarian Barrel,Bats,Electro Spirit,Graveyard,Ice Golem,Knight,Zappies": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 4
+  },
+  "Arrows,Bats,Bomb Tower,Magic Archer,Miner,The Log,Valkyrie,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Bandit,Barbarian Barrel,Goblin Barrel,Ice Spirit,Miner,Princess,Tesla,The Log": {
+    "Attack": 5,
+    "Defense": 4,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Cannon,Hog Rider,Ice Golem,Ice Spirit,Musketeer,Skeletons,The Log,Vines": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Electro Wizard,Fire Spirit,Fireball,Firecracker,Guards,Mega Knight,P.E.K.K.A,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Boss Bandit,Electro Spirit,Furnace,Mini P.E.K.K.A,Minions,Skeletons,Spear Goblins,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Bowler,Electro Wizard,Fireball,Goblin Barrel,Ice Spirit,Knight,Mega Minion,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Fire Spirit,Firecracker,Flying Machine,Guards,Mega Knight,Miner,Poison,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Boss Bandit,Electro Spirit,Minions,P.E.K.K.A,Poison,Royal Ghost,Skeletons,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Arrows,Bandit,Battle Ram,Electro Wizard,Executioner,P.E.K.K.A,Royal Ghost,Tornado": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Baby Dragon,Bandit,Battle Ram,Executioner,P.E.K.K.A,Poison,Tornado": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Arrows,Bats,Furnace,Goblin Gang,Lightning,Mega Knight,Prince,Skeleton Barrel": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Dart Goblin,Electro Giant,Hog Rider,Ice Wizard,Mini P.E.K.K.A,P.E.K.K.A,Tornado,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bats,Fireball,Goblin Gang,Inferno Dragon,Knight,Miner,The Log,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Cannon,Dart Goblin,Goblin Barrel,Hog Rider,Mini P.E.K.K.A,Skeletons,The Log,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Dart Goblin,Goblin Barrel,Ice Spirit,Knight,Mini P.E.K.K.A,Princess,Skeletons,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bats,Goblin Gang,Inferno Dragon,Mega Knight,Miner,Prince,Skeleton Barrel,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Balloon,Cannon,Giant Snowball,Ice Golem,Miner,Musketeer,Skeletons,The Log": {
+    "Attack": 4,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Bats,Earthquake,Firecracker,Hog Rider,P.E.K.K.A,Valkyrie,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Cannon,Fireball,Ice Spirit,Mini P.E.K.K.A,Musketeer,Skeletons,The Log,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Balloon,Barbarian Barrel,Cannon,Fireball,Ice Golem,Miner,Musketeer,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Cannon,Fireball,Golden Knight,Hog Rider,Ice Spirit,Musketeer,Skeletons,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bats,Electro Wizard,Firecracker,Hog Rider,Ice Spirit,Knight,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Cannon,Electro Wizard,Fireball,Golden Knight,Hog Rider,Ice Spirit,Skeletons,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Electro Wizard,Ice Wizard,Inferno Dragon,Lumberjack,Mega Knight,Miner,Royal Ghost,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Bandit,Dart Goblin,Electro Wizard,Minions,P.E.K.K.A,Poison,The Log,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Bats,Fireball,Goblin Gang,Inferno Dragon,Lumberjack,Mega Knight,Miner,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Cannon,Fireball,Golden Knight,Hog Rider,Ice Spirit,Mega Minion,Skeletons,The Log": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Balloon,Bats,Lumberjack,Mega Knight,Mega Minion,Princess,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bats,Fireball,Goblin Gang,Ice Golem,Ice Spirit,Lumberjack,Mega Knight,Mega Minion": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Dart Goblin,Goblin Barrel,Knight,Princess,Rascals,Skeleton Army,Skeleton Barrel": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Arrows,Bats,Cannon Cart,Fireball,Goblin Gang,Miner,Mortar,Skeleton King": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Ice Golem,Knight,Mega Minion,Miner,Skeleton Army,Skeleton Barrel,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Goblin Barrel,Goblins,Ice Spirit,Inferno Tower,Princess,Rocket,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Fireball,Firecracker,Hog Rider,Ice Spirit,Skeletons,Tesla,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Earthquake,Firecracker,Hog Rider,Ice Spirit,Skeletons,Tesla,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bats,Electro Wizard,Giant Snowball,Miner,Mirror,Rage,Tesla,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Goblin Gang,Inferno Tower,Miner,Poison,Prince,Princess,Skeleton Army,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Dart Goblin,Firecracker,Goblin Barrel,Knight,Rocket,Skeletons,Tesla,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Barbarian Barrel,Cannon Cart,Electro Wizard,Goblin Cage,Minions,Poison,Royal Recruits,Skeleton Barrel": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Barbarian Barrel,Cannon Cart,Fireball,Flying Machine,Goblin Cage,Poison,Royal Recruits,Zappies": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Baby Dragon,Earthquake,Hog Rider,Mini P.E.K.K.A,P.E.K.K.A,Skeletons,Spear Goblins": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Baby Dragon,Bandit,Mini P.E.K.K.A,Minions,P.E.K.K.A,Poison,Skeletons,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bats,Electro Wizard,Giant,Giant Snowball,Ice Spirit,Mirror,Poison,Tornado": {
+    "Attack": 2,
+    "Defense": 4,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 2
+  },
+  "Fireball,Goblin Drill,Knight,Magic Archer,Mega Minion,Royal Ghost,Tesla,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Goblin Barrel,Magic Archer,P.E.K.K.A,Skeleton Army,Tesla,The Log,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Arrows,Giant,Mega Minion,Poison,Skeleton Army,Spirit Empress,Tornado,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Dart Goblin,Inferno Tower,Mini P.E.K.K.A,Princess,Royal Ghost,Skeleton Army,Wizard": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Baby Dragon,Inferno Tower,Mini P.E.K.K.A,Skeleton Army,The Log,Valkyrie,Wizard,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Dart Goblin,Goblin Gang,Ice Spirit,Inferno Tower,Miner,Princess,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Fireball,Goblin Barrel,Ice Spirit,Mega Minion,P.E.K.K.A,The Log,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Bandit,Bats,Dart Goblin,Fireball,Ice Spirit,Mega Knight,The Log,Wall Breakers": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Fireball,Goblin Gang,Ice Spirit,Knight,Mega Minion,Princess,The Log,Valkyrie": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Bowler,Hog Rider,Mini P.E.K.K.A,Musketeer,P.E.K.K.A,Royal Delivery,Tesla,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bats,Dart Goblin,Fireball,Hog Rider,Ice Golem,Musketeer,The Log,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Baby Dragon,Barbarian Barrel,Bowler,Hog Rider,Mini P.E.K.K.A,Royal Delivery,Royal Ghost,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Goblins,Hog Rider,Ice Spirit,Rocket,Tesla,The Log,Tornado,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Arrows,Bats,Fireball,Inferno Dragon,Knight,Miner,Skeleton Army,Skeleton Barrel": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Archers,Cannon,Fire Spirit,Lumberjack,Prince,Skeletons,The Log,Wizard": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Boss Bandit,Fireball,Firecracker,Ice Spirit,Mega Knight,Royal Ghost,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Archers,Cannon,Fireball,Ice Spirit,Knight,Skeletons,The Log,Wizard": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Baby Dragon,Hog Rider,Lumberjack,Mother Witch,Night Witch,Ram Rider,Skeleton Army,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Electro Wizard,Firecracker,Goblin Drill,Ice Spirit,Inferno Dragon,Mega Knight,Poison,Royal Ghost": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Baby Dragon,Golem,Lightning,Mother Witch,Night Witch,Skeleton Army,Tornado,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Firecracker,Hog Rider,Ice Spirit,Knight,Poison,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 5
+  },
+  "Bats,Ice Golem,Inferno Dragon,Mega Minion,Miner,Poison,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Fireball,Hog Rider,Ice Golem,Ice Spirit,Princess,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Baby Dragon,Graveyard,Ice Wizard,Poison,Skeleton Barrel,Skeletons,Tornado,Valkyrie": {
+    "Attack": 4,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 1,
+    "F2P score": 1
+  },
+  "Archers,Arrows,Fireball,Furnace,Guards,Ice Wizard,Mortar,Spirit Empress": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Dart Goblin,Executioner,Mega Knight,Minions,The Log,Tombstone,Tornado,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Dart Goblin,Executioner,Hog Rider,Knight,Minions,Poison,The Log,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Archers,Goblin Gang,Ice Wizard,Miner,Mortar,Skeletons,Spirit Empress,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Bomber,Elite Barbarians,Elixir Collector,Heal Spirit,Knight,Monk,Rage,Three Musketeers": {
+    "Attack": 2,
+    "Defense": 4,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Cannon,Dart Goblin,Firecracker,Goblin Barrel,Goblin Gang,Ice Spirit,Knight,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 5
+  },
+  "Barbarian Barrel,Dark Prince,Electro Wizard,Fireball,Mother Witch,P.E.K.K.A,Ram Rider,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Cannon,Dart Goblin,Firecracker,Goblin Barrel,Ice Spirit,Knight,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 5
+  },
+  "Bandit,Barbarian Barrel,Electro Wizard,Minions,P.E.K.K.A,Poison,Ram Rider,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Baby Dragon,Electro Wizard,Fireball,Goblin Cage,Heal Spirit,Knight,Monk,Rage": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Bats,Electro Spirit,Flying Machine,Golden Knight,Mega Knight,Miner,Skeleton Barrel,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Electro Wizard,Firecracker,Goblin Gang,Mega Knight,Prince,Skeleton Barrel,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bats,Firecracker,Golden Knight,Mega Knight,Miner,Poison,The Log,Valkyrie": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Balloon,Barbarians,Fireball,Ice Golem,Minions,Royal Giant,Wizard,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 5
+  },
+  "Bats,Electro Wizard,Firecracker,Goblin Gang,Mega Knight,Miner,Poison,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Fireball,Firecracker,Golden Knight,Inferno Dragon,Mega Knight,Skeleton Army,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bats,Dart Goblin,Goblin Gang,Hog Rider,Ice Spirit,Mega Knight,The Log,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Furnace,Lumberjack,Minions,Rage,Ram Rider,Royal Ghost,Vines,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Barbarian Barrel,Flying Machine,Mother Witch,Rocket,Royal Hogs,Royal Recruits,Zappies": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Inferno Dragon,Minions,Poison,Rage,Royal Ghost,Skeleton Army,Witch,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Baby Dragon,Furnace,Goblin Gang,Hog Rider,Mega Knight,Valkyrie,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Baby Dragon,Furnace,Hog Rider,Skeletons,The Log,Tornado,Valkyrie,Witch": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Electro Wizard,Inferno Dragon,Magic Archer,Mini P.E.K.K.A,Poison,Ram Rider,The Log,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Baby Dragon,Fireball,Goblins,Hog Rider,Ice Spirit,Mini P.E.K.K.A,The Log,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Bats,Bomb Tower,Fireball,Miner,Royal Ghost,Skeletons,Valkyrie,Wall Breakers": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 2
+  },
+  "Bandit,Goblin Giant,Minions,Poison,Rage,Royal Ghost,Tornado,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Bandit,Bats,Electro Wizard,Giant,Goblins,Lightning,Mega Knight,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Ice Wizard,Poison,Rocket,Skeletons,Tesla,The Log,Tornado,Valkyrie": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Archers,Bomb Tower,Earthquake,Giant Snowball,Hog Rider,Skeletons,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 3
+  },
+  "Bandit,Bats,Fireball,Giant,Mega Knight,Miner,Night Witch,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Fireball,Hog Rider,Ice Spirit,Ice Wizard,Skeletons,Tesla,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Earthquake,Electro Wizard,Fireball,Hog Rider,Ice Spirit,Skeletons,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 1,
+    "F2P score": 2
+  },
+  "Ice Spirit,Inferno Tower,Mega Minion,Mini P.E.K.K.A,Skeleton Army,The Log,Wizard,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Archers,Electro Dragon,Freeze,Mega Knight,P.E.K.K.A,Vines,Witch,Wizard": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Baby Dragon,Furnace,Goblin Barrel,Mega Minion,Poison,Tornado,Valkyrie,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Bandit,Elite Barbarians,Fire Spirit,Goblin Gang,Lumberjack,Mega Knight,Minion Horde,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Elite Barbarians,Fire Spirit,Fireball,Inferno Dragon,Miner,Minion Horde,Royal Ghost,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Bats,Fireball,Firecracker,Hog Rider,Inferno Tower,Knight,Mega Knight": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Archers,Mega Minion,P.E.K.K.A,Poison,Skeletons,Tornado,Vines,Witch": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Arrows,Bats,Firecracker,Inferno Tower,Knight,Miner,Poison,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Dart Goblin,Goblin Gang,Knight,Mega Minion,The Log,Tombstone,Wall Breakers": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Archers,Bomber,Cannon,Ice Spirit,Knight,Musketeer,Royal Giant,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 5
+  },
+  "Bats,Firecracker,Goblin Barrel,Hog Rider,Mega Knight,The Log,Vines,Witch": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Archers,Dart Goblin,Fireball,Goblin Barrel,Mighty Miner,Royal Recruits,The Log,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Goblin Barrel,Hog Rider,Inferno Tower,Knight,Princess,The Log,Vines,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Cannon,Fireball,Ice Spirit,Knight,Musketeer,Skeletons,The Log,Zap": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Cannon Cart,Fireball,Goblin Gang,Graveyard,Ice Wizard,Mega Minion,Poison,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Baby Dragon,Knight,Little Prince,Prince,Rage,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Cannon,Earthquake,Firecracker,Hog Rider,Ice Spirit,Mighty Miner,Skeletons,The Log": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Cannon,Fireball,Firecracker,Hog Rider,Ice Spirit,Knight,Mighty Miner,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Bandit,Battle Ram,Electro Wizard,Fireball,Firecracker,P.E.K.K.A,Valkyrie,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Elite Barbarians,Furnace,Giant Skeleton,Hog Rider,Mega Knight,Princess,Wizard,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Executioner,Furnace,Goblin Barrel,Lightning,Mirror,The Log,Tornado,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Fireball,Goblin Gang,Hog Rider,Ice Spirit,Mega Knight,Princess,The Log,Wizard": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Baby Dragon,Electro Wizard,Giant,Graveyard,Mega Minion,Musketeer,Poison,The Log": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Barbarian Barrel,Bats,Battle Ram,Berserker,Boss Bandit,Mega Knight,Musketeer,Vines": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bandit,Mini P.E.K.K.A,Minions,Poison,Rage,Royal Ghost,Witch,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Barbarian Barrel,Battle Ram,Boss Bandit,Ice Golem,Minions,Musketeer,Poison,Vines": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bats,Firecracker,Inferno Dragon,Mega Knight,Miner,Poison,Skeleton Barrel,Skeletons": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Fire Spirit,Firecracker,Goblin Drill,Guards,Inferno Dragon,Mega Knight,Poison,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Arrows,Fireball,Hog Rider,Ice Spirit,Mega Knight,Musketeer,The Log,Tombstone": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Baby Dragon,Bats,Boss Bandit,Dart Goblin,Guards,The Log,Valkyrie,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Executioner,Hog Rider,Ice Golem,Knight,Mega Minion,Pekka,Tornado,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bats,Dart Goblin,Goblin Gang,Ice Spirit,Knight,Miner,The Log,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Fireball,Goblin Barrel,Goblin Gang,Inferno Tower,Knight,Princess,Skeletons,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Baby Dragon,Bats,Golem,Lumberjack,Night Witch,Poison,Valkyrie,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Fireball,Ice Spirit,Inferno Tower,Knight,Miner,Musketeer,Skeletons,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Cannon,Dark Prince,Dart Goblin,Fireball,Hog Rider,Ice Spirit,Musketeer,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Firecracker,Goblin Gang,Ice Spirit,Mega Minion,Tesla,The Log,Valkyrie,Zap": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Cannon,Dark Prince,Fireball,Ice Golem,Musketeer,Skeletons,The Log,Zap": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Bomb Tower,Magic Archer,Miner,Skeletons,The Log,Valkyrie,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 2
+  },
+  "Bats,Electro Wizard,Lumberjack,Mega Knight,Miner,Poison,Tesla,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Fireball,Goblins,Hog Rider,Ice Spirit,Mini P.E.K.K.A,Musketeer,The Log,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Barbarian Barrel,Firecracker,Ice Spirit,Mega Minion,Ram Rider,The Log,Valkyrie,Wizard": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Dart Goblin,Goblin Gang,Rascals,Royal Delivery,Royal Recruits,Skeleton Barrel,Suspicious Bush": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 5
+  },
+  "Goblin Gang,Ice Spirit,Mega Minion,Miner,Royal Recruits,Skeleton Barrel,Suspicious Bush,The Log": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Goblin Barrel,Goblin Gang,Ice Spirit,Inferno Tower,Princess,Rocket,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Baby Dragon,Barbarian Barrel,Goblin Cage,Graveyard,Ice Wizard,Poison,Tornado,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Balloon,Bomber,Giant,Mini P.E.K.K.A,Rage,Skeleton Army,Wizard": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Archers,Bomb Tower,Graveyard,Ice Spirit,Ice Wizard,Knight,Mini P.E.K.K.A,Poison": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Arrows,Bats,Goblin Gang,Hog Rider,Ice Golem,Mega Knight,Musketeer,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Archers,Bomb Tower,Graveyard,Ice Golem,Ice Spirit,Knight,Poison,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 3
+  },
+  "Baby Dragon,Barbarian Barrel,Goblin Cage,Hog Rider,Ice Spirit,The Log,Tornado,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 1
+  },
+  "Earthquake,Firecracker,Hog Rider,Knight,Royal Delivery,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Archer Queen,Archers,Cannon,Electro Wizard,Mega Knight,The Log,Valkyrie,Vines": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Earthquake,Goblins,Ice Spirit,Knight,Musketeer,Royal Delivery,The Log,Zap": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 2,
+    "F2P score": 4
+  },
+  "Archers,Cannon,Electro Wizard,Fireball,Hog Rider,Ice Spirit,Skeletons,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Dart Goblin,Miner,Minion Horde,Skeleton Army,Skeleton Barrel,Skeleton King,The Log,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Archers,Fireball,Hog Rider,Ice Spirit,Knight,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 4
+  },
+  "Dart Goblin,Goblin Gang,Miner,Mortar,Skeleton Army,Skeleton King,Wall Breakers,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Arrows,Firecracker,Freeze,Graveyard,Mega Knight,Mini P.E.K.K.A,Valkyrie,Witch": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Bats,Goblin Barrel,Hog Rider,Knight,Mega Knight,Princess,Skeleton Army,Witch": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Arrows,Bats,Elixir Golem,Firecracker,Lumberjack,Mega Knight,Valkyrie,Wizard": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bats,Fireball,Hog Rider,Ice Spirit,Knight,Tesla,The Log,Witch": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Balloon,Bats,Bomb Tower,Cannon,Fireball,Ice Golem,Miner,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Elixir Golem,Firecracker,Lumberjack,Mega Knight,Night Witch,Rage,Wizard": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bandit,Barbarian Barrel,Electro Wizard,Magic Archer,P.E.K.K.A,Poison,Ram Rider,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Arrows,Barbarian Barrel,Graveyard,Knight,Poison,Skeleton Army,Spirit Empress,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Graveyard,Ice Golem,Ice Wizard,Poison,Skeleton Barrel,Skeletons,Tornado,Valkyrie": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 1,
+    "F2P score": 2
+  },
+  "Bats,Goblin Hut,Knight,Miner,Poison,Spear Goblins,The Log,Wall Breakers": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 2,
+    "F2P score": 2
+  },
+  "Fireball,Goblin Gang,Ice Spirit,Knight,Musketeer,Skeletons,The Log,Zap": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Baby Dragon,Goblin Hut,Graveyard,Knight,Mega Minion,Poison,The Log,Wall Breakers": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Bats,Dart Goblin,Electro Wizard,Firecracker,Goblin Barrel,Mega Knight,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Bats,Firecracker,Goblin Barrel,Inferno Tower,Princess,Rocket,The Log,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bowler,Fireball,Giant,Ice Spirit,Minions,Musketeer,The Log,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Goblin Gang,Inferno Tower,Knight,Mega Minion,Prince,Skeleton Army,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 4
+  },
+  "Bomber,Electro Wizard,Goblin Barrel,Hog Rider,Minion Horde,Skeleton Army,Witch,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Arrows,Baby Dragon,Giant,Mega Minion,Poison,Skeleton Army,Tornado,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Electro Wizard,Firecracker,Goblin Barrel,Hog Rider,Mega Knight,Tesla,The Log,Valkyrie": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Firecracker,Goblin Barrel,Hog Rider,Ice Spirit,Knight,The Log,Witch,Zap": {
+    "Attack": 4,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Goblin Barrel,Goblin Gang,Hog Rider,Knight,Princess,Rocket,Tesla,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Baby Dragon,Goblin Barrel,Inferno Dragon,Mega Knight,Skeleton Army,The Log,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Arrows,Bats,Inferno Dragon,Mega Knight,Miner,Poison,The Log,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Cannon,Dart Goblin,Furnace,Goblin Barrel,Goblin Gang,Mega Knight,Spear Goblins,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Cannon,Fireball,Goblin Barrel,Knight,Mega Minion,Spear Goblins,The Log,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Boss Bandit,Elite Barbarians,Firecracker,Goblin Barrel,Lumberjack,Mini P.E.K.K.A,Minion Horde,Skeleton Army": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Boss Bandit,Goblin Barrel,Inferno Tower,Lumberjack,Minion Horde,Princess,Rocket,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Dart Goblin,Firecracker,Furnace,Goblin Barrel,Goblin Hut,Mega Knight,Ram Rider,Witch": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Bowler,Fireball,Giant,Mega Minion,Miner,Minions,Musketeer,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Cannon,Fireball,Ice Spirit,Knight,Mega Minion,Skeleton Army,Skeleton Barrel": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 5
+  },
+  "Baby Dragon,Barbarian Barrel,Firecracker,Goblin Hut,Knight,Mega Knight,Poison,Witch": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Barbarian Barrel,Elixir Golem,Firecracker,Lumberjack,Mega Minion,Night Witch,Rage,Wizard": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Baby Dragon,Barbarian Barrel,Goblinstein,Ice Wizard,Knight,Lightning,Poison,Tornado": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 1,
+    "F2P score": 0
+  },
+  "Arrows,Baby Dragon,Mega Minion,Poison,Skeleton Army,Tornado,Valkyrie,Witch": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bats,Cannon,Goblin Gang,Mega Knight,Miner,The Log,Wall Breakers,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Goblin Gang,Hog Rider,Ice Spirit,Mega Knight,Princess,The Log,Wizard,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Archers,Cannon,Electro Wizard,Fireball,Ice Spirit,Knight,Mega Minion,The Log": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bats,Bomb Tower,Cannon,Magic Archer,Miner,The Log,Valkyrie,Wall Breakers": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Barbarian Barrel,Electro Wizard,Fireball,Goblin Curse,Goblin Giant,Pekka,Ram Rider,Vines": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Barbarian Barrel,Dart Goblin,Golden Knight,Guards,Magic Archer,Mega Knight,Ram Rider,Rune Giant": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Barbarian Barrel,Elixir Collector,Guards,Hunter,Ram Rider,Royal Ghost,Rune Giant,Zap": {
+    "Attack": 2,
+    "Defense": 4,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Fireball,Hog Rider,Ice Spirit,Mega Knight,Musketeer,The Log,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Baby Dragon,Electro Wizard,Furnace,Lightning,Miner,Mirror,Tornado,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Bandit,Battle Ram,Dark Prince,Electro Wizard,Minions,P.E.K.K.A,Poison,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Bats,Electro Wizard,Inferno Tower,Knight,Poison,Prince,Skeleton Army,The Log": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Bats,Goblin Gang,Inferno Dragon,Mega Knight,Poison,Skeleton Barrel,Spear Goblins,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Bandit,Bats,Electro Wizard,Mega Minion,Miner,P.E.K.K.A,Poison,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Fireball,Guards,Hog Rider,Ice Spirit,Mega Knight,Minions,Tesla,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Goblin Gang,Inferno Dragon,Mega Knight,Miner,Royal Recruits,Skeleton Barrel,Suspicious Bush,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Baby Dragon,Bandit,Battle Ram,Goblins,Ice Golem,P.E.K.K.A,Poison,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Electro Wizard,Fireball,Goblin Barrel,Goblin Gang,Inferno Dragon,Mega Knight,Skeleton Barrel,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Baby Dragon,Bowler,Cannon,Fireball,Knight,Poison,Skeletons,Tornado": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 2,
+    "F2P score": 2
+  },
+  "Electro Wizard,Fireball,Goblin Barrel,Goblin Gang,Ice Spirit,Knight,Miner,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Archers,Bandit,Bats,Graveyard,Ice Golem,Knight,Poison,The Log": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Furnace,Golem,Lightning,Lumberjack,Mini P.E.K.K.A,Night Witch,Vines,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Dart Goblin,Firecracker,Hog Rider,Mega Knight,Skeleton Army,Tesla,Wizard": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Boss Bandit,Electro Dragon,Fireball,Firecracker,Furnace,Goblin Gang,Lumberjack": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Baby Dragon,Bandit,Battle Ram,Inferno Dragon,P.E.K.K.A,Poison,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Arrows,Firecracker,Inferno Dragon,Mega Knight,Miner,Skeleton Barrel,Valkyrie,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Baby Dragon,Golem,Lumberjack,Mega Minion,Night Witch,Poison,Witch,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Bats,Mega Knight,Miner,Poison,The Log,Valkyrie,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 2,
+    "F2P score": 2
+  },
+  "Bats,Dart Goblin,Fireball,Goblin Gang,Knight,Miner,The Log,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Boss Bandit,Electro Dragon,Firecracker,Goblin Giant,Lumberjack,Tornado,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Balloon,Freeze,Ice Golem,Mega Knight,Mega Minion,Skeleton Army,Wizard": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Dart Goblin,Goblin Barrel,Goblin Gang,Ice Spirit,Inferno Tower,Princess,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Baby Dragon,Mother Witch,Night Witch,Skeleton Army,Skeletons,Tornado,Witch,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Earthquake,Hog Rider,Hunter,Knight,Royal Delivery,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 4
+  },
+  "Bats,Fireball,Goblins,Hog Rider,Ice Golem,Mega Knight,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Baby Dragon,Bowler,Firecracker,Furnace,Hog Rider,The Log,Tombstone,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 1
+  },
+  "Dart Goblin,Fireball,Goblin Gang,Hog Rider,Ice Spirit,Princess,The Log,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Baby Dragon,Firecracker,Ice Spirit,Knight,Minions,The Log,Tombstone,Zap": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 5
+  },
+  "Elite Barbarians,Hunter,Ice Spirit,Mega Minion,Poison,Rage,Tornado,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Electro Wizard,Ice Spirit,Knight,Miner,Poison,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Electro Giant,Goblin Gang,Golem,Ice Golem,Lightning,Mega Minion,Tornado,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Bats,Bomb Tower,Dart Goblin,Goblin Gang,Miner,Valkyrie,Wall Breakers": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Bandit,Barbarian Barrel,Goblin Barrel,Knight,Princess,Rocket,Skeletons,Tesla": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Goblins,Hog Rider,Ice Spirit,Knight,Mega Minion,Rocket,Valkyrie,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 4
+  },
+  "Barbarians,Bats,Elite Barbarians,Fire Spirit,Furnace,Mega Knight,The Log,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Arrows,Balloon,Barbarians,Electro Wizard,Little Prince,Lumberjack,Mega Knight,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Barbarian Barrel,Firecracker,Guards,Mega Knight,Ram Rider,Royal Ghost,Spirit Empress,Vines": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Barbarians,Bats,Fire Spirit,Goblin Gang,Inferno Dragon,Mega Knight,Miner,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Barbarians,Electro Wizard,Goblin Gang,Ice Spirit,Lumberjack,Mega Knight,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Firecracker,Flying Machine,Inferno Dragon,Mega Knight,Poison,Ram Rider,Spirit Empress,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Freeze,Inferno Dragon,Mega Knight,Minions,Skeleton Army,Wizard,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bomber,Executioner,Giant,Goblin Cage,Mega Knight,Mini P.E.K.K.A,Valkyrie,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Baby Dragon,Barbarian Barrel,Executioner,Goblin Cage,Knight,Mini P.E.K.K.A,Tornado,Witch": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Balloon,Barbarians,Fireball,Ice Golem,Royal Giant,Skeletons,Wizard,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 5
+  },
+  "Arrows,Bandit,Fireball,Miner,Minion Horde,P.E.K.K.A,Skeleton Army,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Bats,Bomber,Firecracker,Giant Skeleton,Goblin Barrel,Mega Knight,The Log,Tombstone": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 2,
+    "F2P score": 2
+  },
+  "Giant Skeleton,Goblin Barrel,Goblin Gang,Knight,Princess,Rocket,The Log,Tombstone": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Baby Dragon,Golem,Mega Minion,Night Witch,Skeleton Barrel,Tornado,Vines,Zap": {
+    "Attack": 5,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Earthquake,Fireball,Goblins,Hog Rider,Ice Spirit,Mega Minion,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 4,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Bats,Bomb Tower,Miner,Skeleton Army,Skeleton King,Valkyrie,Wall Breakers": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Barbarians,Bats,Fire Spirit,Inferno Dragon,Mega Knight,Miner,Poison,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Fireball,Inferno Tower,Knight,Mega Minion,Poison,Prince,Skeleton Army,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Cannon,Fireball,Hog Rider,Ice Golem,Ice Spirit,Knight,Musketeer,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Baby Dragon,Fisherman,Freeze,Hog Rider,Minions,Skeleton Army,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Fireball,Goblin Barrel,Hog Rider,Ice Spirit,Mega Minion,Valkyrie,Witch,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Electro Wizard,Ice Spirit,Inferno Tower,Magic Archer,Miner,Poison,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Fireball,Hog Rider,Ice Golem,Minions,Musketeer,Skeleton Army,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Elite Barbarians,Fire Spirit,Goblin Barrel,Mega Minion,Minion Horde,The Log,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 4,
+    "F2P score": 5
+  },
+  "Goblin Gang,Hog Rider,Ice Spirit,Mega Minion,Princess,Skeletons,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Electro Wizard,Magic Archer,Mega Minion,Miner,Poison,Skeletons,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Archers,Arrows,Firecracker,Hog Rider,Mega Knight,Mini P.E.K.K.A,The Log,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Bats,Goblins,Hog Rider,Ice Spirit,Mega Knight,Mini P.E.K.K.A,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 4
+  },
+  "Arrows,Electro Wizard,Hunter,Inferno Tower,Lumberjack,Mother Witch,Poison,Royal Ghost": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Goblin Barrel,Ice Golem,Minions,Mirror,Skeleton Army,The Log,Tornado,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Arrows,Baby Dragon,Giant,Inferno Tower,Mother Witch,Night Witch,Poison,Tornado": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Arrows,Electro Wizard,Hog Rider,Inferno Tower,Knight,Minions,Poison,Skeleton Army": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Electro Wizard,Firecracker,Goblin Barrel,Mega Knight,Minions,Skeleton King,Tesla": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Baby Dragon,Bats,Inferno Dragon,Lumberjack,Mega Knight,Mega Minion,Poison,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Firecracker,Goblin Barrel,Knight,Princess,Rocket,Skeleton King,Tesla,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Arrows,Fireball,Ice Spirit,Mega Minion,Skeleton Dragons,Tombstone,Valkyrie,Zap": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Dart Goblin,Fireball,Goblin Barrel,Ice Spirit,Mighty Miner,Royal Recruits,The Log,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Bandit,Bats,Fireball,Inferno Dragon,Mega Knight,Prince,Skeleton Army,Wizard": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Fireball,Hog Rider,Ice Spirit,Musketeer,Skeletons,Tesla,The Log,Valkyrie": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Bandit,Fireball,Magic Archer,Miner,Minion Horde,P.E.K.K.A,Skeleton Army": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Baby Dragon,Bandit,Bats,Dark Prince,Fireball,Inferno Dragon,Prince,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Fireball,Ice Spirit,Knight,Musketeer,Skeletons,The Log,Tombstone,Valkyrie": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Cannon,Fireball,Goblin Gang,Inferno Tower,Miner,Princess,Skeletons,Wall Breakers": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Electro Wizard,Magic Archer,Mini P.E.K.K.A,P.E.K.K.A,Poison,Ram Rider,The Log,Valkyrie": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Arrows,Dart Goblin,Firecracker,Goblin Barrel,Knight,Mega Knight,P.E.K.K.A,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bandit,Firecracker,Hunter,Ice Spirit,Knight,P.E.K.K.A,Poison,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Goblin Barrel,Goblin Gang,Hog Rider,Inferno Tower,Princess,Skeleton Army,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Goblin Barrel,Hog Rider,Ice Spirit,Inferno Tower,Knight,Princess,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Golem,Lightning,Mega Minion,Night Witch,Royal Ghost,Skeletons,The Log,Tornado": {
+    "Attack": 3,
+    "Defense": 4,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Arrows,Cannon Cart,Goblin Gang,Ice Spirit,Knight,Miner,Mortar,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Archers,Arrows,Ice Golem,Mega Knight,Mega Minion,The Log,Valkyrie,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Goblin Barrel,Ice Spirit,Inferno Tower,Miner,Prince,Princess,Skeleton Army,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Arrows,Cannon Cart,Ice Wizard,Miner,Mortar,Poison,Skeleton King,Spear Goblins": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Electro Spirit,Fireball,Goblin Barrel,Ice Golem,Mini P.E.K.K.A,Ram Rider,The Log,Valkyrie": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Goblin Barrel,Goblin Gang,Ice Spirit,Knight,Miner,Princess,Rocket,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Dart Goblin,Goblin Barrel,Knight,Mini P.E.K.K.A,Princess,Rocket,Skeletons,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Arrows,Baby Dragon,Giant,Knight,Mega Minion,Poison,Prince,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Bats,Goblin Gang,Inferno Dragon,Mega Knight,Miner,Skeleton Barrel,The Log,Tombstone": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Boss Bandit,Electro Spirit,Goblin Barrel,Minions,Princess,Skeletons,The Log,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Baby Dragon,Cannon Cart,Goblin Cage,Miner,Poison,Royal Recruits,The Log,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Battle Ram,Dark Prince,Electro Wizard,Goblin Gang,Magic Archer,P.E.K.K.A,Tornado,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Archers,Cannon,Electro Wizard,Fireball,Hog Rider,Ice Spirit,Knight,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 3
+  },
+  "Dark Prince,Goblin Gang,Ice Spirit,Magic Archer,Mega Minion,Poison,Prince,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bats,Electro Wizard,Giant Snowball,Goblin Gang,Mega Knight,Miner,Mirror,Poison": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Bats,Electro Wizard,Firecracker,Goblin Barrel,Ice Spirit,Mega Knight,Royal Ghost,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Bats,Dart Goblin,Firecracker,Goblin Gang,Ice Spirit,Miner,Skeleton Barrel,The Log": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Baby Dragon,Cannon,Fireball,Miner,Skeleton Army,Skeleton King,The Log,Wall Breakers": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 0
+  },
+  "Bandit,Battle Ram,Electro Wizard,Firecracker,Knight,P.E.K.K.A,Poison,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Bomber,Elite Barbarians,Golden Knight,Golem,Mega Minion,Night Witch,Wizard,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Cannon,Goblin Barrel,Goblin Gang,Ice Spirit,Princess,Rocket,Spear Goblins,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 3
+  },
+  "Fireball,Goblin Barrel,Hog Rider,Inferno Tower,Skeleton Army,The Log,Vines,Witch": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Archers,Fireball,Ice Spirit,Knight,Mortar,Skeletons,Tesla,The Log": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 5
+  },
+  "Electro Wizard,Fireball,Firecracker,Goblin Gang,Knight,Mega Knight,Tesla,The Log": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Fireball,Firecracker,Mega Knight,Miner,Poison,Skeletons,Tesla,Zap": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bats,Dart Goblin,Ice Golem,Miner,Poison,Princess,The Log,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Dart Goblin,Goblin Barrel,Goblin Gang,Golden Knight,Mini P.E.K.K.A,Princess,Rocket,The Log": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Dart Goblin,Goblin Barrel,Goblin Gang,Hog Rider,Mega Knight,Mini P.E.K.K.A,The Log,Witch": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Bats,Fireball,Ice Golem,Knight,Mega Minion,Poison,Tesla,The Log": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Arrows,Barbarian Barrel,Cannon,Electro Wizard,Executioner,Hog Rider,Mighty Miner,Valkyrie": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Barbarian Barrel,Cannon,Fireball,Hog Rider,Ice Golem,Ice Spirit,Mighty Miner,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 2
+  },
+  "Cannon,Fireball,Hog Rider,Ice Spirit,Musketeer,Skeleton Dragons,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Dart Goblin,Fireball,Goblin Gang,Ice Spirit,Knight,Mini P.E.K.K.A,The Log,Zap": {
+    "Attack": 1,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Fireball,Firecracker,Hog Rider,Hunter,Ice Spirit,Knight,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 5,
+    "Versatility": 5,
+    "F2P score": 4
+  },
+  "Arrows,Baby Dragon,Fireball,Graveyard,Ice Golem,Mini P.E.K.K.A,Tornado,Witch": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 4,
+    "F2P score": 1
+  },
+  "Fireball,Hunter,Ice Spirit,Mega Minion,Miner,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Barbarian Barrel,Dart Goblin,Minions,P.E.K.K.A,Rascals,Royal Recruits,Skeleton King": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Arrows,Barbarians,Bats,Goblin Giant,Goblins,Little Prince,Rage,Sparky": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Executioner,Fireball,Fisherman,Guards,Hunter,Mighty Miner,Royal Giant,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 0
+  },
+  "Fireball,Guards,Hunter,Ice Spirit,Mighty Miner,Royal Giant,Tornado,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Hog Rider,Ice Wizard,Miner,Poison,Skeletons,Tesla,The Log,Valkyrie": {
+    "Attack": 4,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 4,
+    "F2P score": 2
+  },
+  "Arrows,Goblin Giant,Goblins,Little Prince,Mega Minion,Mini P.E.K.K.A,Rage,Sparky": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Barbarian Barrel,Furnace,Goblin Hut,Graveyard,Knight,Monk,Poison,Skeletons": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 1
+  },
+  "Arrows,Barbarian Barrel,Goblin Gang,Ice Wizard,Mortar,Royal Recruits,Skeleton King,Tombstone": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Barbarian Barrel,Flying Machine,Furnace,Goblin Hut,Mega Knight,Monk,Mother Witch,Poison": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Barbarian Barrel,Cannon,Fireball,Hog Rider,Ice Golem,Ice Spirit,Mighty Miner,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Electro Wizard,Ice Spirit,Magic Archer,Miner,Poison,Tornado,Valkyrie,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 2,
+    "F2P score": 0
+  },
+  "Archers,Fireball,Ice Spirit,Knight,Mega Minion,Skeletons,The Log,Zap": {
+    "Attack": 0,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 2,
+    "F2P score": 4
+  },
+  "Archers,Barbarian Barrel,Elixir Collector,Fireball,Furnace,Guards,Ram Rider,Rune Giant": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Goblin Barrel,Ice Spirit,Knight,Princess,Rocket,Skeletons,Tesla,The Log": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 2,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bandit,Dark Prince,Fireball,Giant,Inferno Dragon,Mega Minion,Prince,Zap": {
+    "Attack": 5,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 1
+  },
+  "Cannon,Elite Barbarians,Fireball,Hog Rider,Ice Spirit,Musketeer,Skeletons,The Log": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 3
+  },
+  "Archer Queen,Berserker,Firecracker,Mega Knight,Royal Ghost,Skeleton Army,The Log,Vines": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Archer Queen,Arrows,Berserker,Goblin Gang,Mega Knight,Skeleton Army,The Log,Wall Breakers": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 4,
+    "F2P score": 0
+  },
+  "Fireball,Goblin Barrel,Goblin Gang,Ice Spirit,Inferno Tower,Knight,Princess,Rocket": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 3
+  },
+  "Bats,Dart Goblin,Goblin Gang,Ice Spirit,Mega Knight,Skeleton Barrel,Spear Goblins,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 4,
+    "Versatility": 5,
+    "F2P score": 5
+  },
+  "Arrows,Baby Dragon,Elixir Golem,Firecracker,Lumberjack,Night Witch,Rage,Wizard": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Bats,Boss Bandit,Fireball,Firecracker,Guards,Mega Knight,Musketeer,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Arrows,Boss Bandit,Firecracker,Mega Knight,Skeleton Army,Valkyrie,Witch,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 0,
+    "Versatility": 3,
+    "F2P score": 1
+  },
+  "Bats,Boss Bandit,Fireball,Ice Spirit,Mega Knight,Musketeer,Tombstone,Zap": {
+    "Attack": 2,
+    "Defense": 5,
+    "Synergy": 1,
+    "Versatility": 5,
+    "F2P score": 2
+  },
+  "Baby Dragon,Firecracker,Miner,Poison,Skeleton Army,The Log,Witch,Zap": {
+    "Attack": 3,
+    "Defense": 5,
+    "Synergy": 3,
+    "Versatility": 3,
+    "F2P score": 0
+  }
+}

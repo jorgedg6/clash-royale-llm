@@ -1,0 +1,10 @@
+pandas
+pydantic
+requests
+beautifulsoup4
+lxml
+aiohttp
+python-dotenv
+langchain-openai
+langchain-core
+openai

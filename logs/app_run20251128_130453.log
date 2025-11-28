@@ -1,0 +1,110 @@
+2025-11-28 13:04:53,926 - root - INFO - Logger configurado exitosamente.
+2025-11-28 13:04:53,927 - root - INFO - >>> INICIANDO FASE 2: EVALUACIÓN DECKSHOP
+2025-11-28 13:04:53,928 - root - INFO - Iniciando evaluación de decks desde ../results/generations_20251128_082528.jsonl...
+2025-11-28 13:04:53,928 - root - INFO - Caché cargado con 0 mazos únicos.
+2025-11-28 13:05:13,977 - root - INFO - Evaluados 10/894
+2025-11-28 13:05:36,980 - root - INFO - Evaluados 20/894
+2025-11-28 13:05:58,980 - root - INFO - Evaluados 30/894
+2025-11-28 13:06:19,068 - root - INFO - Evaluados 40/894
+2025-11-28 13:06:42,122 - root - INFO - Evaluados 50/894
+2025-11-28 13:06:47,859 - root - ERROR - Error obteniendo rating para Ice Spirit,Ice Wizard,Knight,Rocket,Skeletons,Tesla,The Log,X-Bow: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=IceWiz-IceSpirit-Rocket-Tesla-Log-Skellies-Knight
+2025-11-28 13:06:59,695 - root - ERROR - Error obteniendo rating para Balloon,Bats,Electro Wizard,Inferno Dragon,Lumberjack,Mega Knight,Tesla,Zap: HTTPSConnectionPool(host='www.deckshop.pro', port=443): Max retries exceeded with url: /check/?deck=Bats-Lumberjack-ElectroWizard-Tesla-InfernoDragon-Balloon-MegaKnight-Zap (Caused by ResponseError('too many 429 error responses'))
+2025-11-28 13:06:59,871 - root - ERROR - Error obteniendo rating para Archers,Bomber,Cannon,Ice Spirit,Knight,Musketeer,Royal Giant,The Log: HTTPSConnectionPool(host='www.deckshop.pro', port=443): Max retries exceeded with url: /check/?deck=Cannon-Log-Musk-Knight-IceSpirit-RG-Bomber-Archers (Caused by ResponseError('too many 429 error responses'))
+2025-11-28 13:07:14,052 - root - INFO - Evaluados 60/894
+2025-11-28 13:07:30,349 - root - ERROR - Error obteniendo rating para Goblin Barrel,Ice Golem,Mini Pekka,Minions,Mirror,Rocket,Skeleton Army,The Log: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Mirror-Barrel-Minions-Skarmy-Log-Rocket-IceGolem
+2025-11-28 13:07:35,392 - root - INFO - Evaluados 70/894
+2025-11-28 13:07:56,457 - root - INFO - Evaluados 80/894
+2025-11-28 13:08:22,876 - root - INFO - Evaluados 90/894
+2025-11-28 13:08:48,686 - root - INFO - Evaluados 100/894
+2025-11-28 13:09:09,320 - root - INFO - Evaluados 110/894
+2025-11-28 13:09:30,163 - root - INFO - Evaluados 120/894
+2025-11-28 13:09:40,315 - root - ERROR - Error obteniendo rating para Fireball,Firecracker,Ice Spirit,Knight,Knight,Mega Minion,The Log,Valkyrie: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Valk-Knight-Fireball-Firecracker-Log-MM-IceSpirit-Knight
+2025-11-28 13:09:50,407 - root - INFO - Evaluados 130/894
+2025-11-28 13:09:55,932 - root - INFO - Evaluados 140/894
+2025-11-28 13:10:16,335 - root - INFO - Evaluados 150/894
+2025-11-28 13:10:24,133 - root - INFO - Evaluados 160/894
+2025-11-28 13:10:46,035 - root - INFO - Evaluados 170/894
+2025-11-28 13:11:00,175 - root - INFO - Evaluados 180/894
+2025-11-28 13:11:20,505 - root - INFO - Evaluados 190/894
+2025-11-28 13:11:43,162 - root - INFO - Evaluados 200/894
+2025-11-28 13:11:51,874 - root - INFO - Evaluados 210/894
+2025-11-28 13:12:13,384 - root - INFO - Evaluados 220/894
+2025-11-28 13:12:29,567 - root - INFO - Evaluados 230/894
+2025-11-28 13:12:40,603 - root - INFO - Evaluados 240/894
+2025-11-28 13:12:54,064 - root - INFO - Evaluados 250/894
+2025-11-28 13:13:15,429 - root - INFO - Evaluados 260/894
+2025-11-28 13:13:23,534 - root - ERROR - Error obteniendo rating para Electro Wizard,Fireball,Ice Spirit,Knight,Skeletons,Tesla,The Log,X-Bow: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Tesla-eWiz-Log-IceSpirit-Skellies-Fireball-Knight
+2025-11-28 13:13:34,517 - root - INFO - Evaluados 270/894
+2025-11-28 13:13:55,785 - root - INFO - Evaluados 280/894
+2025-11-28 13:14:07,612 - root - INFO - Evaluados 290/894
+2025-11-28 13:14:10,822 - root - ERROR - Error obteniendo rating para Baby Dragon,Electro Wizard,Goblin Gang,Knight,Musketeer,Poison,Poison,Zap: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Poison-BabyD-eWiz-Musk-Poison-Zap-Knight-GobGang
+2025-11-28 13:14:12,161 - root - INFO - Evaluados 300/894
+2025-11-28 13:14:25,370 - root - INFO - Evaluados 310/894
+2025-11-28 13:14:32,639 - root - INFO - Evaluados 320/894
+2025-11-28 13:14:53,963 - root - INFO - Evaluados 330/894
+2025-11-28 13:15:01,260 - root - INFO - Evaluados 340/894
+2025-11-28 13:15:21,178 - root - INFO - Evaluados 350/894
+2025-11-28 13:15:40,221 - root - INFO - Evaluados 360/894
+2025-11-28 13:15:45,546 - root - INFO - Evaluados 370/894
+2025-11-28 13:15:56,205 - root - INFO - Evaluados 380/894
+2025-11-28 13:16:09,112 - root - INFO - Evaluados 390/894
+2025-11-28 13:16:19,039 - root - INFO - Evaluados 400/894
+2025-11-28 13:16:37,499 - root - INFO - Evaluados 410/894
+2025-11-28 13:17:05,423 - root - INFO - Evaluados 420/894
+2025-11-28 13:17:16,052 - root - INFO - Evaluados 430/894
+2025-11-28 13:17:16,555 - root - INFO - Evaluados 440/894
+2025-11-28 13:17:28,163 - root - INFO - Evaluados 450/894
+2025-11-28 13:17:39,212 - root - INFO - Evaluados 460/894
+2025-11-28 13:17:49,257 - root - INFO - Evaluados 470/894
+2025-11-28 13:18:08,215 - root - INFO - Evaluados 480/894
+2025-11-28 13:18:18,771 - root - INFO - Evaluados 490/894
+2025-11-28 13:18:23,908 - root - ERROR - Error obteniendo rating para Arrows,Arrows,Baby Dragon,Dark Prince,Knight,Mega Minion,Poison,Prince: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Arrows-Prince-Knight-BabyD-MM-DarkPrince-Arrows-Poison
+2025-11-28 13:18:35,003 - root - ERROR - Error obteniendo rating para Bandit,Battle Ram,Night Witch,P.E.K.K.A,Poison,Skeletons,Zap,Zap: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Bandit-PEKKA-Ram-Zap-NightWitch-Poison-Zap-Skellies
+2025-11-28 13:18:35,010 - root - INFO - Evaluados 500/894
+2025-11-28 13:18:45,679 - root - INFO - Evaluados 510/894
+2025-11-28 13:18:53,950 - root - INFO - Evaluados 520/894
+2025-11-28 13:19:06,267 - root - INFO - Evaluados 530/894
+2025-11-28 13:19:18,689 - root - INFO - Evaluados 540/894
+2025-11-28 13:19:36,827 - root - ERROR - Error obteniendo rating para Archers,Arrows,Arrows,Bomber,Fireball,Knight,Mini P.E.K.K.A,Wizard: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Arrows-Wiz-MP-Bomber-Knight-Archers-Arrows-Fireball
+2025-11-28 13:19:43,077 - root - INFO - Evaluados 550/894
+2025-11-28 13:19:47,943 - root - INFO - Evaluados 560/894
+2025-11-28 13:19:57,106 - root - ERROR - Error obteniendo rating para Archers,Fireball,Firecracker,Knight,Knight,Mega Minion,The Log,Valkyrie: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Valk-Knight-Fireball-Firecracker-MM-Log-Knight-Archers
+2025-11-28 13:20:07,318 - root - INFO - Evaluados 570/894
+2025-11-28 13:20:26,870 - root - INFO - Evaluados 580/894
+2025-11-28 13:20:32,379 - root - INFO - Evaluados 590/894
+2025-11-28 13:20:46,111 - root - INFO - Evaluados 600/894
+2025-11-28 13:20:52,270 - root - INFO - Evaluados 610/894
+2025-11-28 13:20:58,908 - root - INFO - Evaluados 620/894
+2025-11-28 13:21:18,261 - root - INFO - Evaluados 630/894
+2025-11-28 13:21:24,410 - root - INFO - Evaluados 640/894
+2025-11-28 13:21:43,758 - root - INFO - Evaluados 650/894
+2025-11-28 13:22:00,253 - root - INFO - Evaluados 660/894
+2025-11-28 13:22:11,924 - root - INFO - Evaluados 670/894
+2025-11-28 13:22:20,110 - root - INFO - Evaluados 680/894
+2025-11-28 13:22:24,414 - root - INFO - Evaluados 690/894
+2025-11-28 13:22:44,728 - root - INFO - Evaluados 700/894
+2025-11-28 13:22:50,375 - root - INFO - Evaluados 710/894
+2025-11-28 13:23:02,912 - root - INFO - Evaluados 720/894
+2025-11-28 13:23:23,908 - root - INFO - Evaluados 730/894
+2025-11-28 13:23:27,543 - root - INFO - Evaluados 740/894
+2025-11-28 13:23:38,592 - root - INFO - Evaluados 750/894
+2025-11-28 13:23:48,078 - root - INFO - Evaluados 760/894
+2025-11-28 13:24:00,448 - root - INFO - Evaluados 770/894
+2025-11-28 13:24:12,031 - root - INFO - Evaluados 780/894
+2025-11-28 13:24:32,288 - root - INFO - Evaluados 790/894
+2025-11-28 13:24:38,220 - root - INFO - Evaluados 800/894
+2025-11-28 13:24:48,302 - root - ERROR - Error obteniendo rating para Archers,Fireball,Ice Spirit,Knight,Skeletons,Tesla,The Log,X-Bow: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Archers-Fireball-Log-Skellies-Knight-IceSpirit-Tesla
+2025-11-28 13:24:50,851 - root - INFO - Evaluados 810/894
+2025-11-28 13:24:54,855 - root - INFO - Evaluados 820/894
+2025-11-28 13:24:58,342 - root - INFO - Evaluados 830/894
+2025-11-28 13:25:20,753 - root - INFO - Evaluados 840/894
+2025-11-28 13:25:34,496 - root - INFO - Evaluados 850/894
+2025-11-28 13:25:39,004 - root - INFO - Evaluados 860/894
+2025-11-28 13:25:40,235 - root - ERROR - Error obteniendo rating para Archers,Fireball,Ice Spirit,Knight,Skeletons,Tesla,The Log,X-Bow: 404 Client Error: Not Found for url: https://www.deckshop.pro/check/?deck=Archers-Fireball-Log-Skellies-Knight-IceSpirit-Tesla
+2025-11-28 13:25:43,356 - root - INFO - Evaluados 870/894
+2025-11-28 13:25:47,129 - root - INFO - Evaluados 880/894
+2025-11-28 13:25:57,053 - root - INFO - Evaluados 890/894
+2025-11-28 13:26:08,803 - root - INFO - Evaluados 894/894
+2025-11-28 13:26:09,314 - root - INFO - Evaluación finalizada y caché guardado.
+2025-11-28 13:26:09,322 - root - INFO - Proceso de rating completado. 
+Ratings guardados en: deck_shop_ratings_20251128_130453.jsonl
