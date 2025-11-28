@@ -140,14 +140,28 @@ async def run_rating_pipeline(input_filename: str, output_filename: str):
 
         result = {"execution_id": eid, "was_improved": False}
         
-        if record.get("is_parsed") and record.get("parsed_selection"):
+        # --- BLOQUE CORREGIDO ---
+        parsed_data = record.get("parsed_selection")
+        selection_part = []
+
+        if isinstance(parsed_data, list):
+            # CASO A: Es directamente una lista (como en tu ejemplo del log)
+            selection_part = parsed_data
+        elif isinstance(parsed_data, dict):
+            # CASO B: Es un diccionario {"selection": [...]}
+            selection_part = parsed_data.get("selection", [])
+        
+        # Limpieza final: asegurar que sea una lista válida
+        if not isinstance(selection_part, list):
+            selection_part = []
+        # ------------------------
+
+        if record.get("is_parsed") and selection_part:
             try:
-                # --- CORRECCIÓN LÓGICA Y CONCATENACIÓN ---
                 # Aseguramos que sean listas antes de sumar
                 original_base = record["original_deck"] if isinstance(record["original_deck"], list) else []
                 deleted_part = record["deleted_cards"] if isinstance(record["deleted_cards"], list) else []
-                selection_part = record["parsed_selection"]["selection"] if isinstance(record["parsed_selection"]["selection"], list) else []
-
+                
                 # Mazo Original Completo (Base + Lo que se borró)
                 original_full = original_base + deleted_part
                 
@@ -155,7 +169,6 @@ async def run_rating_pipeline(input_filename: str, output_filename: str):
                 new_full = original_base + selection_part
 
                 if len(new_full) == 8:
-                    # Obtenemos ratings (usando caché o fetch)
                     scores_orig, _ = await get_rating_data(original_full)
                     scores_new, used_cache = await get_rating_data(new_full)
                     
