@@ -1,0 +1,21 @@
+2025-11-28 01:26:24,983 - root - INFO - Logger configurado exitosamente.
+2025-11-28 01:26:25,034 - root - INFO - >>> INICIANDO FASE 1: GENERACIÓN LLM
+2025-11-28 01:26:26,014 - root - INFO - Procesando 2 usuarios (Rango: 0-2).
+2025-11-28 01:26:26,014 - root - ERROR - Error construyendo prompt para VL0QCY9R8: 'AVAILABLE_CARDS'
+2025-11-28 01:26:26,015 - root - ERROR - Error construyendo prompt para VL0QCY9R8: 'AVAILABLE_CARDS'
+2025-11-28 01:26:26,015 - root - ERROR - Error construyendo prompt para VL0QCY9R8: 'AVAILABLE_CARDS'
+2025-11-28 01:26:26,015 - root - ERROR - Error construyendo prompt para VL0QCY9R8: 'AVAILABLE_CARDS'
+2025-11-28 01:26:26,016 - root - ERROR - Error construyendo prompt para VL0QCY9R8: 'AVAILABLE_CARDS'
+2025-11-28 01:26:26,016 - root - ERROR - Error construyendo prompt para L0092LLGP: 'AVAILABLE_CARDS'
+2025-11-28 01:26:26,016 - root - ERROR - Error construyendo prompt para L0092LLGP: 'AVAILABLE_CARDS'
+2025-11-28 01:26:26,016 - root - ERROR - Error construyendo prompt para L0092LLGP: 'AVAILABLE_CARDS'
+2025-11-28 01:26:26,017 - root - ERROR - Error construyendo prompt para L0092LLGP: 'AVAILABLE_CARDS'
+2025-11-28 01:26:26,017 - root - ERROR - Error construyendo prompt para L0092LLGP: 'AVAILABLE_CARDS'
+2025-11-28 01:26:26,017 - root - INFO - Total de tareas generadas: 0
+2025-11-28 01:26:26,017 - root - INFO - Pipeline de generación finalizado. Resultados en: results/generations_20251128_012625.jsonl
+2025-11-28 01:26:26,031 - root - INFO - >>> INICIANDO FASE 2: EVALUACIÓN DECKSHOP
+2025-11-28 01:26:26,031 - root - INFO - Iniciando evaluación de decks desde results/generations_20251128_012625.jsonl...
+2025-11-28 01:26:26,031 - root - ERROR - No existe el archivo de generación.
+2025-11-28 01:26:26,032 - root - INFO - Proceso completo. 
+Generación: results/generations_20251128_012625.jsonl 
+Ratings: results/ratings_20251128_012625.jsonl

@@ -1,0 +1,24 @@
+2025-11-28 08:25:28,756 - root - INFO - Logger configurado exitosamente.
+2025-11-28 08:25:28,801 - root - INFO - >>> INICIANDO FASE 1: GENERACIÓN LLM
+2025-11-28 08:25:28,801 - root - INFO - Analizando historial para evitar duplicados desde: results/generations_20251128_015832.jsonl
+2025-11-28 08:25:28,814 - root - INFO - -> Se encontraron 884 tareas ya realizadas.
+2025-11-28 08:25:28,814 - root - INFO - Copiando contenido de 'results/generations_20251128_015832.jsonl' al inicio de 'results/generations_20251128_082528.jsonl'...
+2025-11-28 08:25:28,816 - root - INFO - Copia exitosa. Los nuevos datos se agregarán al final.
+2025-11-28 08:25:29,847 - root - INFO - Procesando rango de usuarios 0-300 (300 usuarios).
+2025-11-28 08:25:30,031 - root - INFO - --- RESUMEN DE TAREAS ---
+2025-11-28 08:25:30,031 - root - INFO - Tareas omitidas (ya en historial): 884
+2025-11-28 08:25:30,031 - root - INFO - Tareas nuevas a ejecutar: 5116
+2025-11-28 08:25:30,032 - root - INFO - Batch 1/512 (Size: 10)
+2025-11-28 08:25:36,215 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-28 08:25:38,230 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-28 08:25:38,289 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-28 08:25:38,849 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-28 08:25:39,525 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-28 08:25:41,701 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/DeepSeek-V3.1/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-28 08:25:43,549 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-28 08:25:43,751 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-28 08:25:48,296 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+2025-11-28 08:25:54,149 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/Llama-3.3-70B-Instruct/chat/completions?api-version=2024-05-01-preview "HTTP/1.1 200 OK"
+2025-11-28 08:25:54,654 - root - INFO - Batch 2/512 (Size: 10)
+2025-11-28 08:25:55,478 - httpx - INFO - HTTP Request: POST https://victo-mhcmsfx4-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-11-28 08:25:55,480 - openai._base_client - INFO - Retrying request to /chat/completions in 36.000000 seconds

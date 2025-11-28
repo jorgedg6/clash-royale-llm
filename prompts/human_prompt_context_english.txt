@@ -1,10 +1,10 @@
 <Prompt>
   <Inputs>
     <Variable name="AVAILABLE_CARDS" type="array[string]">
-      $AVAILABLE_CARDS%
+      $CARTAS_DISPONIBLES%
     </Variable>
     <Variable name="SELECTED_CARDS" type="array[string]">
-      $SELECTED_CARDS%
+      $CARTAS_SELECCIONADAS%
     </Variable>
   </Inputs>
 
